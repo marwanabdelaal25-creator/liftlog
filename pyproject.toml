@@ -1,0 +1,57 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "liftlog"
+version = "1.2.0"
+description = "A strength-training log CLI — sets, estimated 1RM, plate math, PRs, one JSON file"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Marwan Helmy", email = "marwanabdelaal25@gmail.com" }]
+requires-python = ">=3.9"
+keywords = ["cli", "strength", "weightlifting", "1rm", "gym", "powerlifting"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Environment :: Console",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "pytest-cov>=4", "ruff>=0.6"]
+
+[project.scripts]
+liftlog = "liftlog.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+liftlog = ["py.typed"]
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = ["-ra"]
+
+[tool.coverage.run]
+source = ["src/liftlog"]
+omit = ["src/liftlog/__main__.py"]
+
+[tool.coverage.report]
+fail_under = 95
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "W"]
+ignore = ["E501", "E731"]
