@@ -1,0 +1,710 @@
+{
+  "source": "strong",
+  "version": 2,
+  "sets": [
+    {
+      "date": "2023-02-06 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Pull-up",
+      "weight": 71.7,
+      "reps": 9,
+      "rpe": 8
+    },
+    {
+      "date": "2025-10-07 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Front Squat",
+      "weight": 107.4,
+      "reps": 2,
+      "rpe": 9
+    },
+    {
+      "date": "2021-08-10 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Romanian Deadlift",
+      "weight": 151.9,
+      "reps": 9,
+      "rpe": 8
+    },
+    {
+      "date": "2019-02-22 18:00:00",
+      "workout": "Lower",
+      "exercise": "Front Squat",
+      "weight": 62.9,
+      "reps": 2,
+      "rpe": 9.5
+    },
+    {
+      "date": "2025-10-02 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Front Squat",
+      "weight": 64.5,
+      "reps": 4,
+      "rpe": 9.5
+    },
+    {
+      "date": "2025-11-03 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Romanian Deadlift",
+      "weight": 151.6,
+      "reps": 10,
+      "rpe": 7
+    },
+    {
+      "date": "2024-04-19 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Romanian Deadlift",
+      "weight": 208.8,
+      "reps": 12,
+      "rpe": 7
+    },
+    {
+      "date": "2020-10-22 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Back Squat",
+      "weight": 134.5,
+      "reps": 9,
+      "rpe": 8.5
+    },
+    {
+      "date": "2025-01-14 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Bench Press",
+      "weight": 157.3,
+      "reps": 1,
+      "rpe": ""
+    },
+    {
+      "date": "2022-03-17 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Dip",
+      "weight": 178.6,
+      "reps": 8,
+      "rpe": 7
+    },
+    {
+      "date": "2022-03-18 18:00:00",
+      "workout": "Upper",
+      "exercise": "Pull-up",
+      "weight": 91.6,
+      "reps": 11,
+      "rpe": 8.5
+    },
+    {
+      "date": "2023-05-11 18:00:00",
+      "workout": "Lower",
+      "exercise": "Romanian Deadlift",
+      "weight": 180.2,
+      "reps": 7,
+      "rpe": 9
+    },
+    {
+      "date": "2024-01-14 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Deadlift",
+      "weight": 66.2,
+      "reps": 10,
+      "rpe": 8.5
+    },
+    {
+      "date": "2024-02-27 18:00:00",
+      "workout": "Lower",
+      "exercise": "Front Squat",
+      "weight": 196.5,
+      "reps": 3,
+      "rpe": 9
+    },
+    {
+      "date": "2023-01-07 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Front Squat",
+      "weight": 126.1,
+      "reps": 7,
+      "rpe": 9
+    },
+    {
+      "date": "2022-05-19 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Overhead Press",
+      "weight": 56.4,
+      "reps": 1,
+      "rpe": 8.5
+    },
+    {
+      "date": "2021-04-28 18:00:00",
+      "workout": "Upper",
+      "exercise": "Incline Bench Press",
+      "weight": 48.4,
+      "reps": 10,
+      "rpe": 7
+    },
+    {
+      "date": "2024-12-07 18:00:00",
+      "workout": "Upper",
+      "exercise": "Bench Press",
+      "weight": 29.9,
+      "reps": 1,
+      "rpe": 8
+    },
+    {
+      "date": "2020-05-01 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Bench Press",
+      "weight": 103.8,
+      "reps": 10,
+      "rpe": 8
+    },
+    {
+      "date": "2022-09-08 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Bench Press",
+      "weight": 76.1,
+      "reps": 12,
+      "rpe": 9
+    },
+    {
+      "date": "2020-05-20 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Pull-up",
+      "weight": 156.5,
+      "reps": 10,
+      "rpe": 9.5
+    },
+    {
+      "date": "2023-05-19 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Bench Press",
+      "weight": 43.7,
+      "reps": 9,
+      "rpe": ""
+    },
+    {
+      "date": "2025-07-21 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Deadlift",
+      "weight": 36.5,
+      "reps": 5,
+      "rpe": 8
+    },
+    {
+      "date": "2025-06-17 18:00:00",
+      "workout": "Lower",
+      "exercise": "Bench Press",
+      "weight": 74.0,
+      "reps": 5,
+      "rpe": 9
+    },
+    {
+      "date": "2025-01-23 18:00:00",
+      "workout": "Lower",
+      "exercise": "Front Squat",
+      "weight": 70.7,
+      "reps": 3,
+      "rpe": 8.5
+    },
+    {
+      "date": "2022-05-12 18:00:00",
+      "workout": "Upper",
+      "exercise": "Back Squat",
+      "weight": 107.6,
+      "reps": 5,
+      "rpe": 9
+    },
+    {
+      "date": "2024-10-09 18:00:00",
+      "workout": "Upper",
+      "exercise": "Pull-up",
+      "weight": 136.3,
+      "reps": 6,
+      "rpe": 8
+    },
+    {
+      "date": "2022-10-27 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Dip",
+      "weight": 158.8,
+      "reps": 12,
+      "rpe": 8.5
+    },
+    {
+      "date": "2023-12-04 18:00:00",
+      "workout": "Lower",
+      "exercise": "Bench Press",
+      "weight": 105.9,
+      "reps": 4,
+      "rpe": 9
+    },
+    {
+      "date": "2020-02-17 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Dip",
+      "weight": 71.9,
+      "reps": 5,
+      "rpe": 7
+    },
+    {
+      "date": "2023-10-22 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Bench Press",
+      "weight": 36.4,
+      "reps": 6,
+      "rpe": 9
+    },
+    {
+      "date": "2022-02-26 18:00:00",
+      "workout": "Lower",
+      "exercise": "Incline Bench Press",
+      "weight": 143.1,
+      "reps": 11,
+      "rpe": ""
+    },
+    {
+      "date": "2024-11-21 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Front Squat",
+      "weight": 75.7,
+      "reps": 6,
+      "rpe": ""
+    },
+    {
+      "date": "2023-10-10 18:00:00",
+      "workout": "Upper",
+      "exercise": "Incline Bench Press",
+      "weight": 37.2,
+      "reps": 3,
+      "rpe": 9.5
+    },
+    {
+      "date": "2023-05-08 18:00:00",
+      "workout": "Lower",
+      "exercise": "Front Squat",
+      "weight": 42.4,
+      "reps": 9,
+      "rpe": 8
+    },
+    {
+      "date": "2025-01-20 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Incline Bench Press",
+      "weight": 113.5,
+      "reps": 7,
+      "rpe": ""
+    },
+    {
+      "date": "2023-06-10 18:00:00",
+      "workout": "Lower",
+      "exercise": "Incline Bench Press",
+      "weight": 210.6,
+      "reps": 6,
+      "rpe": 7
+    },
+    {
+      "date": "2022-02-01 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Pull-up",
+      "weight": 202.0,
+      "reps": 9,
+      "rpe": 8
+    },
+    {
+      "date": "2025-10-16 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Back Squat",
+      "weight": 97.8,
+      "reps": 9,
+      "rpe": 8.5
+    },
+    {
+      "date": "2023-09-17 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Pull-up",
+      "weight": 162.2,
+      "reps": 2,
+      "rpe": 7
+    },
+    {
+      "date": "2019-09-08 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Pull-up",
+      "weight": 130.5,
+      "reps": 8,
+      "rpe": 8.5
+    },
+    {
+      "date": "2025-07-01 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Bench Press",
+      "weight": 168.6,
+      "reps": 7,
+      "rpe": 8.5
+    },
+    {
+      "date": "2022-10-06 18:00:00",
+      "workout": "Lower",
+      "exercise": "Barbell Row",
+      "weight": 81.4,
+      "reps": 6,
+      "rpe": 8
+    },
+    {
+      "date": "2019-04-26 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Front Squat",
+      "weight": 34.7,
+      "reps": 1,
+      "rpe": 9.5
+    },
+    {
+      "date": "2021-02-02 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Incline Bench Press",
+      "weight": 124.7,
+      "reps": 9,
+      "rpe": 9
+    },
+    {
+      "date": "2020-10-06 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Incline Bench Press",
+      "weight": 117.1,
+      "reps": 5,
+      "rpe": 9
+    },
+    {
+      "date": "2021-10-09 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Front Squat",
+      "weight": 25.1,
+      "reps": 12,
+      "rpe": 7
+    },
+    {
+      "date": "2023-06-23 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Incline Bench Press",
+      "weight": 180.8,
+      "reps": 11,
+      "rpe": 7
+    },
+    {
+      "date": "2019-07-23 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Pull-up",
+      "weight": 133.1,
+      "reps": 11,
+      "rpe": 8.5
+    },
+    {
+      "date": "2021-01-24 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Overhead Press",
+      "weight": 129.6,
+      "reps": 12,
+      "rpe": 8.5
+    },
+    {
+      "date": "2020-02-05 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Front Squat",
+      "weight": 121.1,
+      "reps": 3,
+      "rpe": 9.5
+    },
+    {
+      "date": "2021-04-05 18:00:00",
+      "workout": "Lower",
+      "exercise": "Front Squat",
+      "weight": 91.9,
+      "reps": 12,
+      "rpe": ""
+    },
+    {
+      "date": "2021-12-11 18:00:00",
+      "workout": "Lower",
+      "exercise": "Barbell Row",
+      "weight": 170.1,
+      "reps": 7,
+      "rpe": 8.5
+    },
+    {
+      "date": "2025-06-16 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Dip",
+      "weight": 165.9,
+      "reps": 6,
+      "rpe": 9.5
+    },
+    {
+      "date": "2020-10-13 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Barbell Row",
+      "weight": 148.9,
+      "reps": 11,
+      "rpe": 9.5
+    },
+    {
+      "date": "2019-04-21 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Barbell Row",
+      "weight": 23.0,
+      "reps": 8,
+      "rpe": 8.5
+    },
+    {
+      "date": "2021-11-22 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Incline Bench Press",
+      "weight": 83.8,
+      "reps": 10,
+      "rpe": 9.5
+    },
+    {
+      "date": "2020-03-10 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Front Squat",
+      "weight": 173.2,
+      "reps": 10,
+      "rpe": ""
+    },
+    {
+      "date": "2024-07-24 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Deadlift",
+      "weight": 74.0,
+      "reps": 11,
+      "rpe": 8.5
+    },
+    {
+      "date": "2025-09-22 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Barbell Row",
+      "weight": 118.0,
+      "reps": 7,
+      "rpe": 9.5
+    },
+    {
+      "date": "2019-12-19 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Pull-up",
+      "weight": 116.6,
+      "reps": 8,
+      "rpe": 8.5
+    },
+    {
+      "date": "2021-08-28 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Incline Bench Press",
+      "weight": 56.7,
+      "reps": 2,
+      "rpe": 8
+    },
+    {
+      "date": "2025-06-01 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Deadlift",
+      "weight": 153.2,
+      "reps": 5,
+      "rpe": 9
+    },
+    {
+      "date": "2019-02-10 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Overhead Press",
+      "weight": 43.7,
+      "reps": 3,
+      "rpe": 7
+    },
+    {
+      "date": "2025-07-16 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Front Squat",
+      "weight": 161.9,
+      "reps": 7,
+      "rpe": 9.5
+    },
+    {
+      "date": "2022-02-02 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Back Squat",
+      "weight": 45.3,
+      "reps": 3,
+      "rpe": ""
+    },
+    {
+      "date": "2020-10-09 18:00:00",
+      "workout": "Upper",
+      "exercise": "Pull-up",
+      "weight": 122.6,
+      "reps": 10,
+      "rpe": 7
+    },
+    {
+      "date": "2022-08-17 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Bench Press",
+      "weight": 204.6,
+      "reps": 9,
+      "rpe": 9
+    },
+    {
+      "date": "2024-05-08 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Incline Bench Press",
+      "weight": 103.1,
+      "reps": 12,
+      "rpe": 7
+    },
+    {
+      "date": "2019-01-23 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Barbell Row",
+      "weight": 134.1,
+      "reps": 4,
+      "rpe": 8.5
+    },
+    {
+      "date": "2024-12-20 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Romanian Deadlift",
+      "weight": 63.7,
+      "reps": 3,
+      "rpe": 7
+    },
+    {
+      "date": "2024-03-02 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Overhead Press",
+      "weight": 74.1,
+      "reps": 11,
+      "rpe": 9.5
+    },
+    {
+      "date": "2025-07-20 18:00:00",
+      "workout": "Upper",
+      "exercise": "Pull-up",
+      "weight": 130.8,
+      "reps": 9,
+      "rpe": 9.5
+    },
+    {
+      "date": "2023-12-27 18:00:00",
+      "workout": "Upper",
+      "exercise": "Bench Press",
+      "weight": 69.2,
+      "reps": 1,
+      "rpe": 7
+    },
+    {
+      "date": "2025-08-02 18:00:00",
+      "workout": "Upper",
+      "exercise": "Pull-up",
+      "weight": 138.2,
+      "reps": 11,
+      "rpe": 7
+    },
+    {
+      "date": "2024-11-26 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Overhead Press",
+      "weight": 85.3,
+      "reps": 9,
+      "rpe": 9.5
+    },
+    {
+      "date": "2021-04-28 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Barbell Row",
+      "weight": 102.8,
+      "reps": 11,
+      "rpe": 8.5
+    },
+    {
+      "date": "2021-08-06 18:00:00",
+      "workout": "Upper",
+      "exercise": "Overhead Press",
+      "weight": 108.9,
+      "reps": 5,
+      "rpe": 8
+    },
+    {
+      "date": "2024-03-03 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Bench Press",
+      "weight": 180.6,
+      "reps": 6,
+      "rpe": 8.5
+    },
+    {
+      "date": "2023-06-12 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Bench Press",
+      "weight": 132.5,
+      "reps": 5,
+      "rpe": 9.5
+    },
+    {
+      "date": "2025-01-12 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Pull-up",
+      "weight": 137.2,
+      "reps": 11,
+      "rpe": ""
+    },
+    {
+      "date": "2022-02-06 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Pull-up",
+      "weight": 181.6,
+      "reps": 7,
+      "rpe": 8
+    },
+    {
+      "date": "2020-09-09 18:00:00",
+      "workout": "Lower",
+      "exercise": "Romanian Deadlift",
+      "weight": 209.8,
+      "reps": 4,
+      "rpe": 9
+    },
+    {
+      "date": "2019-11-05 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Bench Press",
+      "weight": 90.7,
+      "reps": 6,
+      "rpe": 9.5
+    },
+    {
+      "date": "2021-05-22 18:00:00",
+      "workout": "Lower",
+      "exercise": "Front Squat",
+      "weight": 182.4,
+      "reps": 12,
+      "rpe": 9.5
+    },
+    {
+      "date": "2020-12-07 18:00:00",
+      "workout": "Lower",
+      "exercise": "Front Squat",
+      "weight": 130.8,
+      "reps": 6,
+      "rpe": ""
+    },
+    {
+      "date": "2020-08-28 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Dip",
+      "weight": 128.9,
+      "reps": 9,
+      "rpe": ""
+    },
+    {
+      "date": "2020-04-08 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Romanian Deadlift",
+      "weight": 129.5,
+      "reps": 4,
+      "rpe": 8
+    }
+  ]
+}

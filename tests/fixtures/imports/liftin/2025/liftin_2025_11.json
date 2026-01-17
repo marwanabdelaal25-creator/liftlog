@@ -1,0 +1,286 @@
+{
+  "source": "liftin",
+  "version": 2,
+  "sets": [
+    {
+      "date": "2020-02-23 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Deadlift",
+      "weight": 77.1,
+      "reps": 5,
+      "rpe": ""
+    },
+    {
+      "date": "2020-02-10 18:00:00",
+      "workout": "Upper",
+      "exercise": "Pull-up",
+      "weight": 91.1,
+      "reps": 12,
+      "rpe": 7
+    },
+    {
+      "date": "2023-01-10 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Back Squat",
+      "weight": 67.2,
+      "reps": 7,
+      "rpe": 7
+    },
+    {
+      "date": "2019-03-17 18:00:00",
+      "workout": "Upper",
+      "exercise": "Barbell Row",
+      "weight": 85.1,
+      "reps": 2,
+      "rpe": 9
+    },
+    {
+      "date": "2020-02-20 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Romanian Deadlift",
+      "weight": 80.6,
+      "reps": 12,
+      "rpe": 7
+    },
+    {
+      "date": "2022-12-20 18:00:00",
+      "workout": "Upper",
+      "exercise": "Barbell Row",
+      "weight": 141.8,
+      "reps": 2,
+      "rpe": 9
+    },
+    {
+      "date": "2024-07-22 18:00:00",
+      "workout": "Lower",
+      "exercise": "Pull-up",
+      "weight": 129.4,
+      "reps": 12,
+      "rpe": 7
+    },
+    {
+      "date": "2024-11-25 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Back Squat",
+      "weight": 144.0,
+      "reps": 2,
+      "rpe": ""
+    },
+    {
+      "date": "2020-10-16 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Pull-up",
+      "weight": 47.4,
+      "reps": 11,
+      "rpe": ""
+    },
+    {
+      "date": "2025-08-05 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Overhead Press",
+      "weight": 34.0,
+      "reps": 10,
+      "rpe": ""
+    },
+    {
+      "date": "2019-10-09 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Bench Press",
+      "weight": 157.1,
+      "reps": 10,
+      "rpe": 9
+    },
+    {
+      "date": "2021-04-05 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Deadlift",
+      "weight": 195.0,
+      "reps": 10,
+      "rpe": 9
+    },
+    {
+      "date": "2022-04-06 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Pull-up",
+      "weight": 182.8,
+      "reps": 3,
+      "rpe": 9
+    },
+    {
+      "date": "2019-07-15 18:00:00",
+      "workout": "Upper",
+      "exercise": "Bench Press",
+      "weight": 156.8,
+      "reps": 11,
+      "rpe": 7
+    },
+    {
+      "date": "2022-12-27 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Romanian Deadlift",
+      "weight": 146.6,
+      "reps": 10,
+      "rpe": 7
+    },
+    {
+      "date": "2020-11-07 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Dip",
+      "weight": 56.5,
+      "reps": 7,
+      "rpe": 8.5
+    },
+    {
+      "date": "2023-04-06 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Overhead Press",
+      "weight": 32.3,
+      "reps": 6,
+      "rpe": 9.5
+    },
+    {
+      "date": "2024-09-13 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Front Squat",
+      "weight": 160.8,
+      "reps": 10,
+      "rpe": 8.5
+    },
+    {
+      "date": "2024-10-07 18:00:00",
+      "workout": "Upper",
+      "exercise": "Dip",
+      "weight": 196.6,
+      "reps": 7,
+      "rpe": 7
+    },
+    {
+      "date": "2024-06-25 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Deadlift",
+      "weight": 72.2,
+      "reps": 3,
+      "rpe": 9
+    },
+    {
+      "date": "2024-07-16 18:00:00",
+      "workout": "Upper",
+      "exercise": "Pull-up",
+      "weight": 128.3,
+      "reps": 10,
+      "rpe": 8
+    },
+    {
+      "date": "2023-05-09 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Front Squat",
+      "weight": 92.5,
+      "reps": 8,
+      "rpe": 9.5
+    },
+    {
+      "date": "2024-11-21 18:00:00",
+      "workout": "Upper",
+      "exercise": "Back Squat",
+      "weight": 76.2,
+      "reps": 9,
+      "rpe": ""
+    },
+    {
+      "date": "2024-12-07 18:00:00",
+      "workout": "Upper",
+      "exercise": "Pull-up",
+      "weight": 48.9,
+      "reps": 2,
+      "rpe": 8.5
+    },
+    {
+      "date": "2023-08-26 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Incline Bench Press",
+      "weight": 53.1,
+      "reps": 6,
+      "rpe": 9
+    },
+    {
+      "date": "2023-01-26 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Dip",
+      "weight": 53.0,
+      "reps": 2,
+      "rpe": 8
+    },
+    {
+      "date": "2023-05-14 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Incline Bench Press",
+      "weight": 182.9,
+      "reps": 9,
+      "rpe": 8
+    },
+    {
+      "date": "2021-09-25 18:00:00",
+      "workout": "Lower",
+      "exercise": "Pull-up",
+      "weight": 167.0,
+      "reps": 9,
+      "rpe": ""
+    },
+    {
+      "date": "2019-06-15 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Overhead Press",
+      "weight": 99.3,
+      "reps": 9,
+      "rpe": ""
+    },
+    {
+      "date": "2023-02-21 18:00:00",
+      "workout": "Upper",
+      "exercise": "Pull-up",
+      "weight": 195.1,
+      "reps": 12,
+      "rpe": 8
+    },
+    {
+      "date": "2021-07-18 18:00:00",
+      "workout": "Upper",
+      "exercise": "Romanian Deadlift",
+      "weight": 219.3,
+      "reps": 9,
+      "rpe": 8
+    },
+    {
+      "date": "2021-01-11 18:00:00",
+      "workout": "Upper",
+      "exercise": "Deadlift",
+      "weight": 25.3,
+      "reps": 9,
+      "rpe": 7
+    },
+    {
+      "date": "2023-04-09 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Overhead Press",
+      "weight": 186.0,
+      "reps": 8,
+      "rpe": ""
+    },
+    {
+      "date": "2020-05-28 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Front Squat",
+      "weight": 180.4,
+      "reps": 11,
+      "rpe": ""
+    },
+    {
+      "date": "2024-05-03 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Romanian Deadlift",
+      "weight": 52.4,
+      "reps": 9,
+      "rpe": ""
+    }
+  ]
+}

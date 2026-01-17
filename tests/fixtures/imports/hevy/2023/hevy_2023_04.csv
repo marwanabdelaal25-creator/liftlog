@@ -1,0 +1,45 @@
+title,start_time,exercise_title,set_index,weight_kg,reps,rpe
+Leg Day,2021-04-01 18:00:00,Front Squat,0,205.2,8,
+Leg Day,2019-06-20 18:00:00,Front Squat,1,144.4,6,8
+Pull Day,2021-03-17 18:00:00,Deadlift,2,183.5,2,7
+Pull Day,2025-03-09 18:00:00,Front Squat,3,199.7,2,7
+Leg Day,2025-09-18 18:00:00,Barbell Row,4,196.0,2,9.5
+Push Day,2021-08-15 18:00:00,Front Squat,0,67.0,9,9
+Upper,2019-11-02 18:00:00,Front Squat,1,46.1,6,8.5
+Lower,2022-09-15 18:00:00,Barbell Row,2,87.5,3,9
+Leg Day,2021-01-28 18:00:00,Bench Press,3,91.8,4,
+Lower,2019-03-08 18:00:00,Deadlift,4,58.5,7,8.5
+Pull Day,2024-10-22 18:00:00,Barbell Row,0,34.7,1,8.5
+Leg Day,2023-07-03 18:00:00,Front Squat,1,85.3,7,
+Push Day,2021-09-12 18:00:00,Dip,2,103.2,10,
+Pull Day,2020-05-19 18:00:00,Overhead Press,3,145.7,9,8
+Pull Day,2023-11-18 18:00:00,Incline Bench Press,4,35.7,3,9.5
+Leg Day,2021-12-19 18:00:00,Romanian Deadlift,0,71.0,5,
+Full Body,2019-08-25 18:00:00,Overhead Press,1,202.2,8,
+Leg Day,2019-10-25 18:00:00,Pull-up,2,147.0,4,8.5
+Lower,2025-11-05 18:00:00,Back Squat,3,216.6,6,7
+Full Body,2025-10-02 18:00:00,Deadlift,4,185.1,1,8.5
+Lower,2025-09-07 18:00:00,Back Squat,0,127.0,5,
+Pull Day,2021-04-24 18:00:00,Dip,1,203.5,7,8.5
+Upper,2025-02-08 18:00:00,Back Squat,2,125.9,8,
+Push Day,2021-05-19 18:00:00,Pull-up,3,84.8,12,
+Lower,2022-03-14 18:00:00,Romanian Deadlift,4,153.6,1,8.5
+Leg Day,2024-11-04 18:00:00,Romanian Deadlift,0,153.0,3,8.5
+Lower,2020-06-24 18:00:00,Deadlift,1,60.2,5,
+Full Body,2021-10-21 18:00:00,Bench Press,2,91.8,10,9.5
+Upper,2025-03-03 18:00:00,Overhead Press,3,219.1,9,8.5
+Upper,2021-01-18 18:00:00,Front Squat,4,67.1,6,
+Lower,2023-09-02 18:00:00,Incline Bench Press,0,202.9,7,
+Full Body,2025-01-05 18:00:00,Back Squat,1,214.6,2,9
+Upper,2025-05-07 18:00:00,Dip,2,172.0,10,9
+Pull Day,2024-08-22 18:00:00,Back Squat,3,89.4,11,
+Pull Day,2021-01-16 18:00:00,Back Squat,4,191.5,9,
+Upper,2024-03-22 18:00:00,Back Squat,0,82.3,5,8
+Upper,2021-01-25 18:00:00,Back Squat,1,207.7,7,9
+Leg Day,2020-08-09 18:00:00,Romanian Deadlift,2,157.0,3,9
+Leg Day,2022-03-09 18:00:00,Pull-up,3,150.1,4,9.5
+Full Body,2022-09-27 18:00:00,Bench Press,4,110.6,11,9
+Full Body,2022-10-11 18:00:00,Back Squat,0,125.5,7,9.5
+Lower,2024-03-22 18:00:00,Back Squat,1,183.2,12,
+Push Day,2023-03-11 18:00:00,Back Squat,2,39.3,4,9
+Upper,2024-01-16 18:00:00,Incline Bench Press,3,215.7,3,9.5

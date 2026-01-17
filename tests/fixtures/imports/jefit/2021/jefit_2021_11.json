@@ -1,0 +1,190 @@
+{
+  "source": "jefit",
+  "version": 2,
+  "sets": [
+    {
+      "date": "2019-10-16 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Overhead Press",
+      "weight": 89.6,
+      "reps": 11,
+      "rpe": 8.5
+    },
+    {
+      "date": "2025-01-02 18:00:00",
+      "workout": "Upper",
+      "exercise": "Incline Bench Press",
+      "weight": 73.5,
+      "reps": 12,
+      "rpe": 8
+    },
+    {
+      "date": "2021-03-12 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Back Squat",
+      "weight": 89.3,
+      "reps": 5,
+      "rpe": ""
+    },
+    {
+      "date": "2023-03-23 18:00:00",
+      "workout": "Lower",
+      "exercise": "Back Squat",
+      "weight": 91.0,
+      "reps": 7,
+      "rpe": ""
+    },
+    {
+      "date": "2024-04-17 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Dip",
+      "weight": 39.3,
+      "reps": 10,
+      "rpe": 9
+    },
+    {
+      "date": "2021-11-28 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Romanian Deadlift",
+      "weight": 168.8,
+      "reps": 6,
+      "rpe": 9.5
+    },
+    {
+      "date": "2023-12-04 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Back Squat",
+      "weight": 158.3,
+      "reps": 9,
+      "rpe": 8
+    },
+    {
+      "date": "2021-03-14 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Back Squat",
+      "weight": 106.4,
+      "reps": 7,
+      "rpe": 9
+    },
+    {
+      "date": "2021-12-05 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Incline Bench Press",
+      "weight": 99.3,
+      "reps": 9,
+      "rpe": 9.5
+    },
+    {
+      "date": "2022-04-04 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Romanian Deadlift",
+      "weight": 44.8,
+      "reps": 3,
+      "rpe": 9.5
+    },
+    {
+      "date": "2020-11-26 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Back Squat",
+      "weight": 192.7,
+      "reps": 9,
+      "rpe": 9
+    },
+    {
+      "date": "2021-04-24 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Back Squat",
+      "weight": 186.2,
+      "reps": 9,
+      "rpe": ""
+    },
+    {
+      "date": "2022-02-27 18:00:00",
+      "workout": "Lower",
+      "exercise": "Deadlift",
+      "weight": 209.9,
+      "reps": 2,
+      "rpe": 8.5
+    },
+    {
+      "date": "2025-06-26 18:00:00",
+      "workout": "Upper",
+      "exercise": "Bench Press",
+      "weight": 59.4,
+      "reps": 11,
+      "rpe": ""
+    },
+    {
+      "date": "2023-01-27 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Barbell Row",
+      "weight": 209.4,
+      "reps": 6,
+      "rpe": ""
+    },
+    {
+      "date": "2024-08-06 18:00:00",
+      "workout": "Upper",
+      "exercise": "Overhead Press",
+      "weight": 157.2,
+      "reps": 9,
+      "rpe": 9
+    },
+    {
+      "date": "2021-06-23 18:00:00",
+      "workout": "Push Day",
+      "exercise": "Barbell Row",
+      "weight": 97.3,
+      "reps": 12,
+      "rpe": 9.5
+    },
+    {
+      "date": "2021-06-05 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Pull-up",
+      "weight": 99.4,
+      "reps": 3,
+      "rpe": 8
+    },
+    {
+      "date": "2020-09-26 18:00:00",
+      "workout": "Pull Day",
+      "exercise": "Dip",
+      "weight": 98.6,
+      "reps": 10,
+      "rpe": 9.5
+    },
+    {
+      "date": "2020-04-15 18:00:00",
+      "workout": "Lower",
+      "exercise": "Front Squat",
+      "weight": 153.3,
+      "reps": 9,
+      "rpe": ""
+    },
+    {
+      "date": "2023-06-18 18:00:00",
+      "workout": "Full Body",
+      "exercise": "Incline Bench Press",
+      "weight": 131.0,
+      "reps": 5,
+      "rpe": 9
+    },
+    {
+      "date": "2022-07-10 18:00:00",
+      "workout": "Leg Day",
+      "exercise": "Dip",
+      "weight": 113.6,
+      "reps": 3,
+      "rpe": 9
+    },
+    {
+      "date": "2024-12-11 18:00:00",
+      "workout": "Lower",
+      "exercise": "Bench Press",
+      "weight": 181.7,
+      "reps": 5,
+      "rpe": 9
+    }
+  ]
+}
