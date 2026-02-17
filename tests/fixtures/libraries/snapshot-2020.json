@@ -1,0 +1,4171 @@
+{
+  "year": 2020,
+  "exercises": [
+    {
+      "id": "ex-2020-000000",
+      "name": "Pin Leg Press",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 168.7,
+      "target_1rm": 196.3,
+      "status": "benched",
+      "started_on": "2017-08-16",
+      "rating": 3.7,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000001",
+      "name": "Beltless Good Morning",
+      "musclegroups": [
+        "Quadriceps",
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 189.4,
+      "target_1rm": 223.5,
+      "status": "active",
+      "started_on": "2017-10-18",
+      "rating": 2.7,
+      "tags": [
+        "tag-49",
+        "tag-10"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000002",
+      "name": "Beltless Chin-up #2",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 26.3,
+      "target_1rm": 37.8,
+      "status": "retired",
+      "started_on": "2018-08-08",
+      "rating": 4.6,
+      "tags": [
+        "tag-59",
+        "tag-19"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000003",
+      "name": "Close-grip Face Pull #3",
+      "musclegroups": [
+        "Shoulders",
+        "Hamstrings"
+      ],
+      "wger": "241",
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 222.3,
+      "target_1rm": 245.6,
+      "status": "benched",
+      "started_on": "2017-07-20",
+      "rating": 3.8,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000004",
+      "name": "Beltless Lat Pulldown",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 140.2,
+      "target_1rm": 175.1,
+      "status": "active",
+      "started_on": "2020-06-08",
+      "rating": 4.2,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000005",
+      "name": "Pin Calf Raise",
+      "musclegroups": [
+        "Hamstrings",
+        "Shoulders"
+      ],
+      "wger": "491",
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 68.6,
+      "target_1rm": 91.2,
+      "status": "active",
+      "started_on": "2020-09-16",
+      "rating": 4.4,
+      "tags": [
+        "tag-51",
+        "tag-43",
+        "tag-8"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000006",
+      "name": "Tempo Tricep Pushdown",
+      "musclegroups": [
+        "Quadriceps",
+        "Calves"
+      ],
+      "wger": "548",
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 86.6,
+      "target_1rm": 124.5,
+      "status": "active",
+      "started_on": "2017-06-03",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000007",
+      "name": "Pin Deadlift #7",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 87.2,
+      "target_1rm": 111.7,
+      "status": "retired",
+      "started_on": "2017-05-27",
+      "rating": 4.2,
+      "tags": [
+        "tag-25",
+        "tag-13"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000008",
+      "name": "Deficit Good Morning",
+      "musclegroups": [
+        "Hamstrings",
+        "Triceps"
+      ],
+      "wger": "557",
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 115.8,
+      "target_1rm": 145.5,
+      "status": "retired",
+      "started_on": "2017-08-26",
+      "rating": 4.9,
+      "tags": [
+        "tag-34",
+        "tag-29",
+        "tag-21"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000009",
+      "name": "Beltless Lateral Raise #9",
+      "musclegroups": [
+        "Shoulders",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 252.0,
+      "target_1rm": 284.3,
+      "status": "retired",
+      "started_on": "2018-04-05",
+      "rating": 4.3,
+      "tags": [
+        "tag-42",
+        "tag-55"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000010",
+      "name": "Wide-grip Barbell Row",
+      "musclegroups": [
+        "Shoulders",
+        "Back"
+      ],
+      "wger": "340",
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 142.1,
+      "target_1rm": 164.1,
+      "status": "retired",
+      "started_on": "2017-07-03",
+      "rating": 4.7,
+      "tags": [
+        "tag-34",
+        "tag-1",
+        "tag-25"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000011",
+      "name": "Beltless Power Clean",
+      "musclegroups": [
+        "Chest",
+        "Shoulders"
+      ],
+      "wger": "448",
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 150.3,
+      "target_1rm": 157.5,
+      "status": "active",
+      "started_on": "2018-08-05",
+      "rating": 3.9,
+      "tags": [
+        "tag-34"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000012",
+      "name": "Paused Deadlift #12",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 135.9,
+      "target_1rm": 167.3,
+      "status": "maintenance",
+      "started_on": "2019-11-09",
+      "rating": 3.5,
+      "tags": [
+        "tag-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000013",
+      "name": "Pin Deadlift",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 165.8,
+      "target_1rm": 185.4,
+      "status": "active",
+      "started_on": "2018-10-19",
+      "rating": 2.9,
+      "tags": [
+        "tag-44",
+        "tag-29"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000014",
+      "name": "Close-grip Hip Thrust",
+      "musclegroups": [
+        "Hamstrings",
+        "Back"
+      ],
+      "wger": "823",
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 135.8,
+      "target_1rm": 160.6,
+      "status": "active",
+      "started_on": "2020-09-23",
+      "rating": 3.5,
+      "tags": [
+        "tag-58",
+        "tag-7",
+        "tag-12"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000015",
+      "name": "Close-grip Power Clean",
+      "musclegroups": [
+        "Quadriceps",
+        "Core"
+      ],
+      "wger": "395",
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 105.8,
+      "target_1rm": 122.1,
+      "status": "active",
+      "started_on": "2018-12-19",
+      "rating": null,
+      "tags": [
+        "tag-27",
+        "tag-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000016",
+      "name": "Tempo Back Squat",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": "301",
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 73.6,
+      "target_1rm": 95.3,
+      "status": "maintenance",
+      "started_on": "2018-06-21",
+      "rating": 4.0,
+      "tags": [
+        "tag-1",
+        "tag-24",
+        "tag-14"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000017",
+      "name": "Wide-grip Romanian Deadlift #17",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 258.0,
+      "target_1rm": 288.4,
+      "status": "active",
+      "started_on": "2017-08-03",
+      "rating": 2.7,
+      "tags": [
+        "tag-56",
+        "tag-2"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000018",
+      "name": "Deficit Power Clean #18",
+      "musclegroups": [
+        "Chest",
+        "Triceps"
+      ],
+      "wger": "604",
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 113.2,
+      "target_1rm": 119.7,
+      "status": "active",
+      "started_on": "2020-05-08",
+      "rating": 4.8,
+      "tags": [
+        "tag-22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000019",
+      "name": "Pin Leg Curl #19",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": "748",
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 126.9,
+      "target_1rm": 145.1,
+      "status": "maintenance",
+      "started_on": "2017-11-18",
+      "rating": null,
+      "tags": [
+        "tag-51",
+        "tag-36"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000020",
+      "name": "Paused Front Squat",
+      "musclegroups": [
+        "Hamstrings",
+        "Quadriceps"
+      ],
+      "wger": "369",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 208.0,
+      "target_1rm": 228.2,
+      "status": "learning",
+      "started_on": "2019-12-19",
+      "rating": 3.6,
+      "tags": [
+        "tag-56"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000021",
+      "name": "Deficit Front Squat",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": "896",
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 162.0,
+      "target_1rm": 166.4,
+      "status": "maintenance",
+      "started_on": "2017-10-13",
+      "rating": null,
+      "tags": [
+        "tag-27"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000022",
+      "name": "Beltless Leg Press #22",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 206.4,
+      "target_1rm": 228.6,
+      "status": "maintenance",
+      "started_on": "2019-12-03",
+      "rating": 4.9,
+      "tags": [
+        "tag-36"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000023",
+      "name": "Beltless Deadlift",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": "306",
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 104.4,
+      "target_1rm": 128.4,
+      "status": "retired",
+      "started_on": "2017-02-18",
+      "rating": 3.8,
+      "tags": [
+        "tag-4",
+        "tag-22",
+        "tag-25"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000024",
+      "name": "Paused Power Clean #24",
+      "musclegroups": [
+        "Calves",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 23.4,
+      "target_1rm": 38.2,
+      "status": "learning",
+      "started_on": "2018-01-01",
+      "rating": 4.2,
+      "tags": [
+        "tag-40"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000025",
+      "name": "Paused Tricep Pushdown",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 162.3,
+      "target_1rm": 190.8,
+      "status": "benched",
+      "started_on": "2017-01-16",
+      "rating": 4.0,
+      "tags": [
+        "tag-11",
+        "tag-43"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000026",
+      "name": "Pin Lateral Raise",
+      "musclegroups": [
+        "Core",
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 140.5,
+      "target_1rm": 152.4,
+      "status": "benched",
+      "started_on": "2018-07-02",
+      "rating": null,
+      "tags": [
+        "tag-37",
+        "tag-32"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000027",
+      "name": "Face Pull",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": "722",
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 37.5,
+      "target_1rm": 50.2,
+      "status": "active",
+      "started_on": "2019-07-07",
+      "rating": 2.8,
+      "tags": [
+        "tag-13",
+        "tag-14"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000028",
+      "name": "Paused Romanian Deadlift #28",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": "644",
+      "category": "compound",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 38.0,
+      "target_1rm": 46.4,
+      "status": "retired",
+      "started_on": "2019-06-23",
+      "rating": 4.1,
+      "tags": [
+        "tag-4",
+        "tag-55",
+        "tag-28"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000029",
+      "name": "Paused Leg Press",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 184.0,
+      "target_1rm": 195.9,
+      "status": "retired",
+      "started_on": "2018-10-08",
+      "rating": 3.2,
+      "tags": [
+        "tag-16",
+        "tag-16",
+        "tag-22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000030",
+      "name": "Tempo Power Clean",
+      "musclegroups": [
+        "Back",
+        "Triceps"
+      ],
+      "wger": "881",
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 46.8,
+      "target_1rm": 52.5,
+      "status": "maintenance",
+      "started_on": "2018-12-22",
+      "rating": 4.8,
+      "tags": [
+        "tag-38",
+        "tag-56",
+        "tag-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000031",
+      "name": "Close-grip Lateral Raise #31",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 96.8,
+      "target_1rm": 102.6,
+      "status": "retired",
+      "started_on": "2018-05-28",
+      "rating": 4.2,
+      "tags": [
+        "tag-48",
+        "tag-59"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000032",
+      "name": "Wide-grip Romanian Deadlift",
+      "musclegroups": [
+        "Back",
+        "Core"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 174.7,
+      "target_1rm": 204.4,
+      "status": "active",
+      "started_on": "2017-05-09",
+      "rating": 3.6,
+      "tags": [
+        "tag-56",
+        "tag-4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000033",
+      "name": "Front Squat",
+      "musclegroups": [
+        "Core",
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 251.4,
+      "target_1rm": 286.5,
+      "status": "learning",
+      "started_on": "2019-06-24",
+      "rating": 3.6,
+      "tags": [
+        "tag-45",
+        "tag-21",
+        "tag-19"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000034",
+      "name": "Beltless Deadlift",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": "187",
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 21.1,
+      "target_1rm": 54.6,
+      "status": "retired",
+      "started_on": "2018-01-05",
+      "rating": 4.9,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000035",
+      "name": "Deadlift",
+      "musclegroups": [
+        "Hamstrings",
+        "Core"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 216.4,
+      "target_1rm": 235.7,
+      "status": "active",
+      "started_on": "2019-05-10",
+      "rating": 2.7,
+      "tags": [
+        "tag-38",
+        "tag-37"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000036",
+      "name": "Pin Leg Press",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": "212",
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 172.4,
+      "target_1rm": 201.5,
+      "status": "benched",
+      "started_on": "2019-06-05",
+      "rating": 4.5,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000037",
+      "name": "Tempo Pull-up",
+      "musclegroups": [
+        "Calves",
+        "Chest"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 24.4,
+      "target_1rm": 29.8,
+      "status": "learning",
+      "started_on": "2017-05-05",
+      "rating": 4.8,
+      "tags": [
+        "tag-47",
+        "tag-10",
+        "tag-44"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000038",
+      "name": "Deficit Calf Raise",
+      "musclegroups": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 62.6,
+      "target_1rm": 77.2,
+      "status": "learning",
+      "started_on": "2019-04-12",
+      "rating": null,
+      "tags": [
+        "tag-9",
+        "tag-51"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000039",
+      "name": "Deficit Dip #39",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 74.2,
+      "target_1rm": 89.5,
+      "status": "learning",
+      "started_on": "2018-11-13",
+      "rating": 3.9,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000040",
+      "name": "Pin Leg Press",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 123.2,
+      "target_1rm": 145.6,
+      "status": "maintenance",
+      "started_on": "2020-01-05",
+      "rating": 4.4,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000041",
+      "name": "Bicep Curl",
+      "musclegroups": [
+        "Chest",
+        "Core"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 185.9,
+      "target_1rm": 215.8,
+      "status": "active",
+      "started_on": "2017-12-01",
+      "rating": 3.8,
+      "tags": [
+        "tag-52"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000042",
+      "name": "Paused Incline Bench Press",
+      "musclegroups": [
+        "Chest"
+      ],
+      "wger": "855",
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 166.9,
+      "target_1rm": 194.6,
+      "status": "active",
+      "started_on": "2020-08-01",
+      "rating": 4.6,
+      "tags": [
+        "tag-15",
+        "tag-1",
+        "tag-12"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000043",
+      "name": "Back Squat",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": "316",
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 59.0,
+      "target_1rm": 79.8,
+      "status": "retired",
+      "started_on": "2018-04-09",
+      "rating": 2.6,
+      "tags": [
+        "tag-50",
+        "tag-38",
+        "tag-5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000044",
+      "name": "Deadlift",
+      "musclegroups": [
+        "Back",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 146.5,
+      "target_1rm": 184.9,
+      "status": "maintenance",
+      "started_on": "2017-06-03",
+      "rating": 4.2,
+      "tags": [
+        "tag-9",
+        "tag-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000045",
+      "name": "Tempo Pull-up",
+      "musclegroups": [
+        "Hamstrings",
+        "Core"
+      ],
+      "wger": "524",
+      "category": "compound",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 22.7,
+      "target_1rm": 61.9,
+      "status": "retired",
+      "started_on": "2018-12-19",
+      "rating": 2.8,
+      "tags": [
+        "tag-32"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000046",
+      "name": "Romanian Deadlift",
+      "musclegroups": [
+        "Triceps",
+        "Glutes"
+      ],
+      "wger": "112",
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 70.5,
+      "target_1rm": 100.7,
+      "status": "retired",
+      "started_on": "2020-05-15",
+      "rating": 2.8,
+      "tags": [
+        "tag-20",
+        "tag-12"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000047",
+      "name": "Deficit Face Pull",
+      "musclegroups": [
+        "Triceps",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 229.7,
+      "target_1rm": 249.7,
+      "status": "benched",
+      "started_on": "2019-08-26",
+      "rating": 3.2,
+      "tags": [
+        "tag-47",
+        "tag-31"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000048",
+      "name": "Pin Lat Pulldown",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 81.1,
+      "target_1rm": 109.1,
+      "status": "learning",
+      "started_on": "2018-07-24",
+      "rating": 3.0,
+      "tags": [
+        "tag-18",
+        "tag-17"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000049",
+      "name": "Pin Bicep Curl",
+      "musclegroups": [
+        "Shoulders",
+        "Chest"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 206.9,
+      "target_1rm": 229.9,
+      "status": "retired",
+      "started_on": "2018-01-01",
+      "rating": 5.0,
+      "tags": [
+        "tag-23",
+        "tag-19",
+        "tag-11"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000050",
+      "name": "Deficit Snatch",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": "730",
+      "category": "olympic",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 121.0,
+      "target_1rm": 145.4,
+      "status": "active",
+      "started_on": "2020-09-03",
+      "rating": null,
+      "tags": [
+        "tag-35",
+        "tag-52"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000051",
+      "name": "Tempo Incline Bench Press",
+      "musclegroups": [
+        "Hamstrings",
+        "Chest"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 183.9,
+      "target_1rm": 190.8,
+      "status": "maintenance",
+      "started_on": "2018-11-11",
+      "rating": 3.8,
+      "tags": [
+        "tag-56"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000052",
+      "name": "Pin Leg Curl",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": "373",
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 68.0,
+      "target_1rm": 95.5,
+      "status": "active",
+      "started_on": "2018-03-16",
+      "rating": 3.5,
+      "tags": [
+        "tag-11",
+        "tag-42",
+        "tag-17"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000053",
+      "name": "Wide-grip Incline Bench Press",
+      "musclegroups": [
+        "Calves",
+        "Back"
+      ],
+      "wger": "183",
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 145.2,
+      "target_1rm": 181.0,
+      "status": "benched",
+      "started_on": "2020-05-16",
+      "rating": null,
+      "tags": [
+        "tag-19",
+        "tag-20",
+        "tag-30"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000054",
+      "name": "Close-grip Dip #54",
+      "musclegroups": [
+        "Biceps",
+        "Core"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 186.3,
+      "target_1rm": 195.4,
+      "status": "retired",
+      "started_on": "2017-04-17",
+      "rating": 2.8,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000055",
+      "name": "Beltless Lat Pulldown",
+      "musclegroups": [
+        "Chest",
+        "Shoulders"
+      ],
+      "wger": "634",
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 216.1,
+      "target_1rm": 222.9,
+      "status": "retired",
+      "started_on": "2020-09-06",
+      "rating": 3.2,
+      "tags": [
+        "tag-24",
+        "tag-33",
+        "tag-42"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000056",
+      "name": "Tempo Snatch",
+      "musclegroups": [
+        "Back",
+        "Hamstrings"
+      ],
+      "wger": "301",
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 48.6,
+      "target_1rm": 86.3,
+      "status": "learning",
+      "started_on": "2019-05-16",
+      "rating": 3.5,
+      "tags": [
+        "tag-45",
+        "tag-50",
+        "tag-13"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000057",
+      "name": "Pin Barbell Row",
+      "musclegroups": [
+        "Hamstrings",
+        "Shoulders"
+      ],
+      "wger": "118",
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 239.4,
+      "target_1rm": 251.3,
+      "status": "retired",
+      "started_on": "2020-03-15",
+      "rating": 4.6,
+      "tags": [
+        "tag-25"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000058",
+      "name": "Tempo Tricep Pushdown",
+      "musclegroups": [
+        "Core",
+        "Biceps"
+      ],
+      "wger": "526",
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 155.6,
+      "target_1rm": 186.3,
+      "status": "maintenance",
+      "started_on": "2020-06-09",
+      "rating": 3.3,
+      "tags": [
+        "tag-38",
+        "tag-15",
+        "tag-23"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000059",
+      "name": "Deficit Lateral Raise",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 97.7,
+      "target_1rm": 120.9,
+      "status": "active",
+      "started_on": "2018-01-12",
+      "rating": 4.3,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000060",
+      "name": "Tempo Romanian Deadlift",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": "44",
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 164.5,
+      "target_1rm": 182.6,
+      "status": "benched",
+      "started_on": "2020-05-16",
+      "rating": 2.9,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000061",
+      "name": "Deadlift",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": "407",
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 62.5,
+      "target_1rm": 89.0,
+      "status": "active",
+      "started_on": "2019-03-14",
+      "rating": 4.1,
+      "tags": [
+        "tag-44",
+        "tag-58",
+        "tag-46"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000062",
+      "name": "Leg Press #62",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 162.2,
+      "target_1rm": 169.3,
+      "status": "active",
+      "started_on": "2019-10-20",
+      "rating": 3.1,
+      "tags": [
+        "tag-34",
+        "tag-44"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000063",
+      "name": "Back Squat #63",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": "238",
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 236.9,
+      "target_1rm": 248.6,
+      "status": "maintenance",
+      "started_on": "2018-09-16",
+      "rating": 4.1,
+      "tags": [
+        "tag-25",
+        "tag-10",
+        "tag-2"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000064",
+      "name": "Paused Front Squat",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": "594",
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 132.9,
+      "target_1rm": 135.7,
+      "status": "learning",
+      "started_on": "2019-04-20",
+      "rating": 2.9,
+      "tags": [
+        "tag-49",
+        "tag-17"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000065",
+      "name": "Wide-grip Push Press #65",
+      "musclegroups": [
+        "Calves",
+        "Back"
+      ],
+      "wger": "361",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 196.8,
+      "target_1rm": 212.9,
+      "status": "maintenance",
+      "started_on": "2019-11-24",
+      "rating": 2.8,
+      "tags": [
+        "tag-57",
+        "tag-34",
+        "tag-10"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000066",
+      "name": "Beltless Leg Curl #66",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 91.2,
+      "target_1rm": 130.8,
+      "status": "learning",
+      "started_on": "2019-03-26",
+      "rating": 2.9,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000067",
+      "name": "Beltless Push Press",
+      "musclegroups": [
+        "Chest",
+        "Quadriceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 161.4,
+      "target_1rm": 173.1,
+      "status": "learning",
+      "started_on": "2018-04-08",
+      "rating": 4.6,
+      "tags": [
+        "tag-23",
+        "tag-16",
+        "tag-19"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000068",
+      "name": "Tempo Leg Curl",
+      "musclegroups": [
+        "Triceps",
+        "Core"
+      ],
+      "wger": "257",
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 166.2,
+      "target_1rm": 193.9,
+      "status": "active",
+      "started_on": "2018-09-27",
+      "rating": 3.2,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000069",
+      "name": "Pin Chin-up",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": "753",
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 229.0,
+      "target_1rm": 234.6,
+      "status": "learning",
+      "started_on": "2018-09-12",
+      "rating": 3.8,
+      "tags": [
+        "tag-41",
+        "tag-27"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000070",
+      "name": "Beltless Leg Curl #70",
+      "musclegroups": [
+        "Chest",
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 92.3,
+      "target_1rm": 102.4,
+      "status": "maintenance",
+      "started_on": "2019-12-04",
+      "rating": 4.5,
+      "tags": [
+        "tag-8",
+        "tag-58",
+        "tag-52"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000071",
+      "name": "Tempo Leg Press",
+      "musclegroups": [
+        "Calves",
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 239.1,
+      "target_1rm": 261.6,
+      "status": "maintenance",
+      "started_on": "2019-11-01",
+      "rating": 4.9,
+      "tags": [
+        "tag-58",
+        "tag-8",
+        "tag-15"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000072",
+      "name": "Paused Leg Curl #72",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": "48",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 172.1,
+      "target_1rm": 200.2,
+      "status": "active",
+      "started_on": "2018-06-05",
+      "rating": 3.2,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000073",
+      "name": "Deficit Romanian Deadlift",
+      "musclegroups": [
+        "Shoulders",
+        "Calves"
+      ],
+      "wger": "161",
+      "category": "compound",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 116.9,
+      "target_1rm": 149.6,
+      "status": "retired",
+      "started_on": "2018-02-27",
+      "rating": 3.4,
+      "tags": [
+        "tag-29",
+        "tag-6"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000074",
+      "name": "Pin Back Squat #74",
+      "musclegroups": [
+        "Back",
+        "Core"
+      ],
+      "wger": "848",
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 45.5,
+      "target_1rm": 66.1,
+      "status": "active",
+      "started_on": "2019-07-28",
+      "rating": 3.6,
+      "tags": [
+        "tag-55",
+        "tag-31"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000075",
+      "name": "Close-grip Overhead Press #75",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": "65",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 214.9,
+      "target_1rm": 217.7,
+      "status": "benched",
+      "started_on": "2018-03-16",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000076",
+      "name": "Deficit Good Morning",
+      "musclegroups": [
+        "Hamstrings",
+        "Core"
+      ],
+      "wger": "707",
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 30.4,
+      "target_1rm": 54.3,
+      "status": "maintenance",
+      "started_on": "2017-08-10",
+      "rating": 3.6,
+      "tags": [
+        "tag-53",
+        "tag-60"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000077",
+      "name": "Power Clean",
+      "musclegroups": [
+        "Calves",
+        "Hamstrings"
+      ],
+      "wger": "347",
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 205.7,
+      "target_1rm": 231.5,
+      "status": "active",
+      "started_on": "2020-12-14",
+      "rating": 3.9,
+      "tags": [
+        "tag-48"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000078",
+      "name": "Close-grip Chin-up",
+      "musclegroups": [
+        "Glutes",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 155.2,
+      "target_1rm": 183.6,
+      "status": "retired",
+      "started_on": "2019-08-24",
+      "rating": null,
+      "tags": [
+        "tag-28",
+        "tag-41"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000079",
+      "name": "Deficit Power Clean #79",
+      "musclegroups": [
+        "Core",
+        "Back"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 204.5,
+      "target_1rm": 216.3,
+      "status": "active",
+      "started_on": "2020-08-20",
+      "rating": 2.8,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000080",
+      "name": "Wide-grip Hip Thrust #80",
+      "musclegroups": [
+        "Core",
+        "Quadriceps"
+      ],
+      "wger": "505",
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 161.9,
+      "target_1rm": 166.9,
+      "status": "maintenance",
+      "started_on": "2020-05-02",
+      "rating": null,
+      "tags": [
+        "tag-38"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000081",
+      "name": "Pin Front Squat",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": "346",
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 86.3,
+      "target_1rm": 120.9,
+      "status": "active",
+      "started_on": "2020-02-19",
+      "rating": 4.1,
+      "tags": [
+        "tag-46",
+        "tag-12",
+        "tag-39"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000082",
+      "name": "Wide-grip Romanian Deadlift",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 259.3,
+      "target_1rm": 297.1,
+      "status": "maintenance",
+      "started_on": "2020-05-15",
+      "rating": null,
+      "tags": [
+        "tag-16"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000083",
+      "name": "Beltless Romanian Deadlift #83",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 95.6,
+      "target_1rm": 105.9,
+      "status": "retired",
+      "started_on": "2017-09-18",
+      "rating": 3.4,
+      "tags": [
+        "tag-30"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000084",
+      "name": "Pin Barbell Row",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 188.3,
+      "target_1rm": 193.3,
+      "status": "active",
+      "started_on": "2018-09-25",
+      "rating": 4.4,
+      "tags": [
+        "tag-15",
+        "tag-12",
+        "tag-19"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000085",
+      "name": "Close-grip Back Squat",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 238.7,
+      "target_1rm": 269.2,
+      "status": "benched",
+      "started_on": "2020-04-03",
+      "rating": 4.9,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000086",
+      "name": "Beltless Pull-up",
+      "musclegroups": [
+        "Back",
+        "Glutes"
+      ],
+      "wger": "178",
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 115.6,
+      "target_1rm": 119.0,
+      "status": "active",
+      "started_on": "2017-12-13",
+      "rating": 2.8,
+      "tags": [
+        "tag-21",
+        "tag-54",
+        "tag-24"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000087",
+      "name": "Deficit Hip Thrust #87",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 57.9,
+      "target_1rm": 82.4,
+      "status": "learning",
+      "started_on": "2020-05-24",
+      "rating": null,
+      "tags": [
+        "tag-36"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000088",
+      "name": "Wide-grip Chin-up",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 212.1,
+      "target_1rm": 246.6,
+      "status": "active",
+      "started_on": "2017-03-10",
+      "rating": 4.9,
+      "tags": [
+        "tag-34",
+        "tag-1",
+        "tag-7"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000089",
+      "name": "Close-grip Snatch",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 229.4,
+      "target_1rm": 248.0,
+      "status": "active",
+      "started_on": "2020-04-23",
+      "rating": 4.2,
+      "tags": [
+        "tag-12",
+        "tag-33",
+        "tag-59"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000090",
+      "name": "Close-grip Incline Bench Press",
+      "musclegroups": [
+        "Core",
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 202.9,
+      "target_1rm": 239.5,
+      "status": "learning",
+      "started_on": "2018-07-21",
+      "rating": null,
+      "tags": [
+        "tag-23"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000091",
+      "name": "Tempo Front Squat #91",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": "171",
+      "category": "olympic",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 205.3,
+      "target_1rm": 244.6,
+      "status": "maintenance",
+      "started_on": "2018-11-28",
+      "rating": 2.8,
+      "tags": [
+        "tag-54",
+        "tag-60"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000092",
+      "name": "Romanian Deadlift",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 80.4,
+      "target_1rm": 90.5,
+      "status": "active",
+      "started_on": "2017-03-17",
+      "rating": 4.4,
+      "tags": [
+        "tag-45",
+        "tag-51",
+        "tag-36"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000093",
+      "name": "Bicep Curl",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": "490",
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 44.0,
+      "target_1rm": 63.3,
+      "status": "benched",
+      "started_on": "2019-01-14",
+      "rating": 2.6,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000094",
+      "name": "Paused Hip Thrust",
+      "musclegroups": [
+        "Chest"
+      ],
+      "wger": "635",
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 146.6,
+      "target_1rm": 165.7,
+      "status": "benched",
+      "started_on": "2019-01-02",
+      "rating": 3.7,
+      "tags": [
+        "tag-10"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000095",
+      "name": "Bicep Curl #95",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": "444",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 70.1,
+      "target_1rm": 106.1,
+      "status": "active",
+      "started_on": "2020-04-04",
+      "rating": 3.3,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000096",
+      "name": "Leg Curl",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": "761",
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 140.6,
+      "target_1rm": 164.2,
+      "status": "maintenance",
+      "started_on": "2017-10-01",
+      "rating": 3.7,
+      "tags": [
+        "tag-24",
+        "tag-51",
+        "tag-42"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000097",
+      "name": "Beltless Face Pull",
+      "musclegroups": [
+        "Calves",
+        "Back"
+      ],
+      "wger": "569",
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 114.8,
+      "target_1rm": 124.4,
+      "status": "learning",
+      "started_on": "2018-06-14",
+      "rating": 5.0,
+      "tags": [
+        "tag-19",
+        "tag-58",
+        "tag-56"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000098",
+      "name": "Pin Romanian Deadlift",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": "130",
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 228.2,
+      "target_1rm": 264.6,
+      "status": "active",
+      "started_on": "2020-09-21",
+      "rating": 3.4,
+      "tags": [
+        "tag-11",
+        "tag-16"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000099",
+      "name": "Close-grip Overhead Press",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 34.7,
+      "target_1rm": 48.4,
+      "status": "learning",
+      "started_on": "2019-07-01",
+      "rating": 4.4,
+      "tags": [
+        "tag-40",
+        "tag-13"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000100",
+      "name": "Paused Calf Raise",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": "136",
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 252.9,
+      "target_1rm": 263.7,
+      "status": "active",
+      "started_on": "2019-08-02",
+      "rating": 5.0,
+      "tags": [
+        "tag-11",
+        "tag-59"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000101",
+      "name": "Pin Bicep Curl #101",
+      "musclegroups": [
+        "Chest",
+        "Biceps"
+      ],
+      "wger": "861",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 156.4,
+      "target_1rm": 188.2,
+      "status": "retired",
+      "started_on": "2018-11-17",
+      "rating": 2.6,
+      "tags": [
+        "tag-58"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000102",
+      "name": "Tempo Hip Thrust",
+      "musclegroups": [
+        "Biceps",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 69.0,
+      "target_1rm": 103.0,
+      "status": "active",
+      "started_on": "2020-01-19",
+      "rating": null,
+      "tags": [
+        "tag-35",
+        "tag-38"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000103",
+      "name": "Tempo Push Press",
+      "musclegroups": [
+        "Hamstrings",
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 185.1,
+      "target_1rm": 214.1,
+      "status": "benched",
+      "started_on": "2018-10-03",
+      "rating": 4.4,
+      "tags": [
+        "tag-22",
+        "tag-4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000104",
+      "name": "Close-grip Push Press #104",
+      "musclegroups": [
+        "Glutes",
+        "Core"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 148.5,
+      "target_1rm": 181.1,
+      "status": "benched",
+      "started_on": "2018-03-11",
+      "rating": 2.9,
+      "tags": [
+        "tag-25"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000105",
+      "name": "Paused Incline Bench Press",
+      "musclegroups": [
+        "Chest",
+        "Shoulders"
+      ],
+      "wger": "148",
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 257.8,
+      "target_1rm": 293.1,
+      "status": "retired",
+      "started_on": "2020-03-04",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000106",
+      "name": "Deadlift",
+      "musclegroups": [
+        "Calves",
+        "Back"
+      ],
+      "wger": "387",
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 47.0,
+      "target_1rm": 75.2,
+      "status": "active",
+      "started_on": "2020-01-20",
+      "rating": 3.1,
+      "tags": [
+        "tag-40"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000107",
+      "name": "Wide-grip Dip",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": "44",
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 29.4,
+      "target_1rm": 32.5,
+      "status": "learning",
+      "started_on": "2019-02-10",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000108",
+      "name": "Tempo Lateral Raise #108",
+      "musclegroups": [
+        "Chest"
+      ],
+      "wger": "656",
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 34.9,
+      "target_1rm": 69.1,
+      "status": "retired",
+      "started_on": "2017-04-16",
+      "rating": 4.4,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000109",
+      "name": "Front Squat",
+      "musclegroups": [
+        "Core",
+        "Biceps"
+      ],
+      "wger": "737",
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 20.5,
+      "target_1rm": 53.1,
+      "status": "benched",
+      "started_on": "2019-04-10",
+      "rating": 2.8,
+      "tags": [
+        "tag-20",
+        "tag-40",
+        "tag-19"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000110",
+      "name": "Tricep Pushdown",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 198.1,
+      "target_1rm": 233.9,
+      "status": "active",
+      "started_on": "2020-11-14",
+      "rating": 2.8,
+      "tags": [
+        "tag-42",
+        "tag-12",
+        "tag-18"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000111",
+      "name": "Barbell Row #111",
+      "musclegroups": [
+        "Chest"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 208.0,
+      "target_1rm": 240.7,
+      "status": "active",
+      "started_on": "2019-04-05",
+      "rating": 2.9,
+      "tags": [
+        "tag-43",
+        "tag-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000112",
+      "name": "Beltless Front Squat #112",
+      "musclegroups": [
+        "Core",
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 259.4,
+      "target_1rm": 262.9,
+      "status": "retired",
+      "started_on": "2017-09-01",
+      "rating": 4.8,
+      "tags": [
+        "tag-57",
+        "tag-56",
+        "tag-12"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000113",
+      "name": "Deficit Back Squat",
+      "musclegroups": [
+        "Back",
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 203.3,
+      "target_1rm": 236.3,
+      "status": "benched",
+      "started_on": "2018-08-07",
+      "rating": 3.6,
+      "tags": [
+        "tag-36",
+        "tag-48",
+        "tag-2"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000114",
+      "name": "Beltless Front Squat",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 149.4,
+      "target_1rm": 153.3,
+      "status": "active",
+      "started_on": "2018-03-07",
+      "rating": 3.0,
+      "tags": [
+        "tag-32",
+        "tag-41",
+        "tag-35"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000115",
+      "name": "Paused Back Squat",
+      "musclegroups": [
+        "Glutes",
+        "Core"
+      ],
+      "wger": "314",
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 140.9,
+      "target_1rm": 167.8,
+      "status": "active",
+      "started_on": "2018-08-11",
+      "rating": 4.2,
+      "tags": [
+        "tag-37"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000116",
+      "name": "Deficit Power Clean",
+      "musclegroups": [
+        "Glutes",
+        "Quadriceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 76.5,
+      "target_1rm": 104.0,
+      "status": "retired",
+      "started_on": "2018-06-11",
+      "rating": 3.9,
+      "tags": [
+        "tag-45",
+        "tag-43",
+        "tag-37"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000117",
+      "name": "Tempo Back Squat",
+      "musclegroups": [
+        "Hamstrings",
+        "Core"
+      ],
+      "wger": "302",
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 228.2,
+      "target_1rm": 261.5,
+      "status": "active",
+      "started_on": "2020-03-18",
+      "rating": 4.3,
+      "tags": [
+        "tag-42",
+        "tag-45",
+        "tag-53"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000118",
+      "name": "Tempo Push Press #118",
+      "musclegroups": [
+        "Core",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 142.9,
+      "target_1rm": 177.6,
+      "status": "active",
+      "started_on": "2017-04-24",
+      "rating": 2.5,
+      "tags": [
+        "tag-5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000119",
+      "name": "Beltless Back Squat",
+      "musclegroups": [
+        "Core",
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 33.1,
+      "target_1rm": 69.1,
+      "status": "maintenance",
+      "started_on": "2019-02-11",
+      "rating": 4.5,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000120",
+      "name": "Pin Push Press",
+      "musclegroups": [
+        "Chest",
+        "Glutes"
+      ],
+      "wger": "514",
+      "category": "olympic",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 181.5,
+      "target_1rm": 189.7,
+      "status": "retired",
+      "started_on": "2017-07-13",
+      "rating": 4.9,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000121",
+      "name": "Close-grip Good Morning",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 236.1,
+      "target_1rm": 258.9,
+      "status": "retired",
+      "started_on": "2018-08-20",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000122",
+      "name": "Deficit Lat Pulldown",
+      "musclegroups": [
+        "Shoulders",
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 213.4,
+      "target_1rm": 243.4,
+      "status": "learning",
+      "started_on": "2019-07-26",
+      "rating": 2.6,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000123",
+      "name": "Power Clean",
+      "musclegroups": [
+        "Chest"
+      ],
+      "wger": "60",
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 161.0,
+      "target_1rm": 189.6,
+      "status": "active",
+      "started_on": "2018-04-27",
+      "rating": 4.3,
+      "tags": [
+        "tag-26",
+        "tag-22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000124",
+      "name": "Pin Face Pull",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 175.9,
+      "target_1rm": 203.1,
+      "status": "retired",
+      "started_on": "2018-09-23",
+      "rating": 3.7,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000125",
+      "name": "Tempo Bicep Curl",
+      "musclegroups": [
+        "Quadriceps",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 224.2,
+      "target_1rm": 239.5,
+      "status": "active",
+      "started_on": "2020-06-16",
+      "rating": 4.7,
+      "tags": [
+        "tag-19",
+        "tag-35",
+        "tag-15"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000126",
+      "name": "Tempo Push Press",
+      "musclegroups": [
+        "Chest"
+      ],
+      "wger": "265",
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 111.7,
+      "target_1rm": 134.8,
+      "status": "retired",
+      "started_on": "2017-10-13",
+      "rating": 4.4,
+      "tags": [
+        "tag-8"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000127",
+      "name": "Wide-grip Lateral Raise",
+      "musclegroups": [
+        "Core",
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 212.6,
+      "target_1rm": 220.3,
+      "status": "active",
+      "started_on": "2019-11-18",
+      "rating": 3.9,
+      "tags": [
+        "tag-46"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000128",
+      "name": "Tempo Romanian Deadlift",
+      "musclegroups": [
+        "Back",
+        "Chest"
+      ],
+      "wger": "857",
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 253.2,
+      "target_1rm": 291.5,
+      "status": "maintenance",
+      "started_on": "2017-03-08",
+      "rating": 4.8,
+      "tags": [
+        "tag-25",
+        "tag-57",
+        "tag-57"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000129",
+      "name": "Close-grip Leg Curl #129",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": "131",
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 192.2,
+      "target_1rm": 231.8,
+      "status": "active",
+      "started_on": "2018-05-06",
+      "rating": 4.0,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000130",
+      "name": "Deficit Lateral Raise",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": "161",
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 137.2,
+      "target_1rm": 171.4,
+      "status": "retired",
+      "started_on": "2019-06-04",
+      "rating": null,
+      "tags": [
+        "tag-25"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000131",
+      "name": "Deficit Dip",
+      "musclegroups": [
+        "Hamstrings",
+        "Calves"
+      ],
+      "wger": "401",
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 144.7,
+      "target_1rm": 167.6,
+      "status": "retired",
+      "started_on": "2017-08-26",
+      "rating": 3.6,
+      "tags": [
+        "tag-41",
+        "tag-49"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000132",
+      "name": "Beltless Snatch #132",
+      "musclegroups": [
+        "Hamstrings",
+        "Glutes"
+      ],
+      "wger": "492",
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 44.5,
+      "target_1rm": 65.2,
+      "status": "active",
+      "started_on": "2020-10-01",
+      "rating": 3.6,
+      "tags": [
+        "tag-29",
+        "tag-14"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000133",
+      "name": "Beltless Face Pull",
+      "musclegroups": [
+        "Shoulders",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 25.7,
+      "target_1rm": 35.5,
+      "status": "retired",
+      "started_on": "2020-10-15",
+      "rating": 2.7,
+      "tags": [
+        "tag-44",
+        "tag-37",
+        "tag-22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000134",
+      "name": "Wide-grip Barbell Row #134",
+      "musclegroups": [
+        "Hamstrings",
+        "Glutes"
+      ],
+      "wger": "132",
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 210.1,
+      "target_1rm": 226.4,
+      "status": "benched",
+      "started_on": "2018-03-15",
+      "rating": null,
+      "tags": [
+        "tag-1",
+        "tag-18",
+        "tag-15"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000135",
+      "name": "Close-grip Romanian Deadlift #135",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": "76",
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 108.2,
+      "target_1rm": 141.1,
+      "status": "active",
+      "started_on": "2018-05-11",
+      "rating": 4.9,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000136",
+      "name": "Deficit Lat Pulldown",
+      "musclegroups": [
+        "Glutes",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 211.5,
+      "target_1rm": 231.1,
+      "status": "benched",
+      "started_on": "2019-07-01",
+      "rating": 3.7,
+      "tags": [
+        "tag-29",
+        "tag-34",
+        "tag-13"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000137",
+      "name": "Pin Lateral Raise",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": "599",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 213.1,
+      "target_1rm": 244.5,
+      "status": "active",
+      "started_on": "2019-11-14",
+      "rating": null,
+      "tags": [
+        "tag-17",
+        "tag-52"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000138",
+      "name": "Tempo Snatch",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": "569",
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 37.7,
+      "target_1rm": 71.0,
+      "status": "active",
+      "started_on": "2018-04-18",
+      "rating": 4.9,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000139",
+      "name": "Tempo Pull-up",
+      "musclegroups": [
+        "Back",
+        "Biceps"
+      ],
+      "wger": "516",
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 154.9,
+      "target_1rm": 157.9,
+      "status": "active",
+      "started_on": "2019-11-07",
+      "rating": 4.3,
+      "tags": [
+        "tag-46"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000140",
+      "name": "Wide-grip Barbell Row",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": "836",
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 222.8,
+      "target_1rm": 227.4,
+      "status": "maintenance",
+      "started_on": "2020-07-13",
+      "rating": 3.0,
+      "tags": [
+        "tag-42"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000141",
+      "name": "Lat Pulldown #141",
+      "musclegroups": [
+        "Calves",
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 206.8,
+      "target_1rm": 245.7,
+      "status": "maintenance",
+      "started_on": "2017-08-28",
+      "rating": null,
+      "tags": [
+        "tag-11",
+        "tag-7"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000142",
+      "name": "Leg Press #142",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": "628",
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 125.8,
+      "target_1rm": 161.2,
+      "status": "learning",
+      "started_on": "2020-01-02",
+      "rating": 4.5,
+      "tags": [
+        "tag-9",
+        "tag-7",
+        "tag-21"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000143",
+      "name": "Paused Leg Curl",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": "805",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 258.2,
+      "target_1rm": 265.6,
+      "status": "active",
+      "started_on": "2020-09-04",
+      "rating": 3.5,
+      "tags": [
+        "tag-23",
+        "tag-22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000144",
+      "name": "Close-grip Hip Thrust",
+      "musclegroups": [
+        "Glutes",
+        "Shoulders"
+      ],
+      "wger": "406",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 63.8,
+      "target_1rm": 98.0,
+      "status": "active",
+      "started_on": "2020-10-09",
+      "rating": null,
+      "tags": [
+        "tag-12",
+        "tag-53"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000145",
+      "name": "Wide-grip Front Squat",
+      "musclegroups": [
+        "Hamstrings",
+        "Core"
+      ],
+      "wger": "818",
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 86.3,
+      "target_1rm": 107.9,
+      "status": "retired",
+      "started_on": "2019-04-09",
+      "rating": null,
+      "tags": [
+        "tag-29"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000146",
+      "name": "Beltless Power Clean",
+      "musclegroups": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "wger": "304",
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 240.7,
+      "target_1rm": 261.1,
+      "status": "maintenance",
+      "started_on": "2020-09-23",
+      "rating": 4.4,
+      "tags": [
+        "tag-38"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000147",
+      "name": "Tempo Overhead Press",
+      "musclegroups": [
+        "Triceps",
+        "Hamstrings"
+      ],
+      "wger": "45",
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 113.2,
+      "target_1rm": 120.6,
+      "status": "retired",
+      "started_on": "2018-04-18",
+      "rating": 5.0,
+      "tags": [
+        "tag-10"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000148",
+      "name": "Beltless Leg Curl",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 57.2,
+      "target_1rm": 89.6,
+      "status": "retired",
+      "started_on": "2017-07-19",
+      "rating": 3.2,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000149",
+      "name": "Lateral Raise #149",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": "299",
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 153.9,
+      "target_1rm": 165.8,
+      "status": "benched",
+      "started_on": "2018-06-08",
+      "rating": null,
+      "tags": [
+        "tag-42"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000150",
+      "name": "Deficit Chin-up",
+      "musclegroups": [
+        "Back",
+        "Triceps"
+      ],
+      "wger": "247",
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 225.2,
+      "target_1rm": 248.4,
+      "status": "maintenance",
+      "started_on": "2020-11-25",
+      "rating": 3.8,
+      "tags": [
+        "tag-39",
+        "tag-46",
+        "tag-38"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000151",
+      "name": "Beltless Romanian Deadlift #151",
+      "musclegroups": [
+        "Back",
+        "Glutes"
+      ],
+      "wger": "446",
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 181.7,
+      "target_1rm": 217.1,
+      "status": "active",
+      "started_on": "2019-02-25",
+      "rating": 3.0,
+      "tags": [
+        "tag-3",
+        "tag-42",
+        "tag-47"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000152",
+      "name": "Tempo Power Clean",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 148.5,
+      "target_1rm": 167.2,
+      "status": "active",
+      "started_on": "2019-10-21",
+      "rating": 3.4,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000153",
+      "name": "Beltless Tricep Pushdown",
+      "musclegroups": [
+        "Biceps",
+        "Core"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 39.9,
+      "target_1rm": 48.4,
+      "status": "maintenance",
+      "started_on": "2020-04-02",
+      "rating": 3.6,
+      "tags": [
+        "tag-22",
+        "tag-4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000154",
+      "name": "Pin Dip",
+      "musclegroups": [
+        "Calves",
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 182.8,
+      "target_1rm": 217.0,
+      "status": "benched",
+      "started_on": "2017-12-12",
+      "rating": null,
+      "tags": [
+        "tag-32",
+        "tag-12",
+        "tag-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000155",
+      "name": "Tricep Pushdown #155",
+      "musclegroups": [
+        "Back",
+        "Glutes"
+      ],
+      "wger": "420",
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 127.4,
+      "target_1rm": 138.6,
+      "status": "active",
+      "started_on": "2019-06-16",
+      "rating": 4.2,
+      "tags": [
+        "tag-43"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000156",
+      "name": "Pin Incline Bench Press",
+      "musclegroups": [
+        "Triceps",
+        "Calves"
+      ],
+      "wger": "623",
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 197.2,
+      "target_1rm": 236.2,
+      "status": "active",
+      "started_on": "2018-08-18",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000157",
+      "name": "Pin Hip Thrust",
+      "musclegroups": [
+        "Triceps",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 157.0,
+      "target_1rm": 161.4,
+      "status": "benched",
+      "started_on": "2018-06-26",
+      "rating": 2.9,
+      "tags": [
+        "tag-10"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000158",
+      "name": "Beltless Deadlift #158",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 230.8,
+      "target_1rm": 260.5,
+      "status": "learning",
+      "started_on": "2019-04-10",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000159",
+      "name": "Close-grip Romanian Deadlift",
+      "musclegroups": [
+        "Triceps",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 159.6,
+      "target_1rm": 172.4,
+      "status": "benched",
+      "started_on": "2019-05-15",
+      "rating": 3.0,
+      "tags": [
+        "tag-52",
+        "tag-21",
+        "tag-36"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000160",
+      "name": "Tempo Push Press",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 81.1,
+      "target_1rm": 93.9,
+      "status": "benched",
+      "started_on": "2018-05-18",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000161",
+      "name": "Tempo Hip Thrust",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": "62",
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 230.8,
+      "target_1rm": 237.2,
+      "status": "retired",
+      "started_on": "2017-04-02",
+      "rating": 2.9,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000162",
+      "name": "Deficit Bench Press",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 148.5,
+      "target_1rm": 181.2,
+      "status": "active",
+      "started_on": "2018-04-19",
+      "rating": 3.5,
+      "tags": [
+        "tag-35",
+        "tag-39"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000163",
+      "name": "Pin Power Clean #163",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": "153",
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 178.3,
+      "target_1rm": 190.6,
+      "status": "active",
+      "started_on": "2017-03-13",
+      "rating": 3.7,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000164",
+      "name": "Calf Raise #164",
+      "musclegroups": [
+        "Chest",
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 134.7,
+      "target_1rm": 163.0,
+      "status": "maintenance",
+      "started_on": "2020-05-26",
+      "rating": 2.8,
+      "tags": [
+        "tag-34",
+        "tag-31"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000165",
+      "name": "Wide-grip Push Press",
+      "musclegroups": [
+        "Chest",
+        "Triceps"
+      ],
+      "wger": "486",
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 28.8,
+      "target_1rm": 52.5,
+      "status": "active",
+      "started_on": "2019-07-19",
+      "rating": 4.3,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000166",
+      "name": "Paused Tricep Pushdown",
+      "musclegroups": [
+        "Back",
+        "Core"
+      ],
+      "wger": "668",
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 218.0,
+      "target_1rm": 250.2,
+      "status": "retired",
+      "started_on": "2017-05-09",
+      "rating": 3.3,
+      "tags": [
+        "tag-8",
+        "tag-17",
+        "tag-4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000167",
+      "name": "Beltless Lat Pulldown #167",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 124.8,
+      "target_1rm": 135.9,
+      "status": "active",
+      "started_on": "2018-02-07",
+      "rating": 4.6,
+      "tags": [
+        "tag-33"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000168",
+      "name": "Paused Power Clean",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": "158",
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 125.3,
+      "target_1rm": 164.6,
+      "status": "maintenance",
+      "started_on": "2019-04-05",
+      "rating": 2.8,
+      "tags": [
+        "tag-42",
+        "tag-27"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000169",
+      "name": "Good Morning",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": "851",
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 44.1,
+      "target_1rm": 69.1,
+      "status": "active",
+      "started_on": "2020-11-24",
+      "rating": 2.9,
+      "tags": [
+        "tag-45"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000170",
+      "name": "Tempo Leg Extension",
+      "musclegroups": [
+        "Quadriceps",
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 101.7,
+      "target_1rm": 135.3,
+      "status": "benched",
+      "started_on": "2020-11-24",
+      "rating": null,
+      "tags": [
+        "tag-3",
+        "tag-19",
+        "tag-46"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000171",
+      "name": "Wide-grip Incline Bench Press",
+      "musclegroups": [
+        "Glutes",
+        "Back"
+      ],
+      "wger": "627",
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 154.4,
+      "target_1rm": 173.0,
+      "status": "active",
+      "started_on": "2019-03-13",
+      "rating": 3.6,
+      "tags": [
+        "tag-46",
+        "tag-9"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000172",
+      "name": "Tempo Leg Press",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 201.8,
+      "target_1rm": 240.7,
+      "status": "learning",
+      "started_on": "2019-02-19",
+      "rating": 4.9,
+      "tags": [
+        "tag-19"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000173",
+      "name": "Deficit Calf Raise #173",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 44.9,
+      "target_1rm": 58.6,
+      "status": "active",
+      "started_on": "2019-03-20",
+      "rating": 3.9,
+      "tags": [
+        "tag-21",
+        "tag-39",
+        "tag-41"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000174",
+      "name": "Paused Dip",
+      "musclegroups": [
+        "Chest",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 248.5,
+      "target_1rm": 271.1,
+      "status": "active",
+      "started_on": "2019-07-21",
+      "rating": 3.1,
+      "tags": [
+        "tag-3",
+        "tag-44",
+        "tag-4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000175",
+      "name": "Wide-grip Lateral Raise #175",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 63.9,
+      "target_1rm": 100.4,
+      "status": "retired",
+      "started_on": "2018-12-18",
+      "rating": null,
+      "tags": [
+        "tag-8",
+        "tag-18",
+        "tag-44"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000176",
+      "name": "Close-grip Leg Extension #176",
+      "musclegroups": [
+        "Shoulders",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 129.8,
+      "target_1rm": 139.2,
+      "status": "retired",
+      "started_on": "2018-10-17",
+      "rating": 4.9,
+      "tags": [
+        "tag-25",
+        "tag-38"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000177",
+      "name": "Close-grip Face Pull #177",
+      "musclegroups": [
+        "Biceps",
+        "Quadriceps"
+      ],
+      "wger": "286",
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 131.2,
+      "target_1rm": 156.8,
+      "status": "maintenance",
+      "started_on": "2020-11-14",
+      "rating": 3.0,
+      "tags": [
+        "tag-5",
+        "tag-10",
+        "tag-29"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000178",
+      "name": "Wide-grip Incline Bench Press",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": "587",
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 65.9,
+      "target_1rm": 89.4,
+      "status": "maintenance",
+      "started_on": "2018-11-21",
+      "rating": 4.6,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000179",
+      "name": "Wide-grip Front Squat",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": "734",
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 219.7,
+      "target_1rm": 226.3,
+      "status": "learning",
+      "started_on": "2019-06-07",
+      "rating": null,
+      "tags": [
+        "tag-24",
+        "tag-60"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000180",
+      "name": "Beltless Leg Extension",
+      "musclegroups": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 243.5,
+      "target_1rm": 254.9,
+      "status": "maintenance",
+      "started_on": "2017-04-18",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000181",
+      "name": "Paused Good Morning #181",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": "314",
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 218.9,
+      "target_1rm": 247.5,
+      "status": "retired",
+      "started_on": "2017-03-02",
+      "rating": 2.8,
+      "tags": [
+        "tag-33",
+        "tag-14",
+        "tag-20"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000182",
+      "name": "Tempo Incline Bench Press",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 99.6,
+      "target_1rm": 109.0,
+      "status": "maintenance",
+      "started_on": "2019-12-20",
+      "rating": 4.2,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000183",
+      "name": "Deficit Good Morning #183",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 201.3,
+      "target_1rm": 232.4,
+      "status": "retired",
+      "started_on": "2020-12-07",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000184",
+      "name": "Pin Leg Curl",
+      "musclegroups": [
+        "Triceps",
+        "Back"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 51.3,
+      "target_1rm": 70.0,
+      "status": "maintenance",
+      "started_on": "2017-12-06",
+      "rating": 4.5,
+      "tags": [
+        "tag-5",
+        "tag-30"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000185",
+      "name": "Wide-grip Lateral Raise",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 52.4,
+      "target_1rm": 73.7,
+      "status": "benched",
+      "started_on": "2019-02-14",
+      "rating": null,
+      "tags": [
+        "tag-43"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000186",
+      "name": "Barbell Row #186",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 199.5,
+      "target_1rm": 210.1,
+      "status": "maintenance",
+      "started_on": "2020-02-02",
+      "rating": 2.8,
+      "tags": [
+        "tag-25",
+        "tag-9"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000187",
+      "name": "Tempo Front Squat",
+      "musclegroups": [
+        "Biceps",
+        "Quadriceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 108.1,
+      "target_1rm": 132.9,
+      "status": "retired",
+      "started_on": "2018-04-03",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000188",
+      "name": "Beltless Face Pull",
+      "musclegroups": [
+        "Chest",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 233.0,
+      "target_1rm": 254.4,
+      "status": "retired",
+      "started_on": "2019-07-05",
+      "rating": null,
+      "tags": [
+        "tag-47"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000189",
+      "name": "Pin Dip",
+      "musclegroups": [
+        "Back",
+        "Core"
+      ],
+      "wger": "171",
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 259.4,
+      "target_1rm": 294.0,
+      "status": "learning",
+      "started_on": "2018-04-15",
+      "rating": 3.1,
+      "tags": [
+        "tag-44"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000190",
+      "name": "Paused Dip",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 28.0,
+      "target_1rm": 64.9,
+      "status": "active",
+      "started_on": "2020-06-13",
+      "rating": 4.8,
+      "tags": [
+        "tag-18"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000191",
+      "name": "Beltless Push Press #191",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 201.9,
+      "target_1rm": 210.9,
+      "status": "maintenance",
+      "started_on": "2020-03-18",
+      "rating": 4.9,
+      "tags": [
+        "tag-19",
+        "tag-47",
+        "tag-11"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000192",
+      "name": "Pin Chin-up",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 66.7,
+      "target_1rm": 86.2,
+      "status": "retired",
+      "started_on": "2017-06-01",
+      "rating": 4.4,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000193",
+      "name": "Tempo Bench Press",
+      "musclegroups": [
+        "Chest",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 233.4,
+      "target_1rm": 250.5,
+      "status": "benched",
+      "started_on": "2019-04-07",
+      "rating": 5.0,
+      "tags": [
+        "tag-30"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000194",
+      "name": "Tempo Bench Press",
+      "musclegroups": [
+        "Glutes",
+        "Biceps"
+      ],
+      "wger": "850",
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 35.7,
+      "target_1rm": 64.2,
+      "status": "retired",
+      "started_on": "2017-05-15",
+      "rating": null,
+      "tags": [
+        "tag-44",
+        "tag-42"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000195",
+      "name": "Wide-grip Bench Press",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 258.8,
+      "target_1rm": 282.4,
+      "status": "maintenance",
+      "started_on": "2019-04-22",
+      "rating": 4.3,
+      "tags": [
+        "tag-15",
+        "tag-52",
+        "tag-58"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000196",
+      "name": "Beltless Hip Thrust",
+      "musclegroups": [
+        "Chest",
+        "Hamstrings"
+      ],
+      "wger": "280",
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 102.9,
+      "target_1rm": 110.5,
+      "status": "learning",
+      "started_on": "2018-03-17",
+      "rating": 3.7,
+      "tags": [
+        "tag-6",
+        "tag-59",
+        "tag-34"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000197",
+      "name": "Wide-grip Hip Thrust",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": "563",
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 212.1,
+      "target_1rm": 246.4,
+      "status": "maintenance",
+      "started_on": "2017-06-07",
+      "rating": 3.9,
+      "tags": [
+        "tag-57"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2020-000198",
+      "name": "Tempo Calf Raise #198",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 141.4,
+      "target_1rm": 179.1,
+      "status": "active",
+      "started_on": "2019-07-24",
+      "rating": 5.0,
+      "tags": [
+        "tag-30",
+        "tag-18"
+      ],
+      "notes": ""
+    }
+  ]
+}

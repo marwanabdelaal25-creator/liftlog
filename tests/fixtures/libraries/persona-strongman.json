@@ -1,0 +1,7413 @@
+{
+  "schema": 3,
+  "label": "persona-strongman",
+  "persona": "crossfitter",
+  "generated": true,
+  "stats": {
+    "exercises": 204,
+    "worksets": 434,
+    "volume": 383008.4
+  },
+  "exercises": [
+    {
+      "id": "ex-2025-000000",
+      "name": "Beltless Hip Thrust",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 41.8,
+      "target_1rm": 75.5,
+      "status": "learning",
+      "started_on": "2024-10-14",
+      "rating": null,
+      "tags": [
+        "tag-54",
+        "tag-43"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000001",
+      "name": "Pin Bicep Curl #1",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": "309",
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 28.6,
+      "target_1rm": 41.6,
+      "status": "learning",
+      "started_on": "2023-01-22",
+      "rating": null,
+      "tags": [
+        "tag-16",
+        "tag-42",
+        "tag-24"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000002",
+      "name": "Beltless Leg Press #2",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": "74",
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 181.2,
+      "target_1rm": 204.8,
+      "status": "retired",
+      "started_on": "2023-03-18",
+      "rating": 4.4,
+      "tags": [
+        "tag-32",
+        "tag-24"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000003",
+      "name": "Close-grip Overhead Press #3",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 64.5,
+      "target_1rm": 75.0,
+      "status": "active",
+      "started_on": "2025-08-20",
+      "rating": 3.0,
+      "tags": [
+        "tag-20"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000004",
+      "name": "Wide-grip Incline Bench Press",
+      "musclegroups": [
+        "Back",
+        "Chest"
+      ],
+      "wger": "554",
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 207.8,
+      "target_1rm": 225.2,
+      "status": "benched",
+      "started_on": "2023-09-24",
+      "rating": null,
+      "tags": [
+        "tag-30"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000005",
+      "name": "Deficit Incline Bench Press",
+      "musclegroups": [
+        "Hamstrings",
+        "Glutes"
+      ],
+      "wger": "345",
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 133.3,
+      "target_1rm": 148.7,
+      "status": "maintenance",
+      "started_on": "2025-06-18",
+      "rating": 3.3,
+      "tags": [
+        "tag-35",
+        "tag-11"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000006",
+      "name": "Beltless Lat Pulldown",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": "129",
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 136.0,
+      "target_1rm": 167.4,
+      "status": "retired",
+      "started_on": "2023-02-19",
+      "rating": 3.3,
+      "tags": [
+        "tag-58",
+        "tag-37",
+        "tag-38"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000007",
+      "name": "Beltless Lat Pulldown #7",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": "587",
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 64.5,
+      "target_1rm": 88.2,
+      "status": "retired",
+      "started_on": "2023-05-19",
+      "rating": 4.6,
+      "tags": [
+        "tag-41"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000008",
+      "name": "Beltless Dip",
+      "musclegroups": [
+        "Biceps",
+        "Triceps"
+      ],
+      "wger": "198",
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 152.4,
+      "target_1rm": 157.0,
+      "status": "active",
+      "started_on": "2023-08-28",
+      "rating": 2.5,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000009",
+      "name": "Wide-grip Dip",
+      "musclegroups": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "wger": "212",
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 250.2,
+      "target_1rm": 256.7,
+      "status": "learning",
+      "started_on": "2023-02-05",
+      "rating": 4.8,
+      "tags": [
+        "tag-45"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000010",
+      "name": "Tempo Push Press",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 156.8,
+      "target_1rm": 190.7,
+      "status": "active",
+      "started_on": "2024-04-23",
+      "rating": 3.0,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000011",
+      "name": "Paused Face Pull",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": "433",
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 164.4,
+      "target_1rm": 189.3,
+      "status": "active",
+      "started_on": "2023-03-22",
+      "rating": 4.0,
+      "tags": [
+        "tag-30"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000012",
+      "name": "Incline Bench Press",
+      "musclegroups": [
+        "Quadriceps",
+        "Core"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 204.5,
+      "target_1rm": 221.0,
+      "status": "retired",
+      "started_on": "2024-02-16",
+      "rating": 4.0,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000013",
+      "name": "Deficit Front Squat #13",
+      "musclegroups": [
+        "Triceps",
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 47.4,
+      "target_1rm": 65.1,
+      "status": "active",
+      "started_on": "2022-11-08",
+      "rating": 4.6,
+      "tags": [
+        "tag-41"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000014",
+      "name": "Deficit Face Pull",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 255.4,
+      "target_1rm": 258.6,
+      "status": "active",
+      "started_on": "2022-03-23",
+      "rating": 3.3,
+      "tags": [
+        "tag-29",
+        "tag-10",
+        "tag-56"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000015",
+      "name": "Deficit Dip",
+      "musclegroups": [
+        "Hamstrings",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 157.9,
+      "target_1rm": 190.3,
+      "status": "active",
+      "started_on": "2022-06-19",
+      "rating": null,
+      "tags": [
+        "tag-57",
+        "tag-26"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000016",
+      "name": "Close-grip Leg Extension",
+      "musclegroups": [
+        "Chest",
+        "Biceps"
+      ],
+      "wger": "545",
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 161.3,
+      "target_1rm": 182.1,
+      "status": "retired",
+      "started_on": "2024-03-27",
+      "rating": 3.3,
+      "tags": [
+        "tag-49",
+        "tag-48",
+        "tag-35"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000017",
+      "name": "Romanian Deadlift #17",
+      "musclegroups": [
+        "Quadriceps",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 86.5,
+      "target_1rm": 113.0,
+      "status": "learning",
+      "started_on": "2025-06-26",
+      "rating": 4.3,
+      "tags": [
+        "tag-57",
+        "tag-13",
+        "tag-45"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000018",
+      "name": "Beltless Good Morning",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": "88",
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 121.1,
+      "target_1rm": 127.9,
+      "status": "maintenance",
+      "started_on": "2024-08-13",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000019",
+      "name": "Wide-grip Snatch #19",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": "364",
+      "category": "olympic",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 194.0,
+      "target_1rm": 217.0,
+      "status": "active",
+      "started_on": "2024-06-27",
+      "rating": null,
+      "tags": [
+        "tag-26",
+        "tag-10"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000020",
+      "name": "Deficit Dip",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 177.5,
+      "target_1rm": 185.1,
+      "status": "benched",
+      "started_on": "2024-07-28",
+      "rating": null,
+      "tags": [
+        "tag-18"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000021",
+      "name": "Tricep Pushdown",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": "217",
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 138.2,
+      "target_1rm": 154.6,
+      "status": "learning",
+      "started_on": "2024-01-07",
+      "rating": 3.8,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000022",
+      "name": "Close-grip Hip Thrust #22",
+      "musclegroups": [
+        "Shoulders",
+        "Quadriceps"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 29.3,
+      "target_1rm": 59.4,
+      "status": "maintenance",
+      "started_on": "2024-02-12",
+      "rating": 3.5,
+      "tags": [
+        "tag-57"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000023",
+      "name": "Wide-grip Back Squat",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 52.8,
+      "target_1rm": 89.4,
+      "status": "active",
+      "started_on": "2025-09-20",
+      "rating": null,
+      "tags": [
+        "tag-59"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000024",
+      "name": "Tempo Power Clean",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": "832",
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 259.7,
+      "target_1rm": 271.9,
+      "status": "benched",
+      "started_on": "2022-01-13",
+      "rating": null,
+      "tags": [
+        "tag-4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000025",
+      "name": "Pin Power Clean #25",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": "822",
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 201.8,
+      "target_1rm": 215.2,
+      "status": "active",
+      "started_on": "2025-04-24",
+      "rating": 4.0,
+      "tags": [
+        "tag-47",
+        "tag-56"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000026",
+      "name": "Beltless Chin-up",
+      "musclegroups": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "wger": "515",
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 148.5,
+      "target_1rm": 187.8,
+      "status": "active",
+      "started_on": "2023-05-05",
+      "rating": 3.8,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000027",
+      "name": "Wide-grip Deadlift",
+      "musclegroups": [
+        "Glutes",
+        "Biceps"
+      ],
+      "wger": "237",
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 161.5,
+      "target_1rm": 171.1,
+      "status": "maintenance",
+      "started_on": "2023-05-05",
+      "rating": 4.4,
+      "tags": [
+        "tag-33"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000028",
+      "name": "Tempo Leg Curl #28",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 133.1,
+      "target_1rm": 161.8,
+      "status": "learning",
+      "started_on": "2022-04-22",
+      "rating": 3.4,
+      "tags": [
+        "tag-5",
+        "tag-11"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000029",
+      "name": "Tricep Pushdown #29",
+      "musclegroups": [
+        "Quadriceps",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 216.1,
+      "target_1rm": 221.7,
+      "status": "active",
+      "started_on": "2023-06-16",
+      "rating": null,
+      "tags": [
+        "tag-23",
+        "tag-20",
+        "tag-57"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000030",
+      "name": "Tempo Chin-up #30",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 78.2,
+      "target_1rm": 96.0,
+      "status": "benched",
+      "started_on": "2025-03-02",
+      "rating": 3.7,
+      "tags": [
+        "tag-11",
+        "tag-20"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000031",
+      "name": "Close-grip Deadlift",
+      "musclegroups": [
+        "Hamstrings",
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 153.1,
+      "target_1rm": 189.9,
+      "status": "maintenance",
+      "started_on": "2025-09-03",
+      "rating": 4.3,
+      "tags": [
+        "tag-28",
+        "tag-39",
+        "tag-32"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000032",
+      "name": "Paused Lat Pulldown",
+      "musclegroups": [
+        "Glutes",
+        "Chest"
+      ],
+      "wger": "807",
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 78.2,
+      "target_1rm": 111.8,
+      "status": "active",
+      "started_on": "2024-06-16",
+      "rating": 3.2,
+      "tags": [
+        "tag-32",
+        "tag-56",
+        "tag-36"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000033",
+      "name": "Paused Push Press",
+      "musclegroups": [
+        "Quadriceps",
+        "Hamstrings"
+      ],
+      "wger": "615",
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 21.5,
+      "target_1rm": 25.8,
+      "status": "benched",
+      "started_on": "2025-07-25",
+      "rating": null,
+      "tags": [
+        "tag-51",
+        "tag-45"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000034",
+      "name": "Deficit Leg Curl",
+      "musclegroups": [
+        "Glutes",
+        "Shoulders"
+      ],
+      "wger": "489",
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 198.4,
+      "target_1rm": 233.7,
+      "status": "benched",
+      "started_on": "2022-04-14",
+      "rating": 2.6,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000035",
+      "name": "Tempo Snatch",
+      "musclegroups": [
+        "Chest",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 257.0,
+      "target_1rm": 266.4,
+      "status": "maintenance",
+      "started_on": "2023-05-22",
+      "rating": 4.5,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000036",
+      "name": "Tempo Front Squat #36",
+      "musclegroups": [
+        "Shoulders",
+        "Quadriceps"
+      ],
+      "wger": "20",
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 139.3,
+      "target_1rm": 155.6,
+      "status": "retired",
+      "started_on": "2024-05-03",
+      "rating": 2.5,
+      "tags": [
+        "tag-29",
+        "tag-39",
+        "tag-42"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000037",
+      "name": "Lat Pulldown",
+      "musclegroups": [
+        "Core",
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 192.0,
+      "target_1rm": 226.7,
+      "status": "retired",
+      "started_on": "2024-02-23",
+      "rating": 4.1,
+      "tags": [
+        "tag-49",
+        "tag-16"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000038",
+      "name": "Beltless Barbell Row",
+      "musclegroups": [
+        "Calves",
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 81.6,
+      "target_1rm": 94.9,
+      "status": "active",
+      "started_on": "2022-07-12",
+      "rating": 2.8,
+      "tags": [
+        "tag-45",
+        "tag-8",
+        "tag-33"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000039",
+      "name": "Romanian Deadlift #39",
+      "musclegroups": [
+        "Calves",
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 159.1,
+      "target_1rm": 189.5,
+      "status": "learning",
+      "started_on": "2023-05-21",
+      "rating": 3.4,
+      "tags": [
+        "tag-57",
+        "tag-14",
+        "tag-11"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000040",
+      "name": "Paused Dip #40",
+      "musclegroups": [
+        "Biceps",
+        "Back"
+      ],
+      "wger": "524",
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 200.9,
+      "target_1rm": 233.1,
+      "status": "learning",
+      "started_on": "2022-04-23",
+      "rating": null,
+      "tags": [
+        "tag-49"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000041",
+      "name": "Paused Calf Raise",
+      "musclegroups": [
+        "Biceps",
+        "Triceps"
+      ],
+      "wger": "216",
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 254.8,
+      "target_1rm": 277.2,
+      "status": "benched",
+      "started_on": "2022-11-28",
+      "rating": 4.6,
+      "tags": [
+        "tag-7"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000042",
+      "name": "Dip #42",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": "784",
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 142.7,
+      "target_1rm": 179.1,
+      "status": "active",
+      "started_on": "2023-06-21",
+      "rating": 3.2,
+      "tags": [
+        "tag-35"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000043",
+      "name": "Beltless Leg Extension",
+      "musclegroups": [
+        "Hamstrings",
+        "Back"
+      ],
+      "wger": "502",
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 238.2,
+      "target_1rm": 276.8,
+      "status": "maintenance",
+      "started_on": "2023-07-16",
+      "rating": 4.7,
+      "tags": [
+        "tag-48"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000044",
+      "name": "Deficit Overhead Press",
+      "musclegroups": [
+        "Hamstrings",
+        "Biceps"
+      ],
+      "wger": "453",
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 33.4,
+      "target_1rm": 49.8,
+      "status": "active",
+      "started_on": "2022-04-04",
+      "rating": 4.1,
+      "tags": [
+        "tag-32",
+        "tag-1",
+        "tag-18"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000045",
+      "name": "Wide-grip Face Pull",
+      "musclegroups": [
+        "Calves",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 237.8,
+      "target_1rm": 277.5,
+      "status": "maintenance",
+      "started_on": "2025-12-02",
+      "rating": 4.8,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000046",
+      "name": "Beltless Chin-up",
+      "musclegroups": [
+        "Triceps",
+        "Back"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 144.3,
+      "target_1rm": 179.9,
+      "status": "active",
+      "started_on": "2023-02-11",
+      "rating": 3.7,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000047",
+      "name": "Pin Bicep Curl #47",
+      "musclegroups": [
+        "Glutes",
+        "Back"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 54.5,
+      "target_1rm": 89.8,
+      "status": "active",
+      "started_on": "2025-01-02",
+      "rating": 4.1,
+      "tags": [
+        "tag-38",
+        "tag-2",
+        "tag-44"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000048",
+      "name": "Pin Dip",
+      "musclegroups": [
+        "Back",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 42.6,
+      "target_1rm": 56.1,
+      "status": "active",
+      "started_on": "2023-09-03",
+      "rating": null,
+      "tags": [
+        "tag-31",
+        "tag-42"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000049",
+      "name": "Wide-grip Lat Pulldown #49",
+      "musclegroups": [
+        "Hamstrings",
+        "Glutes"
+      ],
+      "wger": "547",
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 85.4,
+      "target_1rm": 110.9,
+      "status": "benched",
+      "started_on": "2025-09-27",
+      "rating": null,
+      "tags": [
+        "tag-36"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000050",
+      "name": "Close-grip Good Morning #50",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": "198",
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 108.5,
+      "target_1rm": 112.4,
+      "status": "learning",
+      "started_on": "2023-06-15",
+      "rating": 3.5,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000051",
+      "name": "Pin Leg Curl #51",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 46.6,
+      "target_1rm": 63.1,
+      "status": "retired",
+      "started_on": "2025-01-20",
+      "rating": 2.6,
+      "tags": [
+        "tag-53",
+        "tag-12"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000052",
+      "name": "Deficit Lat Pulldown #52",
+      "musclegroups": [
+        "Shoulders",
+        "Triceps"
+      ],
+      "wger": "469",
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 111.0,
+      "target_1rm": 125.6,
+      "status": "learning",
+      "started_on": "2024-04-19",
+      "rating": null,
+      "tags": [
+        "tag-59",
+        "tag-55",
+        "tag-36"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000053",
+      "name": "Deficit Back Squat",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 143.5,
+      "target_1rm": 181.3,
+      "status": "active",
+      "started_on": "2025-02-21",
+      "rating": 4.6,
+      "tags": [
+        "tag-33"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000054",
+      "name": "Wide-grip Barbell Row",
+      "musclegroups": [
+        "Core",
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 41.9,
+      "target_1rm": 51.9,
+      "status": "retired",
+      "started_on": "2023-02-11",
+      "rating": 3.1,
+      "tags": [
+        "tag-59",
+        "tag-23",
+        "tag-13"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000055",
+      "name": "Tempo Dip",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 72.3,
+      "target_1rm": 87.0,
+      "status": "retired",
+      "started_on": "2025-06-15",
+      "rating": 3.9,
+      "tags": [
+        "tag-48"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000056",
+      "name": "Wide-grip Good Morning",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": "152",
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 119.2,
+      "target_1rm": 147.4,
+      "status": "active",
+      "started_on": "2023-03-12",
+      "rating": 2.7,
+      "tags": [
+        "tag-50",
+        "tag-41"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000057",
+      "name": "Paused Romanian Deadlift #57",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": "648",
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 215.6,
+      "target_1rm": 240.1,
+      "status": "retired",
+      "started_on": "2023-05-13",
+      "rating": 4.6,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000058",
+      "name": "Tempo Lateral Raise",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 64.2,
+      "target_1rm": 101.3,
+      "status": "active",
+      "started_on": "2022-09-10",
+      "rating": 3.7,
+      "tags": [
+        "tag-20",
+        "tag-40",
+        "tag-28"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000059",
+      "name": "Paused Deadlift",
+      "musclegroups": [
+        "Triceps",
+        "Hamstrings"
+      ],
+      "wger": "892",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 225.2,
+      "target_1rm": 249.0,
+      "status": "learning",
+      "started_on": "2022-05-02",
+      "rating": 4.3,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000060",
+      "name": "Beltless Leg Curl",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 142.9,
+      "target_1rm": 171.8,
+      "status": "maintenance",
+      "started_on": "2025-08-16",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000061",
+      "name": "Wide-grip Leg Extension",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": "668",
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 21.7,
+      "target_1rm": 32.2,
+      "status": "learning",
+      "started_on": "2022-04-08",
+      "rating": 3.2,
+      "tags": [
+        "tag-41",
+        "tag-22",
+        "tag-8"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000062",
+      "name": "Beltless Face Pull",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": "756",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 30.6,
+      "target_1rm": 62.8,
+      "status": "retired",
+      "started_on": "2023-06-28",
+      "rating": null,
+      "tags": [
+        "tag-11"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000063",
+      "name": "Beltless Deadlift",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 151.0,
+      "target_1rm": 185.7,
+      "status": "benched",
+      "started_on": "2024-10-25",
+      "rating": 3.3,
+      "tags": [
+        "tag-5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000064",
+      "name": "Deficit Hip Thrust #64",
+      "musclegroups": [
+        "Shoulders",
+        "Quadriceps"
+      ],
+      "wger": "133",
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 20.0,
+      "target_1rm": 58.1,
+      "status": "benched",
+      "started_on": "2023-12-04",
+      "rating": 4.5,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000065",
+      "name": "Deficit Romanian Deadlift #65",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 175.1,
+      "target_1rm": 202.8,
+      "status": "retired",
+      "started_on": "2023-02-15",
+      "rating": 2.8,
+      "tags": [
+        "tag-33"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000066",
+      "name": "Tempo Barbell Row",
+      "musclegroups": [
+        "Shoulders",
+        "Chest"
+      ],
+      "wger": "614",
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 114.4,
+      "target_1rm": 143.9,
+      "status": "active",
+      "started_on": "2024-11-05",
+      "rating": 4.9,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000067",
+      "name": "Paused Front Squat",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": "49",
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 253.7,
+      "target_1rm": 274.7,
+      "status": "retired",
+      "started_on": "2022-05-01",
+      "rating": 2.8,
+      "tags": [
+        "tag-57",
+        "tag-56",
+        "tag-17"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000068",
+      "name": "Beltless Barbell Row",
+      "musclegroups": [
+        "Chest",
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 68.4,
+      "target_1rm": 100.0,
+      "status": "active",
+      "started_on": "2022-12-01",
+      "rating": 3.3,
+      "tags": [
+        "tag-57"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000069",
+      "name": "Calf Raise",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": "625",
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 55.7,
+      "target_1rm": 63.7,
+      "status": "benched",
+      "started_on": "2025-01-24",
+      "rating": 4.8,
+      "tags": [
+        "tag-13",
+        "tag-18",
+        "tag-22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000070",
+      "name": "Close-grip Snatch",
+      "musclegroups": [
+        "Hamstrings",
+        "Chest"
+      ],
+      "wger": "569",
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 250.3,
+      "target_1rm": 264.0,
+      "status": "active",
+      "started_on": "2023-08-19",
+      "rating": 4.9,
+      "tags": [
+        "tag-55",
+        "tag-17"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000071",
+      "name": "Deficit Deadlift #71",
+      "musclegroups": [
+        "Back",
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 115.5,
+      "target_1rm": 132.1,
+      "status": "retired",
+      "started_on": "2023-03-04",
+      "rating": 4.4,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000072",
+      "name": "Deficit Calf Raise #72",
+      "musclegroups": [
+        "Quadriceps",
+        "Shoulders"
+      ],
+      "wger": "525",
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 50.6,
+      "target_1rm": 85.5,
+      "status": "active",
+      "started_on": "2024-06-24",
+      "rating": 4.8,
+      "tags": [
+        "tag-17",
+        "tag-35",
+        "tag-42"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000073",
+      "name": "Wide-grip Lateral Raise",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": "567",
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 190.9,
+      "target_1rm": 228.4,
+      "status": "learning",
+      "started_on": "2024-11-03",
+      "rating": 5.0,
+      "tags": [
+        "tag-22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000074",
+      "name": "Pin Hip Thrust #74",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": "128",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 240.8,
+      "target_1rm": 256.9,
+      "status": "benched",
+      "started_on": "2024-01-21",
+      "rating": 4.5,
+      "tags": [
+        "tag-40"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000075",
+      "name": "Paused Incline Bench Press",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": "326",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 214.6,
+      "target_1rm": 249.9,
+      "status": "active",
+      "started_on": "2023-11-17",
+      "rating": 4.0,
+      "tags": [
+        "tag-20",
+        "tag-25",
+        "tag-26"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000076",
+      "name": "Deficit Power Clean",
+      "musclegroups": [
+        "Chest"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 218.9,
+      "target_1rm": 229.1,
+      "status": "benched",
+      "started_on": "2025-04-12",
+      "rating": 2.8,
+      "tags": [
+        "tag-41"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000077",
+      "name": "Deficit Overhead Press",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 177.9,
+      "target_1rm": 198.6,
+      "status": "active",
+      "started_on": "2022-11-27",
+      "rating": 4.0,
+      "tags": [
+        "tag-28"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000078",
+      "name": "Deficit Lat Pulldown",
+      "musclegroups": [
+        "Shoulders",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 85.7,
+      "target_1rm": 124.3,
+      "status": "benched",
+      "started_on": "2023-07-03",
+      "rating": 4.5,
+      "tags": [
+        "tag-44"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000079",
+      "name": "Close-grip Dip #79",
+      "musclegroups": [
+        "Quadriceps",
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 48.9,
+      "target_1rm": 80.6,
+      "status": "active",
+      "started_on": "2022-07-19",
+      "rating": 3.9,
+      "tags": [
+        "tag-27",
+        "tag-49"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000080",
+      "name": "Wide-grip Hip Thrust",
+      "musclegroups": [
+        "Biceps",
+        "Back"
+      ],
+      "wger": "626",
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 86.2,
+      "target_1rm": 108.0,
+      "status": "active",
+      "started_on": "2025-09-21",
+      "rating": 4.8,
+      "tags": [
+        "tag-3",
+        "tag-9",
+        "tag-21"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000081",
+      "name": "Paused Hip Thrust",
+      "musclegroups": [
+        "Triceps",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 128.2,
+      "target_1rm": 141.8,
+      "status": "maintenance",
+      "started_on": "2023-07-13",
+      "rating": 4.2,
+      "tags": [
+        "tag-48",
+        "tag-5",
+        "tag-32"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000082",
+      "name": "Wide-grip Back Squat",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": "508",
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 42.7,
+      "target_1rm": 80.5,
+      "status": "active",
+      "started_on": "2024-12-18",
+      "rating": 3.1,
+      "tags": [
+        "tag-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000083",
+      "name": "Deficit Lat Pulldown",
+      "musclegroups": [
+        "Shoulders",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 181.0,
+      "target_1rm": 189.6,
+      "status": "maintenance",
+      "started_on": "2024-11-03",
+      "rating": 2.9,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000084",
+      "name": "Deadlift",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 101.9,
+      "target_1rm": 123.0,
+      "status": "active",
+      "started_on": "2022-08-21",
+      "rating": 3.9,
+      "tags": [
+        "tag-39",
+        "tag-11"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000085",
+      "name": "Tempo Calf Raise",
+      "musclegroups": [
+        "Chest",
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 237.7,
+      "target_1rm": 245.5,
+      "status": "retired",
+      "started_on": "2025-08-07",
+      "rating": 4.2,
+      "tags": [
+        "tag-38"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000086",
+      "name": "Wide-grip Calf Raise #86",
+      "musclegroups": [
+        "Chest",
+        "Core"
+      ],
+      "wger": "816",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 92.1,
+      "target_1rm": 108.6,
+      "status": "learning",
+      "started_on": "2022-02-06",
+      "rating": null,
+      "tags": [
+        "tag-9"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000087",
+      "name": "Beltless Hip Thrust",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 181.1,
+      "target_1rm": 210.3,
+      "status": "retired",
+      "started_on": "2022-06-10",
+      "rating": 4.6,
+      "tags": [
+        "tag-37"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000088",
+      "name": "Calf Raise",
+      "musclegroups": [
+        "Shoulders",
+        "Core"
+      ],
+      "wger": "847",
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 74.9,
+      "target_1rm": 103.9,
+      "status": "retired",
+      "started_on": "2025-02-19",
+      "rating": 3.9,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000089",
+      "name": "Paused Lateral Raise #89",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 59.3,
+      "target_1rm": 79.5,
+      "status": "active",
+      "started_on": "2025-01-27",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000090",
+      "name": "Tempo Hip Thrust",
+      "musclegroups": [
+        "Shoulders",
+        "Calves"
+      ],
+      "wger": "513",
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 54.1,
+      "target_1rm": 71.2,
+      "status": "benched",
+      "started_on": "2022-07-17",
+      "rating": 4.0,
+      "tags": [
+        "tag-37",
+        "tag-33",
+        "tag-51"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000091",
+      "name": "Tempo Deadlift",
+      "musclegroups": [
+        "Chest"
+      ],
+      "wger": "561",
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 125.9,
+      "target_1rm": 138.9,
+      "status": "retired",
+      "started_on": "2022-06-21",
+      "rating": 4.1,
+      "tags": [
+        "tag-48",
+        "tag-27"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000092",
+      "name": "Beltless Power Clean #92",
+      "musclegroups": [
+        "Hamstrings",
+        "Core"
+      ],
+      "wger": "866",
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 62.6,
+      "target_1rm": 67.4,
+      "status": "active",
+      "started_on": "2022-08-16",
+      "rating": 2.6,
+      "tags": [
+        "tag-56",
+        "tag-56",
+        "tag-25"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000093",
+      "name": "Deficit Overhead Press",
+      "musclegroups": [
+        "Back",
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 35.2,
+      "target_1rm": 45.9,
+      "status": "learning",
+      "started_on": "2025-10-08",
+      "rating": null,
+      "tags": [
+        "tag-27",
+        "tag-1",
+        "tag-11"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000094",
+      "name": "Beltless Bicep Curl",
+      "musclegroups": [
+        "Calves",
+        "Triceps"
+      ],
+      "wger": "19",
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 157.2,
+      "target_1rm": 183.8,
+      "status": "retired",
+      "started_on": "2023-06-19",
+      "rating": 3.8,
+      "tags": [
+        "tag-60"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000095",
+      "name": "Tempo Front Squat #95",
+      "musclegroups": [
+        "Biceps",
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 91.7,
+      "target_1rm": 101.2,
+      "status": "learning",
+      "started_on": "2024-01-13",
+      "rating": 3.9,
+      "tags": [
+        "tag-12"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000096",
+      "name": "Beltless Push Press",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": "649",
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 226.8,
+      "target_1rm": 247.4,
+      "status": "active",
+      "started_on": "2023-04-08",
+      "rating": 4.9,
+      "tags": [
+        "tag-45",
+        "tag-14",
+        "tag-8"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000097",
+      "name": "Close-grip Face Pull",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 146.9,
+      "target_1rm": 172.2,
+      "status": "active",
+      "started_on": "2024-02-27",
+      "rating": 4.8,
+      "tags": [
+        "tag-3",
+        "tag-60",
+        "tag-48"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000098",
+      "name": "Paused Push Press #98",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 245.3,
+      "target_1rm": 249.2,
+      "status": "active",
+      "started_on": "2022-05-06",
+      "rating": 2.7,
+      "tags": [
+        "tag-25",
+        "tag-23"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000099",
+      "name": "Tempo Leg Extension #99",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 166.8,
+      "target_1rm": 205.5,
+      "status": "maintenance",
+      "started_on": "2022-12-02",
+      "rating": 4.2,
+      "tags": [
+        "tag-6"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000100",
+      "name": "Beltless Lat Pulldown",
+      "musclegroups": [
+        "Core",
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 251.5,
+      "target_1rm": 259.1,
+      "status": "retired",
+      "started_on": "2025-06-13",
+      "rating": 2.7,
+      "tags": [
+        "tag-47",
+        "tag-22",
+        "tag-52"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000101",
+      "name": "Hip Thrust",
+      "musclegroups": [
+        "Biceps",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 153.4,
+      "target_1rm": 156.3,
+      "status": "learning",
+      "started_on": "2025-02-17",
+      "rating": 4.8,
+      "tags": [
+        "tag-47",
+        "tag-46",
+        "tag-50"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000102",
+      "name": "Tempo Power Clean #102",
+      "musclegroups": [
+        "Calves",
+        "Quadriceps"
+      ],
+      "wger": "677",
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 206.4,
+      "target_1rm": 238.4,
+      "status": "retired",
+      "started_on": "2025-11-22",
+      "rating": 3.4,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000103",
+      "name": "Close-grip Deadlift",
+      "musclegroups": [
+        "Calves",
+        "Shoulders"
+      ],
+      "wger": "612",
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 235.6,
+      "target_1rm": 248.7,
+      "status": "retired",
+      "started_on": "2024-07-08",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000104",
+      "name": "Pin Lateral Raise",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 127.4,
+      "target_1rm": 154.2,
+      "status": "active",
+      "started_on": "2024-01-18",
+      "rating": 4.0,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000105",
+      "name": "Wide-grip Bench Press",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 188.2,
+      "target_1rm": 206.0,
+      "status": "active",
+      "started_on": "2025-03-26",
+      "rating": 2.7,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000106",
+      "name": "Beltless Deadlift #106",
+      "musclegroups": [
+        "Triceps",
+        "Glutes"
+      ],
+      "wger": "573",
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 102.1,
+      "target_1rm": 112.0,
+      "status": "active",
+      "started_on": "2022-04-06",
+      "rating": 3.4,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000107",
+      "name": "Pin Good Morning",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": "362",
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 155.2,
+      "target_1rm": 193.6,
+      "status": "maintenance",
+      "started_on": "2022-10-02",
+      "rating": 3.3,
+      "tags": [
+        "tag-27"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000108",
+      "name": "Pin Incline Bench Press",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 110.6,
+      "target_1rm": 113.7,
+      "status": "retired",
+      "started_on": "2023-10-12",
+      "rating": 4.3,
+      "tags": [
+        "tag-43",
+        "tag-25",
+        "tag-27"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000109",
+      "name": "Paused Front Squat",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": "730",
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 66.5,
+      "target_1rm": 77.6,
+      "status": "active",
+      "started_on": "2024-11-04",
+      "rating": 3.4,
+      "tags": [
+        "tag-45",
+        "tag-34"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000110",
+      "name": "Close-grip Hip Thrust",
+      "musclegroups": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "wger": "23",
+      "category": "olympic",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 203.4,
+      "target_1rm": 234.0,
+      "status": "active",
+      "started_on": "2025-05-22",
+      "rating": null,
+      "tags": [
+        "tag-40",
+        "tag-49",
+        "tag-5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000111",
+      "name": "Barbell Row #111",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 170.1,
+      "target_1rm": 178.7,
+      "status": "retired",
+      "started_on": "2025-02-27",
+      "rating": 4.9,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000112",
+      "name": "Close-grip Calf Raise",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": "406",
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 164.5,
+      "target_1rm": 192.8,
+      "status": "benched",
+      "started_on": "2023-05-10",
+      "rating": 2.9,
+      "tags": [
+        "tag-38",
+        "tag-17",
+        "tag-49"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000113",
+      "name": "Calf Raise",
+      "musclegroups": [
+        "Core",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 156.9,
+      "target_1rm": 187.7,
+      "status": "learning",
+      "started_on": "2025-08-17",
+      "rating": 2.5,
+      "tags": [
+        "tag-3",
+        "tag-25"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000114",
+      "name": "Close-grip Deadlift",
+      "musclegroups": [
+        "Chest",
+        "Core"
+      ],
+      "wger": "145",
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 25.5,
+      "target_1rm": 60.7,
+      "status": "learning",
+      "started_on": "2022-11-03",
+      "rating": 3.8,
+      "tags": [
+        "tag-49",
+        "tag-36"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000115",
+      "name": "Wide-grip Push Press",
+      "musclegroups": [
+        "Core",
+        "Glutes"
+      ],
+      "wger": "506",
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 170.2,
+      "target_1rm": 206.7,
+      "status": "active",
+      "started_on": "2022-10-15",
+      "rating": 4.9,
+      "tags": [
+        "tag-16",
+        "tag-55",
+        "tag-10"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000116",
+      "name": "Tempo Hip Thrust #116",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 39.2,
+      "target_1rm": 47.6,
+      "status": "maintenance",
+      "started_on": "2022-01-01",
+      "rating": 4.6,
+      "tags": [
+        "tag-47",
+        "tag-57"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000117",
+      "name": "Wide-grip Push Press",
+      "musclegroups": [
+        "Hamstrings",
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 146.0,
+      "target_1rm": 174.8,
+      "status": "retired",
+      "started_on": "2025-10-04",
+      "rating": 3.3,
+      "tags": [
+        "tag-56",
+        "tag-43"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000118",
+      "name": "Beltless Calf Raise",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 181.4,
+      "target_1rm": 209.7,
+      "status": "retired",
+      "started_on": "2023-04-17",
+      "rating": 4.3,
+      "tags": [
+        "tag-52"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000119",
+      "name": "Wide-grip Leg Curl",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 85.2,
+      "target_1rm": 96.5,
+      "status": "retired",
+      "started_on": "2025-08-01",
+      "rating": 4.6,
+      "tags": [
+        "tag-57",
+        "tag-27",
+        "tag-59"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000120",
+      "name": "Tempo Overhead Press #120",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 237.8,
+      "target_1rm": 244.9,
+      "status": "active",
+      "started_on": "2023-02-12",
+      "rating": null,
+      "tags": [
+        "tag-5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000121",
+      "name": "Close-grip Dip",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": "643",
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 128.6,
+      "target_1rm": 150.3,
+      "status": "retired",
+      "started_on": "2023-09-27",
+      "rating": 2.9,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000122",
+      "name": "Close-grip Barbell Row #122",
+      "musclegroups": [
+        "Shoulders",
+        "Core"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 255.6,
+      "target_1rm": 278.3,
+      "status": "learning",
+      "started_on": "2022-07-16",
+      "rating": 4.9,
+      "tags": [
+        "tag-9",
+        "tag-3",
+        "tag-12"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000123",
+      "name": "Wide-grip Incline Bench Press #123",
+      "musclegroups": [
+        "Hamstrings",
+        "Biceps"
+      ],
+      "wger": "272",
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 81.4,
+      "target_1rm": 88.0,
+      "status": "active",
+      "started_on": "2023-01-04",
+      "rating": 3.3,
+      "tags": [
+        "tag-60",
+        "tag-20"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000124",
+      "name": "Tempo Front Squat",
+      "musclegroups": [
+        "Biceps",
+        "Core"
+      ],
+      "wger": "419",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 154.8,
+      "target_1rm": 191.9,
+      "status": "benched",
+      "started_on": "2023-12-14",
+      "rating": 2.5,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000125",
+      "name": "Pin Bench Press #125",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": "275",
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 171.6,
+      "target_1rm": 196.5,
+      "status": "benched",
+      "started_on": "2023-12-24",
+      "rating": 2.6,
+      "tags": [
+        "tag-20",
+        "tag-11"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000126",
+      "name": "Wide-grip Deadlift #126",
+      "musclegroups": [
+        "Shoulders",
+        "Triceps"
+      ],
+      "wger": "151",
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 70.0,
+      "target_1rm": 89.3,
+      "status": "benched",
+      "started_on": "2025-11-14",
+      "rating": 4.5,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000127",
+      "name": "Close-grip Bench Press",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": "359",
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 176.8,
+      "target_1rm": 181.7,
+      "status": "retired",
+      "started_on": "2025-07-16",
+      "rating": 4.9,
+      "tags": [
+        "tag-4",
+        "tag-11"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000128",
+      "name": "Pin Bicep Curl",
+      "musclegroups": [
+        "Core",
+        "Back"
+      ],
+      "wger": "323",
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 103.8,
+      "target_1rm": 132.5,
+      "status": "active",
+      "started_on": "2024-09-24",
+      "rating": null,
+      "tags": [
+        "tag-47",
+        "tag-10"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000129",
+      "name": "Pin Barbell Row",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": "605",
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 199.5,
+      "target_1rm": 207.5,
+      "status": "active",
+      "started_on": "2022-10-22",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000130",
+      "name": "Close-grip Front Squat",
+      "musclegroups": [
+        "Chest"
+      ],
+      "wger": "551",
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 243.1,
+      "target_1rm": 249.2,
+      "status": "retired",
+      "started_on": "2023-11-06",
+      "rating": null,
+      "tags": [
+        "tag-28",
+        "tag-46",
+        "tag-25"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000131",
+      "name": "Tempo Tricep Pushdown",
+      "musclegroups": [
+        "Chest"
+      ],
+      "wger": "679",
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 128.7,
+      "target_1rm": 162.4,
+      "status": "benched",
+      "started_on": "2024-11-25",
+      "rating": 3.9,
+      "tags": [
+        "tag-50",
+        "tag-54",
+        "tag-4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000132",
+      "name": "Wide-grip Bicep Curl",
+      "musclegroups": [
+        "Hamstrings",
+        "Calves"
+      ],
+      "wger": "2",
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 256.8,
+      "target_1rm": 278.1,
+      "status": "benched",
+      "started_on": "2024-10-08",
+      "rating": 3.2,
+      "tags": [
+        "tag-15",
+        "tag-15"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000133",
+      "name": "Calf Raise",
+      "musclegroups": [
+        "Chest",
+        "Biceps"
+      ],
+      "wger": "322",
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 192.6,
+      "target_1rm": 225.5,
+      "status": "benched",
+      "started_on": "2025-12-22",
+      "rating": 3.9,
+      "tags": [
+        "tag-52",
+        "tag-14",
+        "tag-15"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000134",
+      "name": "Beltless Lateral Raise #134",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": "191",
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 103.6,
+      "target_1rm": 114.7,
+      "status": "active",
+      "started_on": "2023-01-26",
+      "rating": null,
+      "tags": [
+        "tag-19"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000135",
+      "name": "Tempo Leg Curl",
+      "musclegroups": [
+        "Hamstrings",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 76.6,
+      "target_1rm": 95.4,
+      "status": "maintenance",
+      "started_on": "2022-09-18",
+      "rating": null,
+      "tags": [
+        "tag-40",
+        "tag-44",
+        "tag-39"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000136",
+      "name": "Dip",
+      "musclegroups": [
+        "Core",
+        "Chest"
+      ],
+      "wger": "161",
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 89.8,
+      "target_1rm": 107.4,
+      "status": "benched",
+      "started_on": "2024-04-12",
+      "rating": 4.6,
+      "tags": [
+        "tag-26",
+        "tag-9",
+        "tag-50"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000137",
+      "name": "Wide-grip Bicep Curl",
+      "musclegroups": [
+        "Shoulders",
+        "Triceps"
+      ],
+      "wger": "728",
+      "category": "olympic",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 207.9,
+      "target_1rm": 230.3,
+      "status": "maintenance",
+      "started_on": "2023-10-12",
+      "rating": 4.0,
+      "tags": [
+        "tag-36"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000138",
+      "name": "Good Morning #138",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": "509",
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 85.2,
+      "target_1rm": 122.9,
+      "status": "benched",
+      "started_on": "2023-02-23",
+      "rating": null,
+      "tags": [
+        "tag-57"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000139",
+      "name": "Beltless Push Press #139",
+      "musclegroups": [
+        "Triceps",
+        "Hamstrings"
+      ],
+      "wger": "767",
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 225.7,
+      "target_1rm": 235.5,
+      "status": "active",
+      "started_on": "2025-08-04",
+      "rating": 4.6,
+      "tags": [
+        "tag-1",
+        "tag-11"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000140",
+      "name": "Paused Good Morning",
+      "musclegroups": [
+        "Hamstrings",
+        "Quadriceps"
+      ],
+      "wger": "440",
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 241.1,
+      "target_1rm": 246.2,
+      "status": "benched",
+      "started_on": "2022-05-05",
+      "rating": 4.5,
+      "tags": [
+        "tag-21",
+        "tag-55",
+        "tag-31"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000141",
+      "name": "Wide-grip Hip Thrust",
+      "musclegroups": [
+        "Chest",
+        "Quadriceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 197.4,
+      "target_1rm": 205.7,
+      "status": "benched",
+      "started_on": "2023-04-21",
+      "rating": 4.2,
+      "tags": [
+        "tag-30",
+        "tag-54"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000142",
+      "name": "Barbell Row #142",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": "555",
+      "category": "olympic",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 48.9,
+      "target_1rm": 67.1,
+      "status": "learning",
+      "started_on": "2023-02-02",
+      "rating": 2.8,
+      "tags": [
+        "tag-39",
+        "tag-7"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000143",
+      "name": "Close-grip Back Squat",
+      "musclegroups": [
+        "Glutes",
+        "Chest"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 235.2,
+      "target_1rm": 243.3,
+      "status": "active",
+      "started_on": "2023-01-14",
+      "rating": 4.7,
+      "tags": [
+        "tag-53"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000144",
+      "name": "Front Squat #144",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 199.6,
+      "target_1rm": 239.5,
+      "status": "benched",
+      "started_on": "2023-02-04",
+      "rating": 3.2,
+      "tags": [
+        "tag-10",
+        "tag-55"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000145",
+      "name": "Paused Face Pull",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 209.4,
+      "target_1rm": 245.9,
+      "status": "benched",
+      "started_on": "2022-01-04",
+      "rating": 3.3,
+      "tags": [
+        "tag-60",
+        "tag-31"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000146",
+      "name": "Bench Press #146",
+      "musclegroups": [
+        "Triceps",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 237.8,
+      "target_1rm": 257.6,
+      "status": "maintenance",
+      "started_on": "2024-12-01",
+      "rating": null,
+      "tags": [
+        "tag-28"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000147",
+      "name": "Paused Pull-up #147",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 113.6,
+      "target_1rm": 117.1,
+      "status": "active",
+      "started_on": "2024-06-20",
+      "rating": 4.4,
+      "tags": [
+        "tag-16",
+        "tag-44",
+        "tag-48"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000148",
+      "name": "Paused Bench Press #148",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 152.7,
+      "target_1rm": 167.7,
+      "status": "maintenance",
+      "started_on": "2022-04-05",
+      "rating": 3.5,
+      "tags": [
+        "tag-25",
+        "tag-46"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000149",
+      "name": "Close-grip Back Squat #149",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 99.2,
+      "target_1rm": 135.1,
+      "status": "active",
+      "started_on": "2023-01-28",
+      "rating": 3.1,
+      "tags": [
+        "tag-37",
+        "tag-32"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000150",
+      "name": "Tempo Lat Pulldown",
+      "musclegroups": [
+        "Chest",
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 56.9,
+      "target_1rm": 72.9,
+      "status": "maintenance",
+      "started_on": "2022-04-02",
+      "rating": 3.5,
+      "tags": [
+        "tag-14"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000151",
+      "name": "Beltless Lateral Raise #151",
+      "musclegroups": [
+        "Quadriceps",
+        "Triceps"
+      ],
+      "wger": "668",
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 197.5,
+      "target_1rm": 220.9,
+      "status": "active",
+      "started_on": "2024-09-06",
+      "rating": 4.3,
+      "tags": [
+        "tag-57",
+        "tag-46",
+        "tag-59"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000152",
+      "name": "Tempo Bicep Curl #152",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": "878",
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 151.4,
+      "target_1rm": 155.9,
+      "status": "active",
+      "started_on": "2023-01-16",
+      "rating": 3.6,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000153",
+      "name": "Leg Curl",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": "851",
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 134.3,
+      "target_1rm": 139.7,
+      "status": "retired",
+      "started_on": "2025-06-24",
+      "rating": 2.6,
+      "tags": [
+        "tag-33"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000154",
+      "name": "Paused Hip Thrust",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 105.0,
+      "target_1rm": 125.1,
+      "status": "maintenance",
+      "started_on": "2022-03-02",
+      "rating": null,
+      "tags": [
+        "tag-58",
+        "tag-7",
+        "tag-23"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000155",
+      "name": "Paused Leg Extension",
+      "musclegroups": [
+        "Quadriceps",
+        "Shoulders"
+      ],
+      "wger": "617",
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 230.8,
+      "target_1rm": 242.8,
+      "status": "maintenance",
+      "started_on": "2023-05-27",
+      "rating": null,
+      "tags": [
+        "tag-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000156",
+      "name": "Beltless Pull-up",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": "485",
+      "category": "olympic",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 206.1,
+      "target_1rm": 237.8,
+      "status": "active",
+      "started_on": "2025-12-28",
+      "rating": 3.2,
+      "tags": [
+        "tag-39"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000157",
+      "name": "Tempo Bench Press #157",
+      "musclegroups": [
+        "Triceps",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 216.8,
+      "target_1rm": 233.0,
+      "status": "active",
+      "started_on": "2022-04-11",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000158",
+      "name": "Close-grip Overhead Press #158",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": "373",
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 119.4,
+      "target_1rm": 139.4,
+      "status": "retired",
+      "started_on": "2022-04-14",
+      "rating": 3.7,
+      "tags": [
+        "tag-34",
+        "tag-50",
+        "tag-5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000159",
+      "name": "Pin Barbell Row",
+      "musclegroups": [
+        "Triceps",
+        "Back"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 52.0,
+      "target_1rm": 63.3,
+      "status": "retired",
+      "started_on": "2023-08-14",
+      "rating": 3.4,
+      "tags": [
+        "tag-29",
+        "tag-53",
+        "tag-49"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000160",
+      "name": "Beltless Hip Thrust #160",
+      "musclegroups": [
+        "Triceps"
+      ],
+      "wger": "123",
+      "category": "olympic",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 125.4,
+      "target_1rm": 146.4,
+      "status": "benched",
+      "started_on": "2024-06-12",
+      "rating": 5.0,
+      "tags": [
+        "tag-26"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000161",
+      "name": "Deficit Lateral Raise",
+      "musclegroups": [
+        "Back",
+        "Core"
+      ],
+      "wger": "302",
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 114.2,
+      "target_1rm": 128.8,
+      "status": "active",
+      "started_on": "2023-10-02",
+      "rating": 3.0,
+      "tags": [
+        "tag-56"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000162",
+      "name": "Wide-grip Lat Pulldown",
+      "musclegroups": [
+        "Core",
+        "Triceps"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 62.9,
+      "target_1rm": 65.4,
+      "status": "active",
+      "started_on": "2025-11-08",
+      "rating": 4.7,
+      "tags": [
+        "tag-59",
+        "tag-2"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000163",
+      "name": "Pin Tricep Pushdown",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": "563",
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 66.0,
+      "target_1rm": 94.1,
+      "status": "benched",
+      "started_on": "2024-07-26",
+      "rating": 3.4,
+      "tags": [
+        "tag-4",
+        "tag-39"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000164",
+      "name": "Close-grip Leg Press #164",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": "171",
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 212.8,
+      "target_1rm": 240.4,
+      "status": "maintenance",
+      "started_on": "2024-05-13",
+      "rating": 2.5,
+      "tags": [
+        "tag-38",
+        "tag-16"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000165",
+      "name": "Tempo Dip",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": "816",
+      "category": "compound",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 259.6,
+      "target_1rm": 270.6,
+      "status": "benched",
+      "started_on": "2023-06-10",
+      "rating": 3.7,
+      "tags": [
+        "tag-26",
+        "tag-19",
+        "tag-26"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000166",
+      "name": "Wide-grip Bicep Curl",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 173.1,
+      "target_1rm": 205.0,
+      "status": "benched",
+      "started_on": "2024-03-28",
+      "rating": 3.9,
+      "tags": [
+        "tag-60"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000167",
+      "name": "Close-grip Chin-up",
+      "musclegroups": [
+        "Chest",
+        "Quadriceps"
+      ],
+      "wger": "677",
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 183.4,
+      "target_1rm": 197.1,
+      "status": "retired",
+      "started_on": "2022-12-16",
+      "rating": 4.7,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000168",
+      "name": "Wide-grip Leg Curl",
+      "musclegroups": [
+        "Core",
+        "Chest"
+      ],
+      "wger": "377",
+      "category": "compound",
+      "equipment": "Kettlebell",
+      "unit": "kg",
+      "best_1rm": 49.3,
+      "target_1rm": 54.7,
+      "status": "benched",
+      "started_on": "2024-03-11",
+      "rating": 4.9,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000169",
+      "name": "Paused Barbell Row",
+      "musclegroups": [
+        "Glutes",
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 59.8,
+      "target_1rm": 72.2,
+      "status": "learning",
+      "started_on": "2025-02-06",
+      "rating": null,
+      "tags": [
+        "tag-31",
+        "tag-8"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000170",
+      "name": "Good Morning",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": "9",
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 130.9,
+      "target_1rm": 170.2,
+      "status": "maintenance",
+      "started_on": "2022-09-01",
+      "rating": 4.9,
+      "tags": [
+        "tag-51"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000171",
+      "name": "Pin Face Pull",
+      "musclegroups": [
+        "Chest"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 201.3,
+      "target_1rm": 211.0,
+      "status": "retired",
+      "started_on": "2024-05-13",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000172",
+      "name": "Deficit Pull-up",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": "489",
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 206.1,
+      "target_1rm": 245.7,
+      "status": "learning",
+      "started_on": "2022-01-19",
+      "rating": 4.6,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000173",
+      "name": "Paused Romanian Deadlift #173",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 251.0,
+      "target_1rm": 255.5,
+      "status": "active",
+      "started_on": "2025-07-04",
+      "rating": 3.6,
+      "tags": [
+        "tag-34",
+        "tag-24"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000174",
+      "name": "Tempo Pull-up",
+      "musclegroups": [
+        "Shoulders",
+        "Quadriceps"
+      ],
+      "wger": "772",
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 32.8,
+      "target_1rm": 58.2,
+      "status": "retired",
+      "started_on": "2025-02-19",
+      "rating": null,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000175",
+      "name": "Hip Thrust",
+      "musclegroups": [
+        "Back",
+        "Biceps"
+      ],
+      "wger": "221",
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 21.5,
+      "target_1rm": 59.2,
+      "status": "active",
+      "started_on": "2023-01-01",
+      "rating": null,
+      "tags": [
+        "tag-2",
+        "tag-39",
+        "tag-42"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000176",
+      "name": "Paused Overhead Press #176",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": "460",
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 134.2,
+      "target_1rm": 153.4,
+      "status": "maintenance",
+      "started_on": "2025-09-23",
+      "rating": null,
+      "tags": [
+        "tag-23"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000177",
+      "name": "Snatch",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 21.0,
+      "target_1rm": 43.6,
+      "status": "retired",
+      "started_on": "2024-04-21",
+      "rating": 4.7,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000178",
+      "name": "Paused Chin-up",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 136.6,
+      "target_1rm": 146.7,
+      "status": "maintenance",
+      "started_on": "2025-10-03",
+      "rating": 4.4,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000179",
+      "name": "Pin Leg Curl",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": "253",
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 106.8,
+      "target_1rm": 121.9,
+      "status": "retired",
+      "started_on": "2025-02-10",
+      "rating": 3.1,
+      "tags": [
+        "tag-13"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000180",
+      "name": "Pin Lateral Raise #180",
+      "musclegroups": [
+        "Back",
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 170.2,
+      "target_1rm": 175.2,
+      "status": "learning",
+      "started_on": "2025-04-09",
+      "rating": 3.2,
+      "tags": [
+        "tag-20",
+        "tag-46",
+        "tag-56"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000181",
+      "name": "Paused Good Morning #181",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 84.0,
+      "target_1rm": 108.2,
+      "status": "active",
+      "started_on": "2024-09-16",
+      "rating": null,
+      "tags": [
+        "tag-31",
+        "tag-42",
+        "tag-41"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000182",
+      "name": "Close-grip Incline Bench Press",
+      "musclegroups": [
+        "Quadriceps",
+        "Hamstrings"
+      ],
+      "wger": "712",
+      "category": "isolation",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 175.9,
+      "target_1rm": 206.0,
+      "status": "active",
+      "started_on": "2024-02-08",
+      "rating": 4.7,
+      "tags": [
+        "tag-10",
+        "tag-14"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000183",
+      "name": "Pin Back Squat #183",
+      "musclegroups": [
+        "Back",
+        "Calves"
+      ],
+      "wger": "90",
+      "category": "isolation",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 167.1,
+      "target_1rm": 186.5,
+      "status": "active",
+      "started_on": "2025-06-11",
+      "rating": 4.3,
+      "tags": [
+        "tag-33",
+        "tag-22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000184",
+      "name": "Wide-grip Lat Pulldown #184",
+      "musclegroups": [
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 219.5,
+      "target_1rm": 239.3,
+      "status": "learning",
+      "started_on": "2024-12-12",
+      "rating": 4.8,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000185",
+      "name": "Tempo Lateral Raise",
+      "musclegroups": [
+        "Core",
+        "Triceps"
+      ],
+      "wger": "82",
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 241.4,
+      "target_1rm": 269.6,
+      "status": "benched",
+      "started_on": "2022-11-28",
+      "rating": 3.4,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000186",
+      "name": "Tempo Romanian Deadlift #186",
+      "musclegroups": [
+        "Chest",
+        "Triceps"
+      ],
+      "wger": "725",
+      "category": "compound",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 167.4,
+      "target_1rm": 205.4,
+      "status": "benched",
+      "started_on": "2024-02-02",
+      "rating": null,
+      "tags": [
+        "tag-16"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000187",
+      "name": "Wide-grip Back Squat",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 98.6,
+      "target_1rm": 133.9,
+      "status": "retired",
+      "started_on": "2025-01-24",
+      "rating": null,
+      "tags": [
+        "tag-57",
+        "tag-11"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000188",
+      "name": "Close-grip Tricep Pushdown #188",
+      "musclegroups": [
+        "Shoulders",
+        "Calves"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 259.4,
+      "target_1rm": 266.6,
+      "status": "retired",
+      "started_on": "2025-01-25",
+      "rating": 4.1,
+      "tags": [
+        "tag-15"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000189",
+      "name": "Romanian Deadlift #189",
+      "musclegroups": [
+        "Back"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 119.2,
+      "target_1rm": 127.7,
+      "status": "active",
+      "started_on": "2025-09-10",
+      "rating": 4.3,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000190",
+      "name": "Tempo Snatch",
+      "musclegroups": [
+        "Chest",
+        "Core"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 224.7,
+      "target_1rm": 262.1,
+      "status": "active",
+      "started_on": "2025-07-28",
+      "rating": 3.9,
+      "tags": [
+        "tag-18",
+        "tag-4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000191",
+      "name": "Paused Incline Bench Press",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": "799",
+      "category": "isolation",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 122.4,
+      "target_1rm": 162.1,
+      "status": "active",
+      "started_on": "2022-07-08",
+      "rating": 4.4,
+      "tags": [
+        "tag-58",
+        "tag-49"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000192",
+      "name": "Bench Press #192",
+      "musclegroups": [
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 154.5,
+      "target_1rm": 173.5,
+      "status": "active",
+      "started_on": "2023-12-12",
+      "rating": 5.0,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000193",
+      "name": "Tempo Leg Press",
+      "musclegroups": [
+        "Chest",
+        "Biceps"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 248.1,
+      "target_1rm": 280.8,
+      "status": "active",
+      "started_on": "2022-05-26",
+      "rating": 4.7,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000194",
+      "name": "Pin Face Pull",
+      "musclegroups": [
+        "Quadriceps",
+        "Hamstrings"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 45.0,
+      "target_1rm": 49.9,
+      "status": "benched",
+      "started_on": "2024-01-19",
+      "rating": 2.8,
+      "tags": [
+        "tag-46",
+        "tag-6",
+        "tag-25"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000195",
+      "name": "Beltless Leg Press",
+      "musclegroups": [
+        "Calves"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Bodyweight",
+      "unit": "kg",
+      "best_1rm": 141.4,
+      "target_1rm": 160.9,
+      "status": "active",
+      "started_on": "2024-04-24",
+      "rating": 2.6,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000196",
+      "name": "Face Pull #196",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": "724",
+      "category": "compound",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 156.0,
+      "target_1rm": 180.5,
+      "status": "active",
+      "started_on": "2025-02-27",
+      "rating": 3.6,
+      "tags": [
+        "tag-2",
+        "tag-15"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000197",
+      "name": "Wide-grip Snatch",
+      "musclegroups": [
+        "Shoulders"
+      ],
+      "wger": "76",
+      "category": "isolation",
+      "equipment": "Smith Machine",
+      "unit": "kg",
+      "best_1rm": 149.3,
+      "target_1rm": 169.2,
+      "status": "learning",
+      "started_on": "2023-10-05",
+      "rating": 3.1,
+      "tags": [
+        "tag-57",
+        "tag-24",
+        "tag-8"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000198",
+      "name": "Pin Overhead Press",
+      "musclegroups": [
+        "Core",
+        "Shoulders"
+      ],
+      "wger": null,
+      "category": "compound",
+      "equipment": "Machine",
+      "unit": "kg",
+      "best_1rm": 68.6,
+      "target_1rm": 99.2,
+      "status": "benched",
+      "started_on": "2025-07-06",
+      "rating": 4.6,
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000199",
+      "name": "Wide-grip Push Press",
+      "musclegroups": [
+        "Quadriceps"
+      ],
+      "wger": "792",
+      "category": "compound",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 203.8,
+      "target_1rm": 233.6,
+      "status": "retired",
+      "started_on": "2022-12-04",
+      "rating": 4.1,
+      "tags": [
+        "tag-20",
+        "tag-51"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000200",
+      "name": "Beltless Power Clean",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": "450",
+      "category": "olympic",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 155.4,
+      "target_1rm": 181.4,
+      "status": "active",
+      "started_on": "2022-04-13",
+      "rating": 4.6,
+      "tags": [
+        "tag-37",
+        "tag-49"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000201",
+      "name": "Beltless Bicep Curl #201",
+      "musclegroups": [
+        "Glutes"
+      ],
+      "wger": null,
+      "category": "olympic",
+      "equipment": "Barbell",
+      "unit": "kg",
+      "best_1rm": 227.7,
+      "target_1rm": 266.6,
+      "status": "benched",
+      "started_on": "2025-04-10",
+      "rating": 4.5,
+      "tags": [
+        "tag-47"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000202",
+      "name": "Pull-up",
+      "musclegroups": [
+        "Core"
+      ],
+      "wger": null,
+      "category": "isolation",
+      "equipment": "Dumbbell",
+      "unit": "kg",
+      "best_1rm": 196.8,
+      "target_1rm": 236.5,
+      "status": "benched",
+      "started_on": "2023-12-02",
+      "rating": 3.3,
+      "tags": [
+        "tag-15",
+        "tag-14"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ex-2025-000203",
+      "name": "Wide-grip Pull-up #203",
+      "musclegroups": [
+        "Chest"
+      ],
+      "wger": "247",
+      "category": "compound",
+      "equipment": "Cable",
+      "unit": "kg",
+      "best_1rm": 143.6,
+      "target_1rm": 183.3,
+      "status": "benched",
+      "started_on": "2023-02-22",
+      "rating": 4.1,
+      "tags": [
+        "tag-38"
+      ],
+      "notes": ""
+    }
+  ],
+  "worksets": [
+    {
+      "exercise_id": "ex-2025-000000",
+      "weight": 49.1,
+      "reps": 11,
+      "rpe": 7.5,
+      "date": "2025-04-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000001",
+      "weight": 159.6,
+      "reps": 4,
+      "rpe": 7,
+      "date": "2025-06-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000002",
+      "weight": 168.0,
+      "reps": 8,
+      "rpe": 7,
+      "date": "2025-07-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000002",
+      "weight": 229.0,
+      "reps": 8,
+      "rpe": 8,
+      "date": "2025-07-26T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000002",
+      "weight": 216.1,
+      "reps": 5,
+      "rpe": null,
+      "date": "2025-04-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000002",
+      "weight": 157.8,
+      "reps": 5,
+      "rpe": 7.5,
+      "date": "2025-05-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000004",
+      "weight": 139.2,
+      "reps": 6,
+      "rpe": 9.5,
+      "date": "2025-11-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000004",
+      "weight": 160.2,
+      "reps": 4,
+      "rpe": 7,
+      "date": "2025-07-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000004",
+      "weight": 31.0,
+      "reps": 2,
+      "rpe": 7.5,
+      "date": "2025-12-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000005",
+      "weight": 187.6,
+      "reps": 10,
+      "rpe": null,
+      "date": "2025-08-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000005",
+      "weight": 51.9,
+      "reps": 7,
+      "rpe": 9.5,
+      "date": "2025-09-22T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000006",
+      "weight": 176.3,
+      "reps": 2,
+      "rpe": 9.5,
+      "date": "2025-11-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000006",
+      "weight": 230.8,
+      "reps": 1,
+      "rpe": 7.5,
+      "date": "2025-09-07T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000006",
+      "weight": 212.2,
+      "reps": 8,
+      "rpe": 9.5,
+      "date": "2025-10-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000006",
+      "weight": 99.8,
+      "reps": 5,
+      "rpe": 7,
+      "date": "2025-06-16T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000007",
+      "weight": 27.8,
+      "reps": 9,
+      "rpe": 7.5,
+      "date": "2025-10-16T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000007",
+      "weight": 178.6,
+      "reps": 7,
+      "rpe": 9.5,
+      "date": "2025-10-08T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000009",
+      "weight": 200.9,
+      "reps": 2,
+      "rpe": 8,
+      "date": "2025-04-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000009",
+      "weight": 237.8,
+      "reps": 1,
+      "rpe": 7,
+      "date": "2025-11-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000009",
+      "weight": 33.2,
+      "reps": 4,
+      "rpe": 9,
+      "date": "2025-10-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000010",
+      "weight": 39.6,
+      "reps": 6,
+      "rpe": null,
+      "date": "2025-12-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000010",
+      "weight": 26.8,
+      "reps": 1,
+      "rpe": 9,
+      "date": "2025-01-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000011",
+      "weight": 86.9,
+      "reps": 9,
+      "rpe": 8,
+      "date": "2025-10-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000011",
+      "weight": 38.8,
+      "reps": 12,
+      "rpe": 7,
+      "date": "2025-02-26T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000011",
+      "weight": 201.8,
+      "reps": 11,
+      "rpe": null,
+      "date": "2025-09-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000011",
+      "weight": 37.9,
+      "reps": 4,
+      "rpe": 9,
+      "date": "2025-11-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000012",
+      "weight": 94.8,
+      "reps": 5,
+      "rpe": 7,
+      "date": "2025-06-03T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000012",
+      "weight": 183.1,
+      "reps": 9,
+      "rpe": null,
+      "date": "2025-03-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000012",
+      "weight": 112.4,
+      "reps": 3,
+      "rpe": 9.5,
+      "date": "2025-04-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000012",
+      "weight": 222.5,
+      "reps": 3,
+      "rpe": null,
+      "date": "2025-08-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000014",
+      "weight": 191.0,
+      "reps": 11,
+      "rpe": 9,
+      "date": "2025-05-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000015",
+      "weight": 75.6,
+      "reps": 11,
+      "rpe": null,
+      "date": "2025-09-10T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000015",
+      "weight": 27.5,
+      "reps": 11,
+      "rpe": 7,
+      "date": "2025-05-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000016",
+      "weight": 74.9,
+      "reps": 9,
+      "rpe": 7.5,
+      "date": "2025-05-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000016",
+      "weight": 24.8,
+      "reps": 3,
+      "rpe": 9.5,
+      "date": "2025-10-20T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000017",
+      "weight": 177.1,
+      "reps": 9,
+      "rpe": 9,
+      "date": "2025-02-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000017",
+      "weight": 176.1,
+      "reps": 5,
+      "rpe": null,
+      "date": "2025-10-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000017",
+      "weight": 40.0,
+      "reps": 6,
+      "rpe": 7,
+      "date": "2025-10-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000018",
+      "weight": 136.5,
+      "reps": 7,
+      "rpe": null,
+      "date": "2025-10-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000018",
+      "weight": 224.1,
+      "reps": 2,
+      "rpe": 7,
+      "date": "2025-01-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000018",
+      "weight": 73.4,
+      "reps": 7,
+      "rpe": 8,
+      "date": "2025-10-03T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000019",
+      "weight": 71.6,
+      "reps": 9,
+      "rpe": 9,
+      "date": "2025-07-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000019",
+      "weight": 54.4,
+      "reps": 6,
+      "rpe": 8,
+      "date": "2025-05-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000019",
+      "weight": 24.1,
+      "reps": 5,
+      "rpe": 8,
+      "date": "2025-11-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000019",
+      "weight": 140.8,
+      "reps": 6,
+      "rpe": 8,
+      "date": "2025-11-27T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000021",
+      "weight": 29.1,
+      "reps": 12,
+      "rpe": 9.5,
+      "date": "2025-09-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000021",
+      "weight": 202.4,
+      "reps": 8,
+      "rpe": 7,
+      "date": "2025-02-19T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000022",
+      "weight": 33.7,
+      "reps": 4,
+      "rpe": 8,
+      "date": "2025-01-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000022",
+      "weight": 121.6,
+      "reps": 6,
+      "rpe": 9,
+      "date": "2025-01-19T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000023",
+      "weight": 153.7,
+      "reps": 8,
+      "rpe": 9.5,
+      "date": "2025-10-26T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000023",
+      "weight": 88.4,
+      "reps": 3,
+      "rpe": null,
+      "date": "2025-10-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000023",
+      "weight": 170.6,
+      "reps": 12,
+      "rpe": null,
+      "date": "2025-02-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000024",
+      "weight": 165.3,
+      "reps": 10,
+      "rpe": null,
+      "date": "2025-11-10T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000024",
+      "weight": 123.6,
+      "reps": 8,
+      "rpe": null,
+      "date": "2025-06-01T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000024",
+      "weight": 77.2,
+      "reps": 7,
+      "rpe": 8,
+      "date": "2025-03-10T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000025",
+      "weight": 149.9,
+      "reps": 4,
+      "rpe": 7.5,
+      "date": "2025-10-03T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000025",
+      "weight": 188.2,
+      "reps": 10,
+      "rpe": 8,
+      "date": "2025-01-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000025",
+      "weight": 79.7,
+      "reps": 12,
+      "rpe": 7,
+      "date": "2025-07-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000026",
+      "weight": 69.7,
+      "reps": 4,
+      "rpe": 8,
+      "date": "2025-05-06T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000026",
+      "weight": 105.9,
+      "reps": 3,
+      "rpe": 7.5,
+      "date": "2025-02-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000026",
+      "weight": 20.4,
+      "reps": 7,
+      "rpe": 8.5,
+      "date": "2025-05-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000027",
+      "weight": 123.4,
+      "reps": 9,
+      "rpe": null,
+      "date": "2025-12-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000028",
+      "weight": 134.3,
+      "reps": 11,
+      "rpe": null,
+      "date": "2025-05-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000028",
+      "weight": 159.5,
+      "reps": 8,
+      "rpe": 7,
+      "date": "2025-05-01T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000028",
+      "weight": 216.3,
+      "reps": 5,
+      "rpe": 7.5,
+      "date": "2025-02-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000029",
+      "weight": 177.8,
+      "reps": 1,
+      "rpe": 9.5,
+      "date": "2025-06-16T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000029",
+      "weight": 152.4,
+      "reps": 4,
+      "rpe": 7,
+      "date": "2025-04-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000030",
+      "weight": 144.4,
+      "reps": 6,
+      "rpe": 8.5,
+      "date": "2025-01-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000030",
+      "weight": 209.9,
+      "reps": 5,
+      "rpe": 7.5,
+      "date": "2025-09-06T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000030",
+      "weight": 204.4,
+      "reps": 3,
+      "rpe": null,
+      "date": "2025-10-01T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000030",
+      "weight": 57.2,
+      "reps": 5,
+      "rpe": 7,
+      "date": "2025-10-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000031",
+      "weight": 28.0,
+      "reps": 1,
+      "rpe": 7.5,
+      "date": "2025-02-09T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000031",
+      "weight": 108.6,
+      "reps": 9,
+      "rpe": 8.5,
+      "date": "2025-12-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000031",
+      "weight": 155.7,
+      "reps": 9,
+      "rpe": 8,
+      "date": "2025-05-01T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000031",
+      "weight": 221.5,
+      "reps": 12,
+      "rpe": 9,
+      "date": "2025-03-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000032",
+      "weight": 124.5,
+      "reps": 5,
+      "rpe": 9,
+      "date": "2025-04-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000032",
+      "weight": 66.7,
+      "reps": 10,
+      "rpe": 9.5,
+      "date": "2025-06-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000032",
+      "weight": 78.3,
+      "reps": 2,
+      "rpe": 7,
+      "date": "2025-05-03T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000032",
+      "weight": 197.4,
+      "reps": 7,
+      "rpe": 8.5,
+      "date": "2025-10-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000035",
+      "weight": 196.3,
+      "reps": 9,
+      "rpe": 9.5,
+      "date": "2025-06-16T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000035",
+      "weight": 212.6,
+      "reps": 6,
+      "rpe": 8,
+      "date": "2025-10-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000036",
+      "weight": 155.2,
+      "reps": 5,
+      "rpe": 7,
+      "date": "2025-06-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000036",
+      "weight": 211.4,
+      "reps": 7,
+      "rpe": 9.5,
+      "date": "2025-09-07T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000036",
+      "weight": 40.8,
+      "reps": 2,
+      "rpe": 9.5,
+      "date": "2025-10-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000038",
+      "weight": 229.6,
+      "reps": 7,
+      "rpe": 8.5,
+      "date": "2025-07-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000038",
+      "weight": 230.5,
+      "reps": 6,
+      "rpe": 9.5,
+      "date": "2025-03-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000038",
+      "weight": 109.9,
+      "reps": 1,
+      "rpe": 9,
+      "date": "2025-05-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000038",
+      "weight": 64.5,
+      "reps": 2,
+      "rpe": null,
+      "date": "2025-01-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000039",
+      "weight": 21.8,
+      "reps": 9,
+      "rpe": 7.5,
+      "date": "2025-07-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000039",
+      "weight": 209.3,
+      "reps": 3,
+      "rpe": 7.5,
+      "date": "2025-08-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000039",
+      "weight": 195.7,
+      "reps": 12,
+      "rpe": 7.5,
+      "date": "2025-06-03T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000042",
+      "weight": 80.3,
+      "reps": 1,
+      "rpe": 7,
+      "date": "2025-04-08T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000042",
+      "weight": 95.5,
+      "reps": 4,
+      "rpe": 7.5,
+      "date": "2025-10-27T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000042",
+      "weight": 204.8,
+      "reps": 12,
+      "rpe": null,
+      "date": "2025-02-16T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000042",
+      "weight": 174.8,
+      "reps": 5,
+      "rpe": 9,
+      "date": "2025-12-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000044",
+      "weight": 76.8,
+      "reps": 12,
+      "rpe": null,
+      "date": "2025-08-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000044",
+      "weight": 52.0,
+      "reps": 10,
+      "rpe": null,
+      "date": "2025-03-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000045",
+      "weight": 146.2,
+      "reps": 7,
+      "rpe": 8.5,
+      "date": "2025-08-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000045",
+      "weight": 109.4,
+      "reps": 4,
+      "rpe": 8,
+      "date": "2025-03-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000045",
+      "weight": 125.3,
+      "reps": 2,
+      "rpe": 7,
+      "date": "2025-10-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000046",
+      "weight": 169.1,
+      "reps": 4,
+      "rpe": 8.5,
+      "date": "2025-07-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000046",
+      "weight": 101.7,
+      "reps": 4,
+      "rpe": null,
+      "date": "2025-08-26T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000046",
+      "weight": 33.4,
+      "reps": 8,
+      "rpe": 8.5,
+      "date": "2025-08-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000047",
+      "weight": 163.2,
+      "reps": 5,
+      "rpe": 8.5,
+      "date": "2025-01-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000047",
+      "weight": 52.6,
+      "reps": 7,
+      "rpe": 9.5,
+      "date": "2025-12-03T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000047",
+      "weight": 94.1,
+      "reps": 10,
+      "rpe": null,
+      "date": "2025-10-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000047",
+      "weight": 160.5,
+      "reps": 10,
+      "rpe": null,
+      "date": "2025-07-27T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000050",
+      "weight": 227.5,
+      "reps": 3,
+      "rpe": null,
+      "date": "2025-02-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000051",
+      "weight": 215.0,
+      "reps": 2,
+      "rpe": null,
+      "date": "2025-09-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000051",
+      "weight": 142.0,
+      "reps": 1,
+      "rpe": 7,
+      "date": "2025-04-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000051",
+      "weight": 32.4,
+      "reps": 10,
+      "rpe": 7.5,
+      "date": "2025-08-16T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000051",
+      "weight": 101.4,
+      "reps": 11,
+      "rpe": 9.5,
+      "date": "2025-08-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000052",
+      "weight": 129.0,
+      "reps": 9,
+      "rpe": 9.5,
+      "date": "2025-11-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000053",
+      "weight": 147.6,
+      "reps": 2,
+      "rpe": 9.5,
+      "date": "2025-09-18T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000053",
+      "weight": 185.0,
+      "reps": 7,
+      "rpe": 9,
+      "date": "2025-12-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000053",
+      "weight": 219.2,
+      "reps": 9,
+      "rpe": 9,
+      "date": "2025-03-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000054",
+      "weight": 196.0,
+      "reps": 8,
+      "rpe": 9.5,
+      "date": "2025-12-26T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000055",
+      "weight": 74.9,
+      "reps": 8,
+      "rpe": 9,
+      "date": "2025-04-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000055",
+      "weight": 112.0,
+      "reps": 7,
+      "rpe": 7.5,
+      "date": "2025-09-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000055",
+      "weight": 172.9,
+      "reps": 12,
+      "rpe": 7.5,
+      "date": "2025-02-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000056",
+      "weight": 107.7,
+      "reps": 9,
+      "rpe": 7.5,
+      "date": "2025-01-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000057",
+      "weight": 62.9,
+      "reps": 7,
+      "rpe": 8,
+      "date": "2025-06-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000057",
+      "weight": 136.1,
+      "reps": 7,
+      "rpe": 9,
+      "date": "2025-05-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000058",
+      "weight": 197.7,
+      "reps": 12,
+      "rpe": null,
+      "date": "2025-03-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000058",
+      "weight": 42.3,
+      "reps": 1,
+      "rpe": 7,
+      "date": "2025-10-09T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000058",
+      "weight": 131.0,
+      "reps": 10,
+      "rpe": null,
+      "date": "2025-08-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000059",
+      "weight": 170.4,
+      "reps": 5,
+      "rpe": 7,
+      "date": "2025-03-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000059",
+      "weight": 226.7,
+      "reps": 6,
+      "rpe": 9,
+      "date": "2025-03-20T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000059",
+      "weight": 123.2,
+      "reps": 8,
+      "rpe": null,
+      "date": "2025-05-18T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000059",
+      "weight": 44.1,
+      "reps": 7,
+      "rpe": 7.5,
+      "date": "2025-05-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000061",
+      "weight": 182.7,
+      "reps": 4,
+      "rpe": 9.5,
+      "date": "2025-08-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000061",
+      "weight": 200.1,
+      "reps": 7,
+      "rpe": 7,
+      "date": "2025-10-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000061",
+      "weight": 140.2,
+      "reps": 3,
+      "rpe": 7,
+      "date": "2025-11-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000061",
+      "weight": 131.9,
+      "reps": 1,
+      "rpe": 8.5,
+      "date": "2025-08-07T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000062",
+      "weight": 136.2,
+      "reps": 12,
+      "rpe": 9,
+      "date": "2025-12-22T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000062",
+      "weight": 136.2,
+      "reps": 11,
+      "rpe": 9.5,
+      "date": "2025-11-22T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000062",
+      "weight": 42.0,
+      "reps": 10,
+      "rpe": 9,
+      "date": "2025-08-09T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000062",
+      "weight": 69.7,
+      "reps": 1,
+      "rpe": 9.5,
+      "date": "2025-12-18T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000063",
+      "weight": 69.6,
+      "reps": 10,
+      "rpe": 7.5,
+      "date": "2025-03-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000063",
+      "weight": 108.9,
+      "reps": 2,
+      "rpe": 8.5,
+      "date": "2025-11-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000064",
+      "weight": 92.6,
+      "reps": 12,
+      "rpe": 9,
+      "date": "2025-11-03T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000065",
+      "weight": 149.9,
+      "reps": 4,
+      "rpe": 8,
+      "date": "2025-07-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000065",
+      "weight": 76.3,
+      "reps": 11,
+      "rpe": 8.5,
+      "date": "2025-04-22T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000065",
+      "weight": 26.4,
+      "reps": 10,
+      "rpe": 9,
+      "date": "2025-02-06T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000065",
+      "weight": 219.8,
+      "reps": 5,
+      "rpe": 9,
+      "date": "2025-03-20T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000066",
+      "weight": 34.3,
+      "reps": 8,
+      "rpe": 7,
+      "date": "2025-08-10T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000066",
+      "weight": 30.5,
+      "reps": 2,
+      "rpe": 9.5,
+      "date": "2025-10-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000068",
+      "weight": 218.5,
+      "reps": 11,
+      "rpe": null,
+      "date": "2025-02-26T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000069",
+      "weight": 137.1,
+      "reps": 8,
+      "rpe": 8,
+      "date": "2025-05-07T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000069",
+      "weight": 69.8,
+      "reps": 1,
+      "rpe": 7,
+      "date": "2025-12-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000069",
+      "weight": 121.9,
+      "reps": 11,
+      "rpe": 7.5,
+      "date": "2025-04-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000070",
+      "weight": 134.5,
+      "reps": 6,
+      "rpe": 7.5,
+      "date": "2025-04-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000070",
+      "weight": 177.9,
+      "reps": 10,
+      "rpe": 7.5,
+      "date": "2025-11-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000070",
+      "weight": 113.7,
+      "reps": 11,
+      "rpe": 7,
+      "date": "2025-04-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000071",
+      "weight": 218.5,
+      "reps": 4,
+      "rpe": 9,
+      "date": "2025-04-20T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000071",
+      "weight": 216.8,
+      "reps": 10,
+      "rpe": 9.5,
+      "date": "2025-01-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000074",
+      "weight": 132.2,
+      "reps": 6,
+      "rpe": 8,
+      "date": "2025-09-19T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000074",
+      "weight": 92.7,
+      "reps": 9,
+      "rpe": 9.5,
+      "date": "2025-10-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000074",
+      "weight": 113.7,
+      "reps": 2,
+      "rpe": 7,
+      "date": "2025-07-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000074",
+      "weight": 137.9,
+      "reps": 1,
+      "rpe": 7.5,
+      "date": "2025-09-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000075",
+      "weight": 196.1,
+      "reps": 4,
+      "rpe": 8,
+      "date": "2025-12-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000076",
+      "weight": 106.1,
+      "reps": 10,
+      "rpe": 8,
+      "date": "2025-10-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000077",
+      "weight": 189.9,
+      "reps": 7,
+      "rpe": 7.5,
+      "date": "2025-02-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000077",
+      "weight": 214.1,
+      "reps": 7,
+      "rpe": null,
+      "date": "2025-04-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000077",
+      "weight": 33.6,
+      "reps": 6,
+      "rpe": 8.5,
+      "date": "2025-10-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000078",
+      "weight": 144.7,
+      "reps": 1,
+      "rpe": 7,
+      "date": "2025-01-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000078",
+      "weight": 104.8,
+      "reps": 6,
+      "rpe": 7.5,
+      "date": "2025-11-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000078",
+      "weight": 32.5,
+      "reps": 10,
+      "rpe": null,
+      "date": "2025-10-09T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000080",
+      "weight": 44.1,
+      "reps": 9,
+      "rpe": 9.5,
+      "date": "2025-09-16T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000080",
+      "weight": 136.4,
+      "reps": 12,
+      "rpe": 9.5,
+      "date": "2025-03-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000080",
+      "weight": 152.7,
+      "reps": 1,
+      "rpe": null,
+      "date": "2025-12-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000082",
+      "weight": 41.8,
+      "reps": 5,
+      "rpe": 8.5,
+      "date": "2025-02-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000082",
+      "weight": 162.1,
+      "reps": 7,
+      "rpe": null,
+      "date": "2025-08-07T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000083",
+      "weight": 188.2,
+      "reps": 5,
+      "rpe": 7,
+      "date": "2025-04-20T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000083",
+      "weight": 177.6,
+      "reps": 2,
+      "rpe": null,
+      "date": "2025-06-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000083",
+      "weight": 108.2,
+      "reps": 4,
+      "rpe": 9,
+      "date": "2025-10-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000083",
+      "weight": 100.2,
+      "reps": 7,
+      "rpe": 7,
+      "date": "2025-07-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000084",
+      "weight": 232.3,
+      "reps": 3,
+      "rpe": 8.5,
+      "date": "2025-02-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000084",
+      "weight": 94.3,
+      "reps": 8,
+      "rpe": 9.5,
+      "date": "2025-08-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000084",
+      "weight": 57.5,
+      "reps": 2,
+      "rpe": 7.5,
+      "date": "2025-10-27T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000085",
+      "weight": 78.8,
+      "reps": 12,
+      "rpe": 7,
+      "date": "2025-10-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000085",
+      "weight": 86.6,
+      "reps": 12,
+      "rpe": 9,
+      "date": "2025-06-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000085",
+      "weight": 237.6,
+      "reps": 11,
+      "rpe": 9.5,
+      "date": "2025-08-20T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000086",
+      "weight": 85.3,
+      "reps": 9,
+      "rpe": 7.5,
+      "date": "2025-02-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000086",
+      "weight": 146.1,
+      "reps": 4,
+      "rpe": 7,
+      "date": "2025-04-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000086",
+      "weight": 105.7,
+      "reps": 12,
+      "rpe": 9,
+      "date": "2025-02-08T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000086",
+      "weight": 115.1,
+      "reps": 4,
+      "rpe": 9,
+      "date": "2025-05-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000087",
+      "weight": 207.2,
+      "reps": 5,
+      "rpe": 7,
+      "date": "2025-06-03T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000088",
+      "weight": 203.4,
+      "reps": 8,
+      "rpe": 9,
+      "date": "2025-05-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000088",
+      "weight": 147.0,
+      "reps": 4,
+      "rpe": 9.5,
+      "date": "2025-01-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000088",
+      "weight": 86.4,
+      "reps": 8,
+      "rpe": 8.5,
+      "date": "2025-02-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000089",
+      "weight": 48.7,
+      "reps": 12,
+      "rpe": 7.5,
+      "date": "2025-04-07T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000089",
+      "weight": 193.3,
+      "reps": 1,
+      "rpe": null,
+      "date": "2025-05-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000089",
+      "weight": 94.4,
+      "reps": 3,
+      "rpe": 8.5,
+      "date": "2025-08-22T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000090",
+      "weight": 51.1,
+      "reps": 4,
+      "rpe": 7,
+      "date": "2025-06-27T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000090",
+      "weight": 40.5,
+      "reps": 6,
+      "rpe": 8,
+      "date": "2025-08-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000090",
+      "weight": 49.6,
+      "reps": 6,
+      "rpe": 8,
+      "date": "2025-01-07T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000090",
+      "weight": 139.1,
+      "reps": 3,
+      "rpe": 7,
+      "date": "2025-11-18T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000092",
+      "weight": 167.5,
+      "reps": 7,
+      "rpe": 9,
+      "date": "2025-06-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000092",
+      "weight": 217.6,
+      "reps": 9,
+      "rpe": 8,
+      "date": "2025-08-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000094",
+      "weight": 232.2,
+      "reps": 2,
+      "rpe": 9.5,
+      "date": "2025-04-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000094",
+      "weight": 20.7,
+      "reps": 7,
+      "rpe": 8.5,
+      "date": "2025-06-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000095",
+      "weight": 239.4,
+      "reps": 10,
+      "rpe": null,
+      "date": "2025-10-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000095",
+      "weight": 89.4,
+      "reps": 6,
+      "rpe": 9.5,
+      "date": "2025-04-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000095",
+      "weight": 226.9,
+      "reps": 3,
+      "rpe": null,
+      "date": "2025-06-09T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000096",
+      "weight": 207.4,
+      "reps": 5,
+      "rpe": 8.5,
+      "date": "2025-05-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000096",
+      "weight": 137.1,
+      "reps": 9,
+      "rpe": 8.5,
+      "date": "2025-02-03T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000098",
+      "weight": 216.3,
+      "reps": 2,
+      "rpe": 8,
+      "date": "2025-10-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000098",
+      "weight": 237.5,
+      "reps": 10,
+      "rpe": 7,
+      "date": "2025-06-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000098",
+      "weight": 123.3,
+      "reps": 1,
+      "rpe": 7.5,
+      "date": "2025-07-09T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000098",
+      "weight": 217.3,
+      "reps": 1,
+      "rpe": 8,
+      "date": "2025-10-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000099",
+      "weight": 20.6,
+      "reps": 10,
+      "rpe": 7.5,
+      "date": "2025-06-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000099",
+      "weight": 186.0,
+      "reps": 10,
+      "rpe": 8,
+      "date": "2025-07-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000100",
+      "weight": 223.6,
+      "reps": 10,
+      "rpe": 8.5,
+      "date": "2025-01-20T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000100",
+      "weight": 28.7,
+      "reps": 2,
+      "rpe": 7,
+      "date": "2025-12-20T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000101",
+      "weight": 239.3,
+      "reps": 6,
+      "rpe": 9,
+      "date": "2025-09-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000101",
+      "weight": 23.0,
+      "reps": 9,
+      "rpe": 7.5,
+      "date": "2025-07-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000101",
+      "weight": 29.7,
+      "reps": 6,
+      "rpe": 8,
+      "date": "2025-07-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000102",
+      "weight": 22.2,
+      "reps": 9,
+      "rpe": 7.5,
+      "date": "2025-06-20T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000102",
+      "weight": 163.0,
+      "reps": 12,
+      "rpe": 8.5,
+      "date": "2025-03-22T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000102",
+      "weight": 169.8,
+      "reps": 2,
+      "rpe": 8,
+      "date": "2025-05-01T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000102",
+      "weight": 34.4,
+      "reps": 11,
+      "rpe": 9,
+      "date": "2025-02-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000103",
+      "weight": 209.1,
+      "reps": 9,
+      "rpe": null,
+      "date": "2025-03-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000103",
+      "weight": 201.8,
+      "reps": 10,
+      "rpe": 9,
+      "date": "2025-11-20T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000103",
+      "weight": 71.5,
+      "reps": 3,
+      "rpe": 7,
+      "date": "2025-05-01T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000103",
+      "weight": 175.5,
+      "reps": 2,
+      "rpe": 8.5,
+      "date": "2025-12-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000104",
+      "weight": 226.4,
+      "reps": 12,
+      "rpe": 7.5,
+      "date": "2025-06-07T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000104",
+      "weight": 194.5,
+      "reps": 8,
+      "rpe": 8,
+      "date": "2025-09-06T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000105",
+      "weight": 188.6,
+      "reps": 3,
+      "rpe": 8.5,
+      "date": "2025-01-01T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000106",
+      "weight": 203.7,
+      "reps": 9,
+      "rpe": null,
+      "date": "2025-08-26T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000106",
+      "weight": 202.3,
+      "reps": 9,
+      "rpe": 7.5,
+      "date": "2025-08-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000107",
+      "weight": 195.6,
+      "reps": 6,
+      "rpe": 7,
+      "date": "2025-05-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000107",
+      "weight": 108.1,
+      "reps": 5,
+      "rpe": 9.5,
+      "date": "2025-02-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000109",
+      "weight": 34.4,
+      "reps": 9,
+      "rpe": 7.5,
+      "date": "2025-08-09T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000109",
+      "weight": 221.5,
+      "reps": 10,
+      "rpe": 8,
+      "date": "2025-02-07T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000109",
+      "weight": 64.8,
+      "reps": 9,
+      "rpe": 9.5,
+      "date": "2025-08-09T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000109",
+      "weight": 203.1,
+      "reps": 7,
+      "rpe": 9,
+      "date": "2025-06-08T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000110",
+      "weight": 133.7,
+      "reps": 9,
+      "rpe": 9,
+      "date": "2025-01-19T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000111",
+      "weight": 140.7,
+      "reps": 7,
+      "rpe": 9,
+      "date": "2025-01-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000111",
+      "weight": 100.1,
+      "reps": 3,
+      "rpe": 9.5,
+      "date": "2025-07-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000111",
+      "weight": 200.8,
+      "reps": 7,
+      "rpe": 7,
+      "date": "2025-12-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000113",
+      "weight": 199.4,
+      "reps": 2,
+      "rpe": 8,
+      "date": "2025-02-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000113",
+      "weight": 94.7,
+      "reps": 10,
+      "rpe": null,
+      "date": "2025-02-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000113",
+      "weight": 21.2,
+      "reps": 11,
+      "rpe": 8.5,
+      "date": "2025-08-07T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000114",
+      "weight": 163.1,
+      "reps": 3,
+      "rpe": null,
+      "date": "2025-02-20T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000114",
+      "weight": 176.0,
+      "reps": 4,
+      "rpe": 9.5,
+      "date": "2025-09-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000114",
+      "weight": 101.1,
+      "reps": 10,
+      "rpe": 8.5,
+      "date": "2025-07-09T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000117",
+      "weight": 116.7,
+      "reps": 11,
+      "rpe": 9,
+      "date": "2025-01-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000117",
+      "weight": 192.5,
+      "reps": 9,
+      "rpe": null,
+      "date": "2025-08-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000117",
+      "weight": 231.0,
+      "reps": 4,
+      "rpe": 7.5,
+      "date": "2025-10-27T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000118",
+      "weight": 39.8,
+      "reps": 11,
+      "rpe": 7.5,
+      "date": "2025-09-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000118",
+      "weight": 181.8,
+      "reps": 3,
+      "rpe": 9.5,
+      "date": "2025-12-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000118",
+      "weight": 64.9,
+      "reps": 12,
+      "rpe": null,
+      "date": "2025-10-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000118",
+      "weight": 236.5,
+      "reps": 11,
+      "rpe": 9,
+      "date": "2025-04-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000120",
+      "weight": 175.2,
+      "reps": 11,
+      "rpe": 7.5,
+      "date": "2025-01-08T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000120",
+      "weight": 120.8,
+      "reps": 12,
+      "rpe": 9.5,
+      "date": "2025-04-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000120",
+      "weight": 165.2,
+      "reps": 4,
+      "rpe": 7.5,
+      "date": "2025-01-06T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000120",
+      "weight": 67.5,
+      "reps": 9,
+      "rpe": 9.5,
+      "date": "2025-06-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000121",
+      "weight": 222.3,
+      "reps": 1,
+      "rpe": 9.5,
+      "date": "2025-04-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000121",
+      "weight": 24.9,
+      "reps": 9,
+      "rpe": 7.5,
+      "date": "2025-01-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000121",
+      "weight": 136.6,
+      "reps": 6,
+      "rpe": null,
+      "date": "2025-01-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000122",
+      "weight": 213.3,
+      "reps": 8,
+      "rpe": null,
+      "date": "2025-12-08T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000122",
+      "weight": 105.5,
+      "reps": 5,
+      "rpe": 8,
+      "date": "2025-09-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000123",
+      "weight": 42.2,
+      "reps": 11,
+      "rpe": 8.5,
+      "date": "2025-01-19T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000123",
+      "weight": 50.3,
+      "reps": 9,
+      "rpe": 8,
+      "date": "2025-11-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000124",
+      "weight": 154.7,
+      "reps": 12,
+      "rpe": 8.5,
+      "date": "2025-06-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000124",
+      "weight": 195.7,
+      "reps": 8,
+      "rpe": 8.5,
+      "date": "2025-07-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000124",
+      "weight": 39.8,
+      "reps": 11,
+      "rpe": 9.5,
+      "date": "2025-07-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000124",
+      "weight": 163.7,
+      "reps": 4,
+      "rpe": 9,
+      "date": "2025-11-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000125",
+      "weight": 159.5,
+      "reps": 2,
+      "rpe": 9.5,
+      "date": "2025-06-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000125",
+      "weight": 152.1,
+      "reps": 1,
+      "rpe": null,
+      "date": "2025-09-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000126",
+      "weight": 34.2,
+      "reps": 11,
+      "rpe": 8.5,
+      "date": "2025-02-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000126",
+      "weight": 32.5,
+      "reps": 4,
+      "rpe": 7.5,
+      "date": "2025-02-03T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000126",
+      "weight": 78.4,
+      "reps": 3,
+      "rpe": 9,
+      "date": "2025-04-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000126",
+      "weight": 237.6,
+      "reps": 12,
+      "rpe": 8.5,
+      "date": "2025-01-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000127",
+      "weight": 46.0,
+      "reps": 11,
+      "rpe": 9,
+      "date": "2025-12-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000128",
+      "weight": 40.4,
+      "reps": 3,
+      "rpe": 9,
+      "date": "2025-12-22T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000128",
+      "weight": 238.9,
+      "reps": 3,
+      "rpe": 8.5,
+      "date": "2025-01-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000128",
+      "weight": 188.1,
+      "reps": 12,
+      "rpe": 9,
+      "date": "2025-01-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000129",
+      "weight": 78.3,
+      "reps": 9,
+      "rpe": 8,
+      "date": "2025-02-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000129",
+      "weight": 219.1,
+      "reps": 10,
+      "rpe": 8.5,
+      "date": "2025-07-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000129",
+      "weight": 115.7,
+      "reps": 8,
+      "rpe": 9.5,
+      "date": "2025-07-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000130",
+      "weight": 140.8,
+      "reps": 12,
+      "rpe": 8.5,
+      "date": "2025-07-22T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000130",
+      "weight": 177.2,
+      "reps": 4,
+      "rpe": 9.5,
+      "date": "2025-01-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000130",
+      "weight": 139.4,
+      "reps": 1,
+      "rpe": 7.5,
+      "date": "2025-06-16T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000131",
+      "weight": 97.7,
+      "reps": 1,
+      "rpe": 9.5,
+      "date": "2025-08-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000131",
+      "weight": 169.3,
+      "reps": 7,
+      "rpe": null,
+      "date": "2025-03-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000132",
+      "weight": 22.1,
+      "reps": 9,
+      "rpe": 8.5,
+      "date": "2025-03-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000132",
+      "weight": 230.0,
+      "reps": 10,
+      "rpe": 8.5,
+      "date": "2025-06-08T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000133",
+      "weight": 134.6,
+      "reps": 10,
+      "rpe": 7.5,
+      "date": "2025-08-16T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000133",
+      "weight": 122.0,
+      "reps": 11,
+      "rpe": 7.5,
+      "date": "2025-02-03T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000133",
+      "weight": 152.4,
+      "reps": 8,
+      "rpe": 8,
+      "date": "2025-01-09T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000135",
+      "weight": 42.0,
+      "reps": 1,
+      "rpe": 9.5,
+      "date": "2025-12-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000135",
+      "weight": 157.3,
+      "reps": 10,
+      "rpe": 7,
+      "date": "2025-08-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000136",
+      "weight": 53.6,
+      "reps": 11,
+      "rpe": 9.5,
+      "date": "2025-07-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000137",
+      "weight": 141.8,
+      "reps": 7,
+      "rpe": 8.5,
+      "date": "2025-03-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000137",
+      "weight": 147.4,
+      "reps": 3,
+      "rpe": 7,
+      "date": "2025-01-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000137",
+      "weight": 133.6,
+      "reps": 5,
+      "rpe": 7.5,
+      "date": "2025-01-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000140",
+      "weight": 111.0,
+      "reps": 6,
+      "rpe": 7.5,
+      "date": "2025-09-19T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000141",
+      "weight": 101.5,
+      "reps": 1,
+      "rpe": 8,
+      "date": "2025-05-06T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000141",
+      "weight": 191.4,
+      "reps": 3,
+      "rpe": 8,
+      "date": "2025-06-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000141",
+      "weight": 160.4,
+      "reps": 12,
+      "rpe": 8,
+      "date": "2025-05-03T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000142",
+      "weight": 122.5,
+      "reps": 3,
+      "rpe": 7.5,
+      "date": "2025-01-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000144",
+      "weight": 37.8,
+      "reps": 11,
+      "rpe": 9,
+      "date": "2025-09-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000144",
+      "weight": 72.2,
+      "reps": 2,
+      "rpe": 7,
+      "date": "2025-01-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000145",
+      "weight": 175.2,
+      "reps": 5,
+      "rpe": 9.5,
+      "date": "2025-11-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000146",
+      "weight": 192.5,
+      "reps": 11,
+      "rpe": 8.5,
+      "date": "2025-08-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000146",
+      "weight": 165.7,
+      "reps": 1,
+      "rpe": null,
+      "date": "2025-07-07T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000146",
+      "weight": 93.3,
+      "reps": 9,
+      "rpe": null,
+      "date": "2025-07-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000150",
+      "weight": 52.0,
+      "reps": 2,
+      "rpe": 8.5,
+      "date": "2025-08-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000151",
+      "weight": 36.4,
+      "reps": 3,
+      "rpe": 8.5,
+      "date": "2025-12-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000151",
+      "weight": 89.3,
+      "reps": 11,
+      "rpe": 9.5,
+      "date": "2025-03-20T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000151",
+      "weight": 82.9,
+      "reps": 9,
+      "rpe": null,
+      "date": "2025-02-10T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000151",
+      "weight": 93.6,
+      "reps": 12,
+      "rpe": 7,
+      "date": "2025-02-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000153",
+      "weight": 212.8,
+      "reps": 4,
+      "rpe": 9.5,
+      "date": "2025-04-01T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000153",
+      "weight": 178.8,
+      "reps": 9,
+      "rpe": 7,
+      "date": "2025-10-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000153",
+      "weight": 132.1,
+      "reps": 11,
+      "rpe": 7,
+      "date": "2025-07-16T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000154",
+      "weight": 171.3,
+      "reps": 1,
+      "rpe": 7.5,
+      "date": "2025-01-01T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000154",
+      "weight": 174.7,
+      "reps": 4,
+      "rpe": 9,
+      "date": "2025-10-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000154",
+      "weight": 25.2,
+      "reps": 6,
+      "rpe": 9.5,
+      "date": "2025-08-16T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000154",
+      "weight": 120.9,
+      "reps": 6,
+      "rpe": 9.5,
+      "date": "2025-11-06T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000155",
+      "weight": 138.3,
+      "reps": 2,
+      "rpe": 9.5,
+      "date": "2025-12-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000155",
+      "weight": 83.6,
+      "reps": 12,
+      "rpe": 8.5,
+      "date": "2025-06-08T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000155",
+      "weight": 160.0,
+      "reps": 11,
+      "rpe": 9.5,
+      "date": "2025-12-19T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000156",
+      "weight": 147.6,
+      "reps": 1,
+      "rpe": 9.5,
+      "date": "2025-11-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000157",
+      "weight": 29.7,
+      "reps": 8,
+      "rpe": 9,
+      "date": "2025-03-09T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000158",
+      "weight": 209.7,
+      "reps": 5,
+      "rpe": 7.5,
+      "date": "2025-05-16T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000158",
+      "weight": 102.0,
+      "reps": 10,
+      "rpe": 7.5,
+      "date": "2025-06-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000158",
+      "weight": 236.5,
+      "reps": 5,
+      "rpe": 7,
+      "date": "2025-02-22T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000158",
+      "weight": 105.2,
+      "reps": 4,
+      "rpe": null,
+      "date": "2025-02-06T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000159",
+      "weight": 87.7,
+      "reps": 8,
+      "rpe": 9.5,
+      "date": "2025-09-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000159",
+      "weight": 211.7,
+      "reps": 3,
+      "rpe": 9.5,
+      "date": "2025-03-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000159",
+      "weight": 117.8,
+      "reps": 8,
+      "rpe": null,
+      "date": "2025-01-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000160",
+      "weight": 156.7,
+      "reps": 5,
+      "rpe": 9,
+      "date": "2025-03-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000160",
+      "weight": 211.0,
+      "reps": 4,
+      "rpe": 8.5,
+      "date": "2025-12-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000161",
+      "weight": 35.2,
+      "reps": 10,
+      "rpe": 7,
+      "date": "2025-01-08T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000161",
+      "weight": 170.3,
+      "reps": 11,
+      "rpe": 9.5,
+      "date": "2025-02-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000161",
+      "weight": 78.0,
+      "reps": 6,
+      "rpe": 9.5,
+      "date": "2025-03-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000162",
+      "weight": 126.1,
+      "reps": 12,
+      "rpe": 8.5,
+      "date": "2025-10-16T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000162",
+      "weight": 201.7,
+      "reps": 8,
+      "rpe": 9.5,
+      "date": "2025-12-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000162",
+      "weight": 109.8,
+      "reps": 12,
+      "rpe": 9,
+      "date": "2025-01-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000162",
+      "weight": 135.2,
+      "reps": 4,
+      "rpe": 7.5,
+      "date": "2025-05-18T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000163",
+      "weight": 197.6,
+      "reps": 10,
+      "rpe": 7.5,
+      "date": "2025-10-18T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000165",
+      "weight": 141.9,
+      "reps": 6,
+      "rpe": 8.5,
+      "date": "2025-01-09T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000165",
+      "weight": 179.6,
+      "reps": 6,
+      "rpe": 8.5,
+      "date": "2025-12-03T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000166",
+      "weight": 100.4,
+      "reps": 6,
+      "rpe": 9,
+      "date": "2025-03-10T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000166",
+      "weight": 182.5,
+      "reps": 5,
+      "rpe": 8.5,
+      "date": "2025-08-27T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000167",
+      "weight": 173.1,
+      "reps": 1,
+      "rpe": null,
+      "date": "2025-04-07T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000167",
+      "weight": 178.9,
+      "reps": 6,
+      "rpe": 7.5,
+      "date": "2025-06-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000167",
+      "weight": 80.9,
+      "reps": 6,
+      "rpe": 7,
+      "date": "2025-05-22T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000168",
+      "weight": 111.6,
+      "reps": 10,
+      "rpe": 7.5,
+      "date": "2025-05-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000168",
+      "weight": 192.6,
+      "reps": 11,
+      "rpe": 7,
+      "date": "2025-04-03T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000168",
+      "weight": 187.4,
+      "reps": 3,
+      "rpe": 9.5,
+      "date": "2025-04-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000169",
+      "weight": 88.1,
+      "reps": 5,
+      "rpe": 7,
+      "date": "2025-07-10T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000169",
+      "weight": 94.8,
+      "reps": 5,
+      "rpe": 9,
+      "date": "2025-07-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000169",
+      "weight": 155.4,
+      "reps": 10,
+      "rpe": 8,
+      "date": "2025-05-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000170",
+      "weight": 71.4,
+      "reps": 3,
+      "rpe": 7.5,
+      "date": "2025-08-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000170",
+      "weight": 167.5,
+      "reps": 8,
+      "rpe": 9,
+      "date": "2025-01-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000171",
+      "weight": 182.2,
+      "reps": 10,
+      "rpe": 8.5,
+      "date": "2025-02-18T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000171",
+      "weight": 70.0,
+      "reps": 10,
+      "rpe": 7,
+      "date": "2025-01-10T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000173",
+      "weight": 200.4,
+      "reps": 6,
+      "rpe": null,
+      "date": "2025-02-16T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000173",
+      "weight": 185.1,
+      "reps": 1,
+      "rpe": 9,
+      "date": "2025-01-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000173",
+      "weight": 31.9,
+      "reps": 3,
+      "rpe": null,
+      "date": "2025-06-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000173",
+      "weight": 189.8,
+      "reps": 8,
+      "rpe": 8.5,
+      "date": "2025-03-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000175",
+      "weight": 112.1,
+      "reps": 1,
+      "rpe": 7.5,
+      "date": "2025-12-22T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000175",
+      "weight": 80.8,
+      "reps": 3,
+      "rpe": null,
+      "date": "2025-03-10T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000176",
+      "weight": 114.0,
+      "reps": 6,
+      "rpe": null,
+      "date": "2025-11-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000176",
+      "weight": 195.4,
+      "reps": 11,
+      "rpe": 8.5,
+      "date": "2025-05-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000176",
+      "weight": 196.5,
+      "reps": 1,
+      "rpe": null,
+      "date": "2025-12-06T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000176",
+      "weight": 129.3,
+      "reps": 10,
+      "rpe": 9.5,
+      "date": "2025-12-08T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000177",
+      "weight": 176.0,
+      "reps": 2,
+      "rpe": 8,
+      "date": "2025-08-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000178",
+      "weight": 217.5,
+      "reps": 6,
+      "rpe": 8.5,
+      "date": "2025-09-09T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000178",
+      "weight": 62.6,
+      "reps": 10,
+      "rpe": null,
+      "date": "2025-04-01T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000178",
+      "weight": 215.1,
+      "reps": 8,
+      "rpe": 7,
+      "date": "2025-07-10T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000179",
+      "weight": 188.8,
+      "reps": 3,
+      "rpe": 9.5,
+      "date": "2025-11-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000179",
+      "weight": 149.2,
+      "reps": 5,
+      "rpe": 9.5,
+      "date": "2025-04-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000179",
+      "weight": 173.5,
+      "reps": 12,
+      "rpe": 7,
+      "date": "2025-02-01T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000181",
+      "weight": 122.6,
+      "reps": 5,
+      "rpe": 9.5,
+      "date": "2025-12-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000181",
+      "weight": 164.0,
+      "reps": 5,
+      "rpe": 8,
+      "date": "2025-10-01T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000181",
+      "weight": 46.9,
+      "reps": 8,
+      "rpe": 7,
+      "date": "2025-12-10T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000181",
+      "weight": 22.2,
+      "reps": 10,
+      "rpe": null,
+      "date": "2025-08-16T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000182",
+      "weight": 195.9,
+      "reps": 8,
+      "rpe": 7.5,
+      "date": "2025-05-05T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000182",
+      "weight": 61.4,
+      "reps": 12,
+      "rpe": null,
+      "date": "2025-07-27T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000182",
+      "weight": 210.9,
+      "reps": 5,
+      "rpe": 7.5,
+      "date": "2025-10-26T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000182",
+      "weight": 49.9,
+      "reps": 5,
+      "rpe": 7.5,
+      "date": "2025-06-08T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000183",
+      "weight": 97.8,
+      "reps": 3,
+      "rpe": 8.5,
+      "date": "2025-04-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000183",
+      "weight": 78.4,
+      "reps": 6,
+      "rpe": 9.5,
+      "date": "2025-08-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000183",
+      "weight": 192.6,
+      "reps": 11,
+      "rpe": 9,
+      "date": "2025-04-22T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000183",
+      "weight": 210.6,
+      "reps": 8,
+      "rpe": 9.5,
+      "date": "2025-06-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000184",
+      "weight": 202.5,
+      "reps": 5,
+      "rpe": 7.5,
+      "date": "2025-03-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000185",
+      "weight": 80.7,
+      "reps": 9,
+      "rpe": 8.5,
+      "date": "2025-08-10T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000185",
+      "weight": 81.2,
+      "reps": 12,
+      "rpe": 7.5,
+      "date": "2025-06-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000185",
+      "weight": 212.9,
+      "reps": 4,
+      "rpe": 7,
+      "date": "2025-09-17T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000186",
+      "weight": 229.2,
+      "reps": 11,
+      "rpe": 7,
+      "date": "2025-11-19T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000187",
+      "weight": 128.9,
+      "reps": 9,
+      "rpe": 9,
+      "date": "2025-09-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000187",
+      "weight": 234.6,
+      "reps": 1,
+      "rpe": null,
+      "date": "2025-10-19T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000187",
+      "weight": 123.2,
+      "reps": 12,
+      "rpe": 7.5,
+      "date": "2025-05-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000188",
+      "weight": 35.6,
+      "reps": 2,
+      "rpe": null,
+      "date": "2025-06-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000189",
+      "weight": 218.2,
+      "reps": 1,
+      "rpe": 7.5,
+      "date": "2025-08-12T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000189",
+      "weight": 64.8,
+      "reps": 1,
+      "rpe": 8.5,
+      "date": "2025-01-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000189",
+      "weight": 189.4,
+      "reps": 11,
+      "rpe": null,
+      "date": "2025-12-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000190",
+      "weight": 76.2,
+      "reps": 7,
+      "rpe": null,
+      "date": "2025-03-18T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000190",
+      "weight": 127.1,
+      "reps": 10,
+      "rpe": 8.5,
+      "date": "2025-08-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000190",
+      "weight": 146.8,
+      "reps": 12,
+      "rpe": null,
+      "date": "2025-07-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000190",
+      "weight": 227.2,
+      "reps": 2,
+      "rpe": 9.5,
+      "date": "2025-10-28T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000191",
+      "weight": 125.0,
+      "reps": 5,
+      "rpe": null,
+      "date": "2025-06-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000191",
+      "weight": 149.2,
+      "reps": 11,
+      "rpe": 9,
+      "date": "2025-04-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000191",
+      "weight": 166.0,
+      "reps": 1,
+      "rpe": 9.5,
+      "date": "2025-07-07T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000191",
+      "weight": 62.0,
+      "reps": 4,
+      "rpe": 8.5,
+      "date": "2025-01-03T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000192",
+      "weight": 138.2,
+      "reps": 12,
+      "rpe": 8,
+      "date": "2025-01-09T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000192",
+      "weight": 216.9,
+      "reps": 12,
+      "rpe": 8.5,
+      "date": "2025-11-01T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000192",
+      "weight": 34.3,
+      "reps": 8,
+      "rpe": 9,
+      "date": "2025-02-26T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000193",
+      "weight": 190.3,
+      "reps": 8,
+      "rpe": 9.5,
+      "date": "2025-02-14T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000193",
+      "weight": 96.2,
+      "reps": 1,
+      "rpe": 8,
+      "date": "2025-01-27T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000193",
+      "weight": 37.5,
+      "reps": 12,
+      "rpe": 8.5,
+      "date": "2025-06-10T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000195",
+      "weight": 164.3,
+      "reps": 6,
+      "rpe": 9.5,
+      "date": "2025-12-13T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000195",
+      "weight": 163.5,
+      "reps": 6,
+      "rpe": 7,
+      "date": "2025-04-11T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000196",
+      "weight": 141.1,
+      "reps": 5,
+      "rpe": 8,
+      "date": "2025-08-10T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000196",
+      "weight": 173.0,
+      "reps": 8,
+      "rpe": 7.5,
+      "date": "2025-02-24T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000196",
+      "weight": 29.2,
+      "reps": 1,
+      "rpe": 8.5,
+      "date": "2025-11-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000196",
+      "weight": 180.2,
+      "reps": 9,
+      "rpe": 8,
+      "date": "2025-10-08T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000197",
+      "weight": 165.3,
+      "reps": 2,
+      "rpe": 9,
+      "date": "2025-10-27T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000197",
+      "weight": 204.0,
+      "reps": 7,
+      "rpe": 8.5,
+      "date": "2025-11-02T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000197",
+      "weight": 53.5,
+      "reps": 10,
+      "rpe": 7,
+      "date": "2025-04-04T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000198",
+      "weight": 174.3,
+      "reps": 8,
+      "rpe": 7.5,
+      "date": "2025-10-18T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000199",
+      "weight": 199.7,
+      "reps": 3,
+      "rpe": 8.5,
+      "date": "2025-03-07T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000200",
+      "weight": 176.3,
+      "reps": 9,
+      "rpe": 8,
+      "date": "2025-12-15T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000201",
+      "weight": 126.0,
+      "reps": 4,
+      "rpe": 8.5,
+      "date": "2025-11-21T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000202",
+      "weight": 123.6,
+      "reps": 11,
+      "rpe": 9,
+      "date": "2025-02-01T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000202",
+      "weight": 217.8,
+      "reps": 4,
+      "rpe": 9,
+      "date": "2025-05-23T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000202",
+      "weight": 203.1,
+      "reps": 12,
+      "rpe": 8,
+      "date": "2025-10-26T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000202",
+      "weight": 197.4,
+      "reps": 5,
+      "rpe": 9,
+      "date": "2025-02-25T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000203",
+      "weight": 214.3,
+      "reps": 12,
+      "rpe": 9.5,
+      "date": "2025-08-08T18:00:00"
+    },
+    {
+      "exercise_id": "ex-2025-000203",
+      "weight": 198.0,
+      "reps": 9,
+      "rpe": 7,
+      "date": "2025-04-17T18:00:00"
+    }
+  ],
+  "routines": {
+    "push": [
+      "ex-2025-000010",
+      "ex-2025-000025",
+      "ex-2025-000028",
+      "ex-2025-000029",
+      "ex-2025-000031",
+      "ex-2025-000032",
+      "ex-2025-000033",
+      "ex-2025-000036",
+      "ex-2025-000039",
+      "ex-2025-000046",
+      "ex-2025-000048",
+      "ex-2025-000053",
+      "ex-2025-000061",
+      "ex-2025-000063",
+      "ex-2025-000065",
+      "ex-2025-000066",
+      "ex-2025-000068",
+      "ex-2025-000071",
+      "ex-2025-000072",
+      "ex-2025-000077",
+      "ex-2025-000083",
+      "ex-2025-000085",
+      "ex-2025-000087",
+      "ex-2025-000091",
+      "ex-2025-000096",
+      "ex-2025-000098",
+      "ex-2025-000099",
+      "ex-2025-000100",
+      "ex-2025-000102",
+      "ex-2025-000111",
+      "ex-2025-000115",
+      "ex-2025-000118",
+      "ex-2025-000120",
+      "ex-2025-000122",
+      "ex-2025-000129",
+      "ex-2025-000130",
+      "ex-2025-000133",
+      "ex-2025-000134",
+      "ex-2025-000138",
+      "ex-2025-000140"
+    ],
+    "active": [
+      "ex-2025-000003",
+      "ex-2025-000008",
+      "ex-2025-000010",
+      "ex-2025-000011",
+      "ex-2025-000013",
+      "ex-2025-000014",
+      "ex-2025-000015",
+      "ex-2025-000019",
+      "ex-2025-000023",
+      "ex-2025-000025",
+      "ex-2025-000026",
+      "ex-2025-000029",
+      "ex-2025-000032",
+      "ex-2025-000038",
+      "ex-2025-000042",
+      "ex-2025-000044",
+      "ex-2025-000046",
+      "ex-2025-000047",
+      "ex-2025-000048",
+      "ex-2025-000053",
+      "ex-2025-000056",
+      "ex-2025-000058",
+      "ex-2025-000066",
+      "ex-2025-000068",
+      "ex-2025-000070",
+      "ex-2025-000072",
+      "ex-2025-000075",
+      "ex-2025-000077",
+      "ex-2025-000079",
+      "ex-2025-000080",
+      "ex-2025-000082",
+      "ex-2025-000084",
+      "ex-2025-000089",
+      "ex-2025-000092",
+      "ex-2025-000096",
+      "ex-2025-000097",
+      "ex-2025-000098",
+      "ex-2025-000104",
+      "ex-2025-000105",
+      "ex-2025-000106",
+      "ex-2025-000109",
+      "ex-2025-000110",
+      "ex-2025-000115",
+      "ex-2025-000120",
+      "ex-2025-000123",
+      "ex-2025-000128",
+      "ex-2025-000129",
+      "ex-2025-000134",
+      "ex-2025-000139",
+      "ex-2025-000143",
+      "ex-2025-000147",
+      "ex-2025-000149",
+      "ex-2025-000151",
+      "ex-2025-000152",
+      "ex-2025-000156",
+      "ex-2025-000157",
+      "ex-2025-000161",
+      "ex-2025-000162",
+      "ex-2025-000173",
+      "ex-2025-000175",
+      "ex-2025-000181",
+      "ex-2025-000182",
+      "ex-2025-000183",
+      "ex-2025-000189",
+      "ex-2025-000190",
+      "ex-2025-000191",
+      "ex-2025-000192",
+      "ex-2025-000193",
+      "ex-2025-000195",
+      "ex-2025-000196",
+      "ex-2025-000200"
+    ]
+  }
+}
